@@ -1,302 +1,625 @@
-[
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-23T04:00:00.000Z",
-    "endDate": "2025-01-23T07:00:00.000Z",
-    "url": "https://link.dice.fm/x26a97af7f83?dice_id=x26a97af7f83",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-20/a4284885-ca80-4e92-946b-d7300f75eba9.jpg?rect=84%2C0%2C1216%2C1216",
-    "name": "David Lynch: 'Wild At Heart' screening",
-    "about": "David Lynch: Wild At Heart screening\n\n\\*\\*\\*First come first served\\*\\*\\*",
-    "workingText": "Presented by Zed Cutsinger & Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-24T04:00:00.000Z",
-    "endDate": "2025-01-24T07:00:00.000Z",
-    "url": "https://link.dice.fm/H1c1ce25d5ee?dice_id=H1c1ce25d5ee",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-18/50346276-b206-4537-bdb2-7174c6584219.jpg?rect=259%2C0%2C780%2C780",
-    "name": "Walt Mcclements, Mary Lattimore (solo), Paul Corley &  jonsi (sigur ros) DJs",
-    "about": "**Walt Mcclements, Mary Lattimore (solo), DJs - Paul Corley & jonsi (Sigur Ros)**\n\n**Free Event - Donations accepted**\n\n**Walt McClements** is an accordionist and multi-instrumentalist based in Los Angeles. His compositions focus on processed accordion, creating patient and emotional meditations that nod to drone and ambient music. His latest record Rain on the Road, is a duo collaboration with the harpist Mary Lattimore.\n\nThrough evocative, emotionally resonant music, Goodbye, Hotel Arkada, the new LP from American harpist and composer **Mary Lattimore**, speaks not just for its beloved namesake — a hotel in Croatia facing renovation — but for a universal loss that is shared. Six sprawling pieces shaped by change; nothing will ever be the same, and here, the artist, evolving in synthesis, celebrates and mourns the tragedy and beauty of the ephemeral, all that is lived and lost to time. Documented and edited in uncharacteristically measured sessions over the course of two years, the material remains rooted in improvisation while glistening as the most refined and robust in Lattimore’s decade-long catalog. It finds her communing with friends, contemporaries, and longtime influences, in full stride yet slowing down to nurture songs in new ways. The cast includes Lol Tolhurst (The Cure), Meg Baird, Rachel Goswell (Slowdive), Roy Montgomery, Samara Lubelski, and Walt McClements.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-25T03:00:00.000Z",
-    "endDate": "2025-01-25T06:00:00.000Z",
-    "url": "https://link.dice.fm/pb2944a7575c?dice_id=pb2944a7575c",
-    "image": "https://dice-media.imgix.net/attachments/2024-09-17/00ae090d-b7e0-4c22-a603-3e03dbb2ee57.jpg?rect=483%2C0%2C2337%2C2337",
-    "name": "Elephant Stone, The Asteroid No.4, DJ Chris Robinson and DJ Brent Rademaker ",
-    "about": "**Elephant Stone, The Asteroid No.4**\n\n**DJ Chris Robinson (The Black Crowes) and DJ Brent Rademaker (Beachwood Sparks)**\n\nWith a remarkable journey spanning 15 years, Elephant Stone has established itself as a vanguard in the psych-pop universe. Under the inspired leadership of Rishi Dhir, the band has ceaselessly pushed the boundaries of musical storytelling. Fueled by Dhir's initial forays into music and elevated by his virtuosity on the sitar, Elephant Stone's compositions transcend mere melodies; they serve as profound meditations on loss, rebirth, and existential wonder.\n\nTheir 2009 Polaris Music Prize long-listed debut, \"The Seven Seas,\" was influenced by Dhir's spiritual travels in India. In 2010, \"The Glass Box\" EP showcased power pop vibes echoing Big Star. Their 2013 self-titled album brought psychedelic rock to the fore. \"The Three Poisons\" (2014) took a darker turn, influenced by Buddhist teachings. 2016 saw the synth-infused \"Ship of Fools,\" while \"Hollow\" (2020) depicted a world on edge. Their 2022 GAMIQ-winning French EP “Le Voyage de M. Lonely dans la Lune” mirrored our own pandemic-era reality. In 2024, \"Back Into the Dream\" offered a fantastical voyage through ethereal dreamscapes and introspective quests, further evolving their sound and narrative depth.\n\nIn celebration of their journey, the band is releasing a 15th anniversary deluxe edition of their debut album \"The Seven Seas,\" rekindling the magic that first captivated audiences.\n\nPraise from international critics and collaborations with industry giants such as Beck and The Brian Jonestown Massacre have affirmed Elephant Stone's standing as a unique powerhouse in musical creativity and emotional depth. Echoing this sentiment, Dhir insightfully remarks, \"As long as there's Rishi, there's Elephant Stone.\" Embark on an enthralling journey with them, where celestial visions and grounded realities converge in a captivating harmony.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-25T06:00:00.000Z",
-    "endDate": "2025-01-25T10:00:00.000Z",
-    "url": "https://link.dice.fm/t73644b309b8?dice_id=t73644b309b8",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-07/e2a9ea2b-3eff-4909-9b9e-b5904bbdf117.jpg?rect=0%2C293%2C912%2C912",
-    "name": "Josh Da Costa DJ Night ",
-    "about": "**Josh Da Costa DJ Night**\n\nBody Music, Assorted Disco, Goth/Industrial, House, Techno and Downtempo",
-    "workingText": "Presented by Ipsilon, LLC dba Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-25T19:00:00.000Z",
-    "endDate": "2025-01-26T01:00:00.000Z",
-    "url": "https://link.dice.fm/befc5b21bd96?dice_id=befc5b21bd96",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-13/c8684e6f-e242-4824-aad0-935d0ef5ac93.jpg?rect=0%2C29%2C2400%2C2400",
-    "name": "Brain Dead + AIAIAI present: A Benefit for the California Fire Fund",
-    "about": "Join us for an afternoon that brings the community together in support of those affected by the devastating fires in Los Angeles. Brain Dead and AIAIAI are proud to host an event featuring live performances by Knumears, Febuary, Sinema, and Kiowa, as well as a curated selection of local vendors.\n\nAll proceeds from this event will be donated to the California Fire Fund to provide direct assistance to those impacted by the fires. Your contribution will help support relief efforts and rebuild lives in our community.",
-    "workingText": "Presented by Brain Dead, LLC."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-26T06:00:00.000Z",
-    "endDate": "2025-01-26T10:00:00.000Z",
-    "url": "https://link.dice.fm/F81246025494?dice_id=F81246025494",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-07/b13125ae-03ce-4046-991a-dadb20e1f55b.jpg?rect=0%2C0%2C2592%2C2592",
-    "name": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party",
-    "about": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-27T02:30:00.000Z",
-    "endDate": "2025-01-27T07:00:00.000Z",
-    "url": "https://link.dice.fm/A750a6c8aabb?dice_id=A750a6c8aabb",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-28/205a9091-f124-40f0-8617-d84fe050435d.jpg?rect=0%2C0%2C1080%2C1080",
-    "name": "Stepping Stone presents: Downy Mildew, plus Fat, Evil Children",
-    "about": "Stepping Stone presents: **Downy Mildew**\n\nplus *Fat, Evil Children*",
-    "workingText": "Presented by Stepping Stone & Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-28T04:00:00.000Z",
-    "endDate": "2025-01-28T07:00:00.000Z",
-    "url": "https://link.dice.fm/N215b0ee5200?dice_id=N215b0ee5200",
-    "image": "https://dice-media.imgix.net/attachments/2024-11-21/d3a00986-bc1a-43c8-a68c-be0a127e4e1c.jpg?rect=0%2C500%2C3396%2C3396",
-    "name": "Hot Load, Sweat, Oog Bogo",
-    "about": "Hot Load Monday Night Residency\n\nSponsored by Open Beer\n\n- Hot Load\n- Sweat\n- Oog Bogo\n- TBA + 1\n\nDJ: Wicked Ladies\n\nCharity: Planned Parenthood\n\nFREE ($10 Suggested donation to charity at the door)",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-29T04:00:00.000Z",
-    "endDate": "2025-01-29T07:00:00.000Z",
-    "url": "https://link.dice.fm/i0cd6bd34447?dice_id=i0cd6bd34447",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-02/22bdf224-f4b2-46c9-8413-6e4d598c2019.jpg?rect=0%2C0%2C6000%2C6000",
-    "name": "Jeremiah Chiu, Yuka Honda, Monde UFO",
-    "about": "Jeremiah Chiu/ Yuka Honda/ Monde UFO\n\nDJ's DIMWIST + BURGERS\n\nJEREMIAH CHIU\n\nJeremiah Chiu is a Los Angeles-based artist, electronic music composer, graphic designer, educator, and community organizer. You've seen him shred with SML, you've seen him shred with Marta Sofia Honer, you've seen him shred with Celia Hollander, you've seen him shred with Dustin Wong, and you've seen him shred with Sam Prekop.\n\nCome see him shred solo live on the Zebulon stage!!\n\nYUKA HONDA\n\nYuka Honda is a NYC-based Japanese-American multi-instrumentalist. On top of collaborations with the likes of Nels Cline, Sean Lennon, Medeski Martin & Wood, Luscious Jackson, and more - she is a founder member of legendary 90's alternative band Cibo Matto.\n\nHer solo shows have centered on her animated sense of wonder through electronic experimentations. An aural sensation that moves you to be in the front row.\n\nMONDE UFO\n\nMonde UFO, LA-based astronauts are a monochromatic sunset for the senses. A sonic journey through cosmic psychedelia, jazz, and the other-side by way of Sun Ra, Spacemen 3 & Vanishing Twin.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-30T04:00:00.000Z",
-    "endDate": "2025-01-30T07:00:00.000Z",
-    "url": "https://link.dice.fm/P6f4a3b4e0ee?dice_id=P6f4a3b4e0ee",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-15/8e6b9831-6c0b-4744-b54b-ef17cac7d983.jpg?rect=0%2C300%2C2400%2C2400",
-    "name": "Expose Record Release, Bondo, Pocket Full of Crumbs",
-    "about": "Expose Record Release, Bondo, Pocket Full of Crumbs",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-01-31T03:00:00.000Z",
-    "endDate": "2025-01-31T07:00:00.000Z",
-    "url": "https://link.dice.fm/je5204b45aff?dice_id=je5204b45aff",
-    "image": "https://dice-media.imgix.net/attachments/2024-11-15/3d6b1f17-9d9b-4f5c-8e66-02dbcafde489.jpg?rect=0%2C375%2C1500%2C1500",
-    "name": "Mark Guiliana plays MARK",
-    "about": "**Mark Guiliana plays MARK**\n\nHailed by The New York Times as “a drummer around whom a cult of admiration has formed,” Grammy-nominated superstar drummer & composer Mark Guiliana brings an adventurous spirit, eclectic palette, and gift for spontaneous invention to a staggering range of styles. Equally virtuosic playing acoustic jazz, boundary-stretching electronic music, or next-level rock, he’s become a key collaborator with such original sonic thinkers as St. Vincent, Matt Cameron (Pearl Jam/Soundgarden), Brad Mehldau, M83, Meshell Ndegeocello, and the late, great David Bowie.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-01T03:00:00.000Z",
-    "endDate": "2025-02-01T06:00:00.000Z",
-    "url": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-19/6036bd09-57d2-4eb8-b861-ecabc4b35a7a.jpg?rect=154%2C0%2C1140%2C1140",
-    "name": "ÖLÜM, GROOP",
-    "about": "**ÖLÜM, GROOP**\n\nÖLÜM is LA’s newest and only anatolian rock group lead by frontman Aykut Ozen from Izmir. Bringing new life to timeless Turkish folk songs and tales in the quintessential classic rock manner with heavy seasonings that pay respect to their predecessors, the legends of Anatolia i.e. Erkin Koray, Baris Manço, and Mogollar, ÖLÜM have become Turkey’s latest and current torch bearers of the rock and roll radition by sheer consequence.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-01T06:00:00.000Z",
-    "endDate": "2025-02-01T10:00:00.000Z",
-    "url": "https://link.dice.fm/N7ec5afbf137?dice_id=N7ec5afbf137",
-    "image": "https://dice-media.imgix.net/attachments/2024-08-15/6b4aa5aa-0755-4575-938b-a4fc51e09dac.jpg?rect=0%2C0%2C1620%2C1620",
-    "name": "Kulture Klub - The '80s Dance Party",
-    "about": "Kulture Klub - The '80s Dance Party",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-02T03:00:00.000Z",
-    "endDate": "2025-02-02T06:00:00.000Z",
-    "url": "https://link.dice.fm/p7806e71e271?dice_id=p7806e71e271",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-07/03dfcacb-1dd3-43ab-b394-3a9bc05c2a4e.jpg?rect=0%2C0%2C1000%2C1000",
-    "name": "Will Worden, Phil Hollie, Ny Oh",
-    "about": "Will Worden Record Release Show, Phil Hollie, Ny Oh",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-02T06:00:00.000Z",
-    "endDate": "2025-02-02T10:00:00.000Z",
-    "url": "https://link.dice.fm/gbc39e810870?dice_id=gbc39e810870",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-07/cdb6e41c-3887-4d0b-bbe2-e4bb4580d734.jpg?rect=0%2C60%2C1080%2C1080",
-    "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
-    "about": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-04T03:00:00.000Z",
-    "endDate": "2025-02-04T07:00:00.000Z",
-    "url": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400",
-    "name": "Total Pleasure February Residency",
-    "about": "Altima Down presents:\n\nTotal Pleasure February Residency - Night One\n\n- Total Pleasure\n- Substance\n- Placeres\n- Blood stained concrete\n- Expulsada (DJ)",
-    "workingText": "Presented by Altima Down & Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-05T03:00:00.000Z",
-    "endDate": "2025-02-05T07:00:00.000Z",
-    "url": "https://link.dice.fm/I6445cb5b54d?dice_id=I6445cb5b54d",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-10/844757fd-faac-4743-8e4a-12263a959baf.jpg?rect=29%2C0%2C1863%2C1863",
-    "name": "Secret Chiefs 3, CNTS ",
-    "about": "**Secret Chiefs 3, CNTS**\n\nThe brainchild of Trey Spruance, best known as the guitarist for the legendary and infamous Mr. Bungle, Secret Chiefs 3 is an avant-garde band combining Middle Eastern-flavored experimental music, atmospheric soundscapes, death metal, and whatever else comes to Spruance’s venturesome mind. Along with Mr. Bungle bandmates Trevor Dunn on bass and Danny Heifetz on drums, the band released their debut album, First Grand Constitution and Bylaws, in 1996. Their subsequent recordings and tours have featured multifarious lineups",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-06T04:00:00.000Z",
-    "endDate": "2025-02-06T07:00:00.000Z",
-    "url": "https://link.dice.fm/kef43278e999?dice_id=kef43278e999",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-02/9adf753e-7fc5-4e8b-9dc9-008b4c4a47de.jpg?rect=0%2C5%2C897%2C897",
-    "name": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace",
-    "about": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace",
-    "workingText": "Presented by Little Cloud Records &  Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-07T04:00:00.000Z",
-    "endDate": "2025-02-07T07:00:00.000Z",
-    "url": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-05/97d2e121-21f2-472a-95fe-0f7efefd5c46.jpg?rect=0%2C51%2C1401%2C1401",
-    "name": "Shane Parish, Barry Archie Johnson, Paul Lai ",
-    "about": "**Shane Parish, Barry Archie Johnson, Paul Lai**\n\nShane Parish – the virtuosic self-taught guitarist from Athens, Georgia – visits Zebulon for a night of acoustic guitar at a free show also featuring L.A.’s Barry Archie Johnson.\n\nAthens, Georgia-based guitarist Shane Parish devotes his days to developing his singular and expressive musicianship. A self-taught musician, he is known for his orchestral finger-style solo arrangements, for his intense and intricate electric playing in the avant-rock band Ahleuchatistas, and as a member of the Bill Orcutt Guitar Quartet. His music is a fluid synthesis of many traditions, ceaselessly pushing the edges as it aims for the future. Over the years, he has released albums on labels such as Tzadik Records, Palilalia Records, Cuneiform Records, and International Anthem.\n\n“Shane Parish is a relentless interpreter. The guitarist's catalog is full of folk songs, sea shanties and the Chet Baker Sings album thoughtfully and playfully mangled. (Parish also notated and arranged Bill Orcutt's Music for Four Guitars for, well, four guitars — their Tiny Desk is raucously joyful.)”\n\n—Lars Gotrich, NPR\n\n“In the spirit of solo acoustic guitarists like John Renbourn and Bert Jansch, or American Primitivists John Fahey and Robbie Basho, Parish reinterprets canons, with a focus on a motley crew of titans of the last century: Ornette Coleman, Minutemen, Alice Coltrane, Charles Mingus, Apex Twin, Kraftwerk, Sun Ra, Roland Kirk, John Cage, and Fred Rogers.”\n\n—Repressed Records\n\n“As an arranger and transcriber, Shane has incredible attention to detail and a devotion to get it right. As a performer and improvisor, he’s passionate and has terrific drive and charisma. On stage, he’s impossible not to like.”\n\n—Bill Orcutt, quoted in Flagpole Magazine (Athens, GA)\n\nPaul Lai is best known as the guitarist and leader of Upsilon Acrux- one of Southern California's most storied and intense instrumental groups and a key proponent of an incredibly intricate, rigorous evolution of rock/prog/jazz music. He recently returned after a 5.5 year sojourn in Taipei, Taiwan – where he formed the group (Z)erpents and advanced his work in the city’s vibrant music underground.\n\nHis solo guitarwork is known as \"Scissortronics\" and has performed frequently in Taipei and Los Angeles with butoh dancer(s) and in group formats w/ Patrick Shiroishi, Dylan Fujioki, Mark Kimbrell and Heldon among others.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-08T06:00:00.000Z",
-    "endDate": "2025-02-08T10:00:00.000Z",
-    "url": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
-    "image": "https://dice-media.imgix.net/attachments/2024-11-25/cea7d840-7070-4432-817b-1e9994941149.jpg?rect=396%2C0%2C2508%2C2508",
-    "name": "Dance Till You're Dead - the Indie Sleaze Dance Party",
-    "about": "Dance Till You're Dead - the Indie Sleaze Dance Party with DJ Goth Receptionist",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-09T04:00:00.000Z",
-    "endDate": "2025-02-09T07:00:00.000Z",
-    "url": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-17/a717d7f1-0078-4f0b-be1a-c8e3bccf5106.jpg?rect=0%2C281%2C2245%2C2245",
-    "name": "Rocket, Draag, RAM & DJ Silversun Pickups",
-    "about": "**Rocket, Draag, RAM & DJ Silversun Pickups**\n\npresented by Crap Eyewear LA & Stereogum with proceeds donated to California Community Foundation's Wildfire Recovery Fund",
-    "workingText": "Presented by  Crap Eyewear & Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-09T06:00:00.000Z",
-    "endDate": "2025-02-09T10:00:00.000Z",
-    "url": "https://link.dice.fm/dac119738b1b?dice_id=dac119738b1b",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-12/88968fec-630d-4c3f-82f9-64bb5da73bbf.jpg?rect=0%2C135%2C1080%2C1080",
-    "name": "The Jump Off Dance Party",
-    "about": "The Jump Off Dance Party\n\nwith DJs Soulchild Seb, Nativity\n\nAn All Vinyl Affair",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-10T04:00:00.000Z",
-    "endDate": "2025-02-10T07:00:00.000Z",
-    "url": "https://link.dice.fm/bf5db75699e0?dice_id=bf5db75699e0",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-03/8edb89f8-16db-49a9-a210-5b26104dd713.jpg?rect=0%2C0%2C1021%2C1021",
-    "name": "Mercedes Kilmer, Sam Buck, John Errol",
-    "about": "Mercedes Kilmer\n\nSam Buck\n\nJohn Errol",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-11T03:00:00.000Z",
-    "endDate": "2025-02-11T07:00:00.000Z",
-    "url": "https://link.dice.fm/Mbea09f5e3b4?dice_id=Mbea09f5e3b4",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400",
-    "name": "Total Pleasure February Residency",
-    "about": "Altima Down presents:\n\nTotal Pleasure February Residency - Night Two\n\n- Past self\n- Total Pleasure\n- Friction\n- Pink depression\n- Miñin (DJ)",
-    "workingText": "Presented by Altima Down & Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-13T04:00:00.000Z",
-    "endDate": "2025-02-13T07:00:00.000Z",
-    "url": "https://link.dice.fm/B1545275e1d9?dice_id=B1545275e1d9",
-    "image": "https://dice-media.imgix.net/attachments/2024-12-30/d82877c1-5e92-4b13-8e18-aece81187dae.jpg?rect=677%2C0%2C2707%2C2707",
-    "name": "AMAYO  formerly of Antibalas (Solo Album Release Party), Tommy Brenneck DJ",
-    "about": "**AMAYO**\n\n**formerly of Antibalas**\n\n**Solo Album Release Party**\n\n**\"Lion Awakes\" Lunar New Year celebration!**\n\n**Tommy Brenneck DJ**\n\nAmayo, the Grammy-nominated former frontman of Antibalas, announces a special record release show for his debut solo album, Lion Awakes, at Zebulon LA on February 12th, 2025.\n\nLion Awakes, out January 17, captures Amayo’s unique fusion of Afrobeat, martial arts philosophy, and Nigerian cultural heritage. The Zebulon LA performance will mark the first time these transformative tracks, including the lead single “Black Magic Sister,” will be performed live on the West Coast in their completed form.\n\nLion Awakes draws inspiration from Amayo’s training as a Kung Fu Lion Dancer and his Nigerian Edo roots, blending myth and reality into a sonic journey that uplifts and inspires.\n\n\"Amayo\" means \"If you don't go, you never know\" in the Edo language of Nigeria.\n\nThis one-night-only event will feature an all-star lineup of musicians, including former Antibalas members Raja Kassis on guitar, Giancarlo Luiggi on shekere, and Ray Mason on trombone, as well as a roster of celebrated artists like Tosin Aribisala on drums. The 8-piece ensemble will channel the Afrobeat magic and dynamic spirit that have defined Amayo’s illustrious career.\n\nLion Awakes was composed by Amayo, who is the featured lead vocalist and also performs on piano, Farfisa and Gbedu Spirit Drum. Amayo sings throughout the album in Yoruba, Edo, pidgin English and Cantonese. The recording features a host of musicians that Amayo has collaborated with over the past two decades, including members of the Dap-Kings, Antibalas, and recorded/produced by Los Angeles-based Thomas Brenneck (Dap-Kings, Menahan Street Band, Amy Winehouse, Beyonce and Jay-Z) at his Diamond West studios.\n\nAmayo’s music has been featured in Rolling Stone, Pitchfork, the LA Times, the New York Times, Wall Street Journal, NPR and he has appeared on NPR’s Tiny Desk, Jimmy Kimmel Live! and The Tonight Show to name a few. As a member of Antibalas and as a solo performer, Amayo has performed across the globe, on the world’s finest stages and at the finest festivals. His final project with Antibalas - Fu Chronicles - earned a GRAMMY nomination for Best Global Music Album in 2020.\n\nRaised in Nigeria, Amayo came to America to attend Howard University on a football scholarship at age 17 and majored in medical illustration. He eventually moved to Brooklyn, where he joined Antibalas, part of a fertile and influential creative community of musicians and friends in Williamsburg that would also form The Dap-Kings and TV On The Radio. Amayo recorded 9 full-length albums with Antibalas & performed 2000+ shows across five continents including four times at Carnegie Hall.\n\nHe also directed the Antibalas music video for “Fight Am Finish” on location in Nigeria & NYC, about an African American returning home via the slave route. 2020’s Grammy-nominated Fu Chronicles was conceptualized and composed by Amayo; he also hand-illustrated the cover artwork. With a move across the country and the birth of his second child during the pandemic, Amayo decided to branch out on his solo career, one dedicated to his rich Nigerian heritage and Chinese martial arts teachings.\n\nAmayo’s unique blend of styles creates a magical landscape of Chinese & African rhythms. Amayo’s songs guide people through Kung Fu movements and stories of the Nigerian Edo & Ife Kingdoms.\n\nAs an anointed Orisha “Awo,” Amayo sings traditional Nigerian spirituals and stories that have been passed down in a sacred lineage. Amayo is a senior master (Sifu) of the Jow Ga Kung Fu School of martial arts and performs traditional Chinese Lion Dance as a salutation ritual to begin his stage performances to bring good fortune to the audience.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-14T04:00:00.000Z",
-    "endDate": "2025-02-14T07:00:00.000Z",
-    "url": "https://link.dice.fm/T94ad869f5d0?dice_id=T94ad869f5d0",
-    "image": "https://dice-media.imgix.net/attachments/2024-11-21/dcfdca7b-6019-4317-9cf7-beb9920c670a.jpg?rect=0%2C21%2C1200%2C1200",
-    "name": "Kidsnot$aints., Ebony Loren ",
-    "about": "**Kidsnot$aints., Ebony Loren**\n\nKidsnot$aints., a genre-defying modern boyband, is making waves with their unique sound and heartfelt storytelling. Known for standout singles like \"Love, Always\" and \"60's Baby,\" the trio seamlessly blends influences from indie rock, shoegaze, and even western soundscapes. Their versatility and emotional depth shine through on their latest EP, Ms. Velveteen, which explores themes of longing, love, and self-discovery. The band is set to make their highly anticipated headlining debut in Los Angeles, perfectly timed for Valentine's Day—a fitting occasion for a group whose music resonates with lovesick hearts everywhere.",
-    "workingText": "Presented by Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-15T03:00:00.000Z",
-    "endDate": "2025-02-15T06:00:00.000Z",
-    "url": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
-    "image": "https://dice-media.imgix.net/attachments/2024-10-15/2d63f3e2-c6ca-4fe6-8437-d3f4cc1ce1e5.jpg?rect=0%2C0%2C1080%2C1080",
-    "name": "Lomelda + Tomberlin",
-    "about": "Sid The Cat Presents\n\nLomelda + Tomberlin\n\nW/ Greg Mendez\n\n2/14/2025 at Zebulon\n\n21+\n\nTomberlin is Sarah Beth Tomberlin, a pastor’s kid born in Florida, raised in rural Illinois. She wrote the majority of her debut, At Weddings (2018), while living at home. For a while after leaving home and church, she lived in Louisville, Kentucky. She worked a day job and kept writing songs. She posted some of these songs to Bandcamp, which led to her signing a record deal with Saddle Creek. It all happened fast: Less than a year after her first live show, she performed on Jimmy Kimmel and she ended up moving to L.A. which is where she wrote Projections (2020), her EP followup to At Weddings.\n\n—\n\nLomelda is Hannah Read's musical project. In swampy, sweaty, Silsbee, TX, she first formed the band with her high school best friends. Throughout the next decade, Lomelda mad a habit out of stretching to fit new friendships and shrinking down to solo strummings. Four albums and a never-the-same live show chronicle these shifts in shape and sound.\n\nLomelda's fifth album is called Hannah. The album stretches and shrinks into many of Lomelda's different forms, from expansive \"Wonder\" and rock band \"Reach\" to meandering \"Stranger Sat By Me\" and finger picking \"It's Infinite.\" Through this range of moods, Hannah sings stories of strangers, suns, dogs, moms, brothers, favorite bands, \"oh god!\"s and big shots as well as herself, by name. She rejoices and reviles her god-given name and then flips it around to name herself Hannah once again. It is an album of confession and transformation made ultimately singable.",
-    "workingText": "Presented by Sid The Cat."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-16T03:00:00.000Z",
-    "endDate": "2025-02-16T06:00:00.000Z",
-    "url": "https://link.dice.fm/Mf0406649a09?dice_id=Mf0406649a09",
-    "image": "https://dice-media.imgix.net/attachments/2025-01-15/8acfd11e-7741-4f63-9aa7-69515eb623e0.jpg?rect=228%2C0%2C768%2C768",
-    "name": "Ryosuke Kiyasu, Lucas Granpa Abela, Ted Byrnes, Law",
-    "about": "An evening of extreme sound and performance featuring two astonishing artists from across the Pacific, and some from right here at a gig pulled by UPEND\n\nThe Japanese snare drum soloist 🥁 RYOSUKE KIYASU🥁 rips and thrashes, pushing limits of what can be improvised with a couple of drumsticks, a snare, a mic, and a table. Amidst cathartic whole-body maneuvers, he can just as easily issue a flurry of rolls and virtuosic high velocity click-clack on the rims, or in turn growl right into the heads, or even take the party to the floor for some scrape and drag.\n\nAND\n\nLongtime globe travelling DIY-lifer LUCAS ‘GRANPA’ ABELA (fka Justice Yeldham) also pushes the boundaries and also pushes a large shard of glass into his face and against his mouth, playing it as an electroacoustic instrument, these days feeding the signal into a an array of modular chaos. Might there be blood?\n\nPLUS a couple actions from L.A zones: Percussionist TED BYRNES throwing metal around, and LAW – the duo of L. Coats and Jonah Bergman - folding primitive folk instrumentation right into the harsh.",
-    "workingText": "Presented by UPEND and Zebulon"
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-16T06:00:00.000Z",
-    "endDate": "2025-02-16T10:00:00.000Z",
-    "url": "https://link.dice.fm/H075ecda6915?dice_id=H075ecda6915",
-    "image": "https://dice-media.imgix.net/attachments/2023-12-28/0b2b0fb6-cbcc-4d0a-8df1-08b246774595.jpg?rect=216%2C0%2C768%2C768",
-    "name": "Reverberation Radio DJ Night ",
-    "about": "**Reverberation Radio DJ Night**\n\nTropical boogie, international disco and other spaced out dance floor favs from the 70s",
-    "workingText": "Presented by Ipsilon, LLC dba Zebulon."
-  },
-  {
-    "type": "MusicEvent",
-    "startDate": "2025-02-17T04:00:00.000Z",
-    "endDate": "2025-02-17T07:00:00.000Z",
-    "url": "https://link.dice.fm/Dcdaabbb07ab?dice_id=Dcdaabbb07ab",
-    "image": "https://dice-media.imgix.net/attachments/2024-10-17/5916e399-3666-4243-ad77-a8374ab5b530.jpg?rect=149%2C0%2C1202%2C1202",
-    "name": "The Slaps, Hemlock ",
-    "about": "**The Slaps, Hemlock**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live.",
-    "workingText": "Presented by Zebulon."
-  }
-]
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-23T04:00:00.000Z",
+      "endDate": "2025-01-23T07:00:00.000Z",
+      "@id": "https://link.dice.fm/x26a97af7f83?dice_id=x26a97af7f83",
+      "url": "https://link.dice.fm/x26a97af7f83?dice_id=x26a97af7f83",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-20/a4284885-ca80-4e92-946b-d7300f75eba9.jpg?rect=84%2C0%2C1216%2C1216"
+      },
+      "name": "David Lynch: 'Wild At Heart' screening",
+      "description": "David Lynch: Wild At Heart screening\n\n\\*\\*\\*First come first served\\*\\*\\*"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-24T04:00:00.000Z",
+      "endDate": "2025-01-24T07:00:00.000Z",
+      "@id": "https://link.dice.fm/H1c1ce25d5ee?dice_id=H1c1ce25d5ee",
+      "url": "https://link.dice.fm/H1c1ce25d5ee?dice_id=H1c1ce25d5ee",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-18/50346276-b206-4537-bdb2-7174c6584219.jpg?rect=259%2C0%2C780%2C780"
+      },
+      "name": "Walt Mcclements, Mary Lattimore (solo), Paul Corley &  jonsi (sigur ros) DJs",
+      "description": "**Walt Mcclements, Mary Lattimore (solo), DJs - Paul Corley & jonsi (Sigur Ros)**\n\n**Free Event - Donations accepted**\n\n**Walt McClements** is an accordionist and multi-instrumentalist based in Los Angeles. His compositions focus on processed accordion, creating patient and emotional meditations that nod to drone and ambient music. His latest record Rain on the Road, is a duo collaboration with the harpist Mary Lattimore.\n\nThrough evocative, emotionally resonant music, Goodbye, Hotel Arkada, the new LP from American harpist and composer **Mary Lattimore**, speaks not just for its beloved namesake — a hotel in Croatia facing renovation — but for a universal loss that is shared. Six sprawling pieces shaped by change; nothing will ever be the same, and here, the artist, evolving in synthesis, celebrates and mourns the tragedy and beauty of the ephemeral, all that is lived and lost to time. Documented and edited in uncharacteristically measured sessions over the course of two years, the material remains rooted in improvisation while glistening as the most refined and robust in Lattimore’s decade-long catalog. It finds her communing with friends, contemporaries, and longtime influences, in full stride yet slowing down to nurture songs in new ways. The cast includes Lol Tolhurst (The Cure), Meg Baird, Rachel Goswell (Slowdive), Roy Montgomery, Samara Lubelski, and Walt McClements."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-25T03:00:00.000Z",
+      "endDate": "2025-01-25T06:00:00.000Z",
+      "@id": "https://link.dice.fm/pb2944a7575c?dice_id=pb2944a7575c",
+      "url": "https://link.dice.fm/pb2944a7575c?dice_id=pb2944a7575c",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-09-17/00ae090d-b7e0-4c22-a603-3e03dbb2ee57.jpg?rect=483%2C0%2C2337%2C2337"
+      },
+      "name": "Elephant Stone, The Asteroid No.4, DJ Chris Robinson and DJ Brent Rademaker ",
+      "description": "**Elephant Stone, The Asteroid No.4**\n\n**DJ Chris Robinson (The Black Crowes) and DJ Brent Rademaker (Beachwood Sparks)**\n\nWith a remarkable journey spanning 15 years, Elephant Stone has established itself as a vanguard in the psych-pop universe. Under the inspired leadership of Rishi Dhir, the band has ceaselessly pushed the boundaries of musical storytelling. Fueled by Dhir's initial forays into music and elevated by his virtuosity on the sitar, Elephant Stone's compositions transcend mere melodies; they serve as profound meditations on loss, rebirth, and existential wonder.\n\nTheir 2009 Polaris Music Prize long-listed debut, \"The Seven Seas,\" was influenced by Dhir's spiritual travels in India. In 2010, \"The Glass Box\" EP showcased power pop vibes echoing Big Star. Their 2013 self-titled album brought psychedelic rock to the fore. \"The Three Poisons\" (2014) took a darker turn, influenced by Buddhist teachings. 2016 saw the synth-infused \"Ship of Fools,\" while \"Hollow\" (2020) depicted a world on edge. Their 2022 GAMIQ-winning French EP “Le Voyage de M. Lonely dans la Lune” mirrored our own pandemic-era reality. In 2024, \"Back Into the Dream\" offered a fantastical voyage through ethereal dreamscapes and introspective quests, further evolving their sound and narrative depth.\n\nIn celebration of their journey, the band is releasing a 15th anniversary deluxe edition of their debut album \"The Seven Seas,\" rekindling the magic that first captivated audiences.\n\nPraise from international critics and collaborations with industry giants such as Beck and The Brian Jonestown Massacre have affirmed Elephant Stone's standing as a unique powerhouse in musical creativity and emotional depth. Echoing this sentiment, Dhir insightfully remarks, \"As long as there's Rishi, there's Elephant Stone.\" Embark on an enthralling journey with them, where celestial visions and grounded realities converge in a captivating harmony."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-25T06:00:00.000Z",
+      "endDate": "2025-01-25T10:00:00.000Z",
+      "@id": "https://link.dice.fm/t73644b309b8?dice_id=t73644b309b8",
+      "url": "https://link.dice.fm/t73644b309b8?dice_id=t73644b309b8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-07/e2a9ea2b-3eff-4909-9b9e-b5904bbdf117.jpg?rect=0%2C293%2C912%2C912"
+      },
+      "name": "Josh Da Costa DJ Night ",
+      "description": "**Josh Da Costa DJ Night**\n\nBody Music, Assorted Disco, Goth/Industrial, House, Techno and Downtempo"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-25T19:00:00.000Z",
+      "endDate": "2025-01-26T01:00:00.000Z",
+      "@id": "https://link.dice.fm/befc5b21bd96?dice_id=befc5b21bd96",
+      "url": "https://link.dice.fm/befc5b21bd96?dice_id=befc5b21bd96",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-13/c8684e6f-e242-4824-aad0-935d0ef5ac93.jpg?rect=0%2C29%2C2400%2C2400"
+      },
+      "name": "Brain Dead + AIAIAI present: A Benefit for the California Fire Fund",
+      "description": "Join us for an afternoon that brings the community together in support of those affected by the devastating fires in Los Angeles. Brain Dead and AIAIAI are proud to host an event featuring live performances by Knumears, Febuary, Sinema, and Kiowa, as well as a curated selection of local vendors.\n\nAll proceeds from this event will be donated to the California Fire Fund to provide direct assistance to those impacted by the fires. Your contribution will help support relief efforts and rebuild lives in our community."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-26T06:00:00.000Z",
+      "endDate": "2025-01-26T10:00:00.000Z",
+      "@id": "https://link.dice.fm/F81246025494?dice_id=F81246025494",
+      "url": "https://link.dice.fm/F81246025494?dice_id=F81246025494",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-07/b13125ae-03ce-4046-991a-dadb20e1f55b.jpg?rect=0%2C0%2C2592%2C2592"
+      },
+      "name": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party",
+      "description": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-27T02:30:00.000Z",
+      "endDate": "2025-01-27T07:00:00.000Z",
+      "@id": "https://link.dice.fm/A750a6c8aabb?dice_id=A750a6c8aabb",
+      "url": "https://link.dice.fm/A750a6c8aabb?dice_id=A750a6c8aabb",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-28/205a9091-f124-40f0-8617-d84fe050435d.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Stepping Stone presents: Downy Mildew, plus Fat, Evil Children",
+      "description": "Stepping Stone presents: **Downy Mildew**\n\nplus *Fat, Evil Children*"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-28T04:00:00.000Z",
+      "endDate": "2025-01-28T07:00:00.000Z",
+      "@id": "https://link.dice.fm/N215b0ee5200?dice_id=N215b0ee5200",
+      "url": "https://link.dice.fm/N215b0ee5200?dice_id=N215b0ee5200",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-21/d3a00986-bc1a-43c8-a68c-be0a127e4e1c.jpg?rect=0%2C500%2C3396%2C3396"
+      },
+      "name": "Hot Load, Sweat, Oog Bogo",
+      "description": "Hot Load Monday Night Residency\n\nSponsored by Open Beer\n\n- Hot Load\n- Sweat\n- Oog Bogo\n- TBA + 1\n\nDJ: Wicked Ladies\n\nCharity: Planned Parenthood\n\nFREE ($10 Suggested donation to charity at the door)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-29T04:00:00.000Z",
+      "endDate": "2025-01-29T07:00:00.000Z",
+      "@id": "https://link.dice.fm/i0cd6bd34447?dice_id=i0cd6bd34447",
+      "url": "https://link.dice.fm/i0cd6bd34447?dice_id=i0cd6bd34447",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-02/22bdf224-f4b2-46c9-8413-6e4d598c2019.jpg?rect=0%2C0%2C6000%2C6000"
+      },
+      "name": "Jeremiah Chiu, Yuka Honda, Monde UFO",
+      "description": "Jeremiah Chiu/ Yuka Honda/ Monde UFO\n\nDJ's DIMWIST + BURGERS\n\nJEREMIAH CHIU\n\nJeremiah Chiu is a Los Angeles-based artist, electronic music composer, graphic designer, educator, and community organizer. You've seen him shred with SML, you've seen him shred with Marta Sofia Honer, you've seen him shred with Celia Hollander, you've seen him shred with Dustin Wong, and you've seen him shred with Sam Prekop.\n\nCome see him shred solo live on the Zebulon stage!!\n\nYUKA HONDA\n\nYuka Honda is a NYC-based Japanese-American multi-instrumentalist. On top of collaborations with the likes of Nels Cline, Sean Lennon, Medeski Martin & Wood, Luscious Jackson, and more - she is a founder member of legendary 90's alternative band Cibo Matto.\n\nHer solo shows have centered on her animated sense of wonder through electronic experimentations. An aural sensation that moves you to be in the front row.\n\nMONDE UFO\n\nMonde UFO, LA-based astronauts are a monochromatic sunset for the senses. A sonic journey through cosmic psychedelia, jazz, and the other-side by way of Sun Ra, Spacemen 3 & Vanishing Twin."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-30T04:00:00.000Z",
+      "endDate": "2025-01-30T07:00:00.000Z",
+      "@id": "https://link.dice.fm/P6f4a3b4e0ee?dice_id=P6f4a3b4e0ee",
+      "url": "https://link.dice.fm/P6f4a3b4e0ee?dice_id=P6f4a3b4e0ee",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-15/8e6b9831-6c0b-4744-b54b-ef17cac7d983.jpg?rect=0%2C300%2C2400%2C2400"
+      },
+      "name": "Expose Record Release, Bondo, Pocket Full of Crumbs",
+      "description": "Expose Record Release, Bondo, Pocket Full of Crumbs"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-01-31T03:00:00.000Z",
+      "endDate": "2025-01-31T07:00:00.000Z",
+      "@id": "https://link.dice.fm/je5204b45aff?dice_id=je5204b45aff",
+      "url": "https://link.dice.fm/je5204b45aff?dice_id=je5204b45aff",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-15/3d6b1f17-9d9b-4f5c-8e66-02dbcafde489.jpg?rect=0%2C375%2C1500%2C1500"
+      },
+      "name": "Mark Guiliana plays MARK",
+      "description": "**Mark Guiliana plays MARK**\n\nHailed by The New York Times as “a drummer around whom a cult of admiration has formed,” Grammy-nominated superstar drummer & composer Mark Guiliana brings an adventurous spirit, eclectic palette, and gift for spontaneous invention to a staggering range of styles. Equally virtuosic playing acoustic jazz, boundary-stretching electronic music, or next-level rock, he’s become a key collaborator with such original sonic thinkers as St. Vincent, Matt Cameron (Pearl Jam/Soundgarden), Brad Mehldau, M83, Meshell Ndegeocello, and the late, great David Bowie."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-01T03:00:00.000Z",
+      "endDate": "2025-02-01T06:00:00.000Z",
+      "@id": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
+      "url": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-19/6036bd09-57d2-4eb8-b861-ecabc4b35a7a.jpg?rect=154%2C0%2C1140%2C1140"
+      },
+      "name": "ÖLÜM, GROOP",
+      "description": "**ÖLÜM, GROOP**\n\nÖLÜM is LA’s newest and only anatolian rock group lead by frontman Aykut Ozen from Izmir. Bringing new life to timeless Turkish folk songs and tales in the quintessential classic rock manner with heavy seasonings that pay respect to their predecessors, the legends of Anatolia i.e. Erkin Koray, Baris Manço, and Mogollar, ÖLÜM have become Turkey’s latest and current torch bearers of the rock and roll radition by sheer consequence."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-01T06:00:00.000Z",
+      "endDate": "2025-02-01T10:00:00.000Z",
+      "@id": "https://link.dice.fm/N7ec5afbf137?dice_id=N7ec5afbf137",
+      "url": "https://link.dice.fm/N7ec5afbf137?dice_id=N7ec5afbf137",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-08-15/6b4aa5aa-0755-4575-938b-a4fc51e09dac.jpg?rect=0%2C0%2C1620%2C1620"
+      },
+      "name": "Kulture Klub - The '80s Dance Party",
+      "description": "Kulture Klub - The '80s Dance Party"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-02T03:00:00.000Z",
+      "endDate": "2025-02-02T06:00:00.000Z",
+      "@id": "https://link.dice.fm/p7806e71e271?dice_id=p7806e71e271",
+      "url": "https://link.dice.fm/p7806e71e271?dice_id=p7806e71e271",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-07/03dfcacb-1dd3-43ab-b394-3a9bc05c2a4e.jpg?rect=0%2C0%2C1000%2C1000"
+      },
+      "name": "Will Worden, Phil Hollie, Ny Oh",
+      "description": "Will Worden Record Release Show, Phil Hollie, Ny Oh"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-02T06:00:00.000Z",
+      "endDate": "2025-02-02T10:00:00.000Z",
+      "@id": "https://link.dice.fm/gbc39e810870?dice_id=gbc39e810870",
+      "url": "https://link.dice.fm/gbc39e810870?dice_id=gbc39e810870",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-07/cdb6e41c-3887-4d0b-bbe2-e4bb4580d734.jpg?rect=0%2C60%2C1080%2C1080"
+      },
+      "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
+      "description": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-04T03:00:00.000Z",
+      "endDate": "2025-02-04T07:00:00.000Z",
+      "@id": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
+      "url": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
+      },
+      "name": "Total Pleasure February Residency",
+      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night One\n\n- Total Pleasure\n- Substance\n- Placeres\n- Blood stained concrete\n- Expulsada (DJ)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-05T03:00:00.000Z",
+      "endDate": "2025-02-05T07:00:00.000Z",
+      "@id": "https://link.dice.fm/I6445cb5b54d?dice_id=I6445cb5b54d",
+      "url": "https://link.dice.fm/I6445cb5b54d?dice_id=I6445cb5b54d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-10/844757fd-faac-4743-8e4a-12263a959baf.jpg?rect=29%2C0%2C1863%2C1863"
+      },
+      "name": "Secret Chiefs 3, CNTS ",
+      "description": "**Secret Chiefs 3, CNTS**\n\nThe brainchild of Trey Spruance, best known as the guitarist for the legendary and infamous Mr. Bungle, Secret Chiefs 3 is an avant-garde band combining Middle Eastern-flavored experimental music, atmospheric soundscapes, death metal, and whatever else comes to Spruance’s venturesome mind. Along with Mr. Bungle bandmates Trevor Dunn on bass and Danny Heifetz on drums, the band released their debut album, First Grand Constitution and Bylaws, in 1996. Their subsequent recordings and tours have featured multifarious lineups"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-06T04:00:00.000Z",
+      "endDate": "2025-02-06T07:00:00.000Z",
+      "@id": "https://link.dice.fm/kef43278e999?dice_id=kef43278e999",
+      "url": "https://link.dice.fm/kef43278e999?dice_id=kef43278e999",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-02/9adf753e-7fc5-4e8b-9dc9-008b4c4a47de.jpg?rect=0%2C5%2C897%2C897"
+      },
+      "name": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace",
+      "description": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-07T04:00:00.000Z",
+      "endDate": "2025-02-07T07:00:00.000Z",
+      "@id": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
+      "url": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-05/97d2e121-21f2-472a-95fe-0f7efefd5c46.jpg?rect=0%2C51%2C1401%2C1401"
+      },
+      "name": "Shane Parish, Barry Archie Johnson, Paul Lai ",
+      "description": "**Shane Parish, Barry Archie Johnson, Paul Lai**\n\nShane Parish – the virtuosic self-taught guitarist from Athens, Georgia – visits Zebulon for a night of acoustic guitar at a free show also featuring L.A.’s Barry Archie Johnson.\n\nAthens, Georgia-based guitarist Shane Parish devotes his days to developing his singular and expressive musicianship. A self-taught musician, he is known for his orchestral finger-style solo arrangements, for his intense and intricate electric playing in the avant-rock band Ahleuchatistas, and as a member of the Bill Orcutt Guitar Quartet. His music is a fluid synthesis of many traditions, ceaselessly pushing the edges as it aims for the future. Over the years, he has released albums on labels such as Tzadik Records, Palilalia Records, Cuneiform Records, and International Anthem.\n\n“Shane Parish is a relentless interpreter. The guitarist's catalog is full of folk songs, sea shanties and the Chet Baker Sings album thoughtfully and playfully mangled. (Parish also notated and arranged Bill Orcutt's Music for Four Guitars for, well, four guitars — their Tiny Desk is raucously joyful.)”\n\n—Lars Gotrich, NPR\n\n“In the spirit of solo acoustic guitarists like John Renbourn and Bert Jansch, or American Primitivists John Fahey and Robbie Basho, Parish reinterprets canons, with a focus on a motley crew of titans of the last century: Ornette Coleman, Minutemen, Alice Coltrane, Charles Mingus, Apex Twin, Kraftwerk, Sun Ra, Roland Kirk, John Cage, and Fred Rogers.”\n\n—Repressed Records\n\n“As an arranger and transcriber, Shane has incredible attention to detail and a devotion to get it right. As a performer and improvisor, he’s passionate and has terrific drive and charisma. On stage, he’s impossible not to like.”\n\n—Bill Orcutt, quoted in Flagpole Magazine (Athens, GA)\n\nPaul Lai is best known as the guitarist and leader of Upsilon Acrux- one of Southern California's most storied and intense instrumental groups and a key proponent of an incredibly intricate, rigorous evolution of rock/prog/jazz music. He recently returned after a 5.5 year sojourn in Taipei, Taiwan – where he formed the group (Z)erpents and advanced his work in the city’s vibrant music underground.\n\nHis solo guitarwork is known as \"Scissortronics\" and has performed frequently in Taipei and Los Angeles with butoh dancer(s) and in group formats w/ Patrick Shiroishi, Dylan Fujioki, Mark Kimbrell and Heldon among others."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-08T06:00:00.000Z",
+      "endDate": "2025-02-08T10:00:00.000Z",
+      "@id": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
+      "url": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-25/cea7d840-7070-4432-817b-1e9994941149.jpg?rect=396%2C0%2C2508%2C2508"
+      },
+      "name": "Dance Till You're Dead - the Indie Sleaze Dance Party",
+      "description": "Dance Till You're Dead - the Indie Sleaze Dance Party with DJ Goth Receptionist"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-09T04:00:00.000Z",
+      "endDate": "2025-02-09T07:00:00.000Z",
+      "@id": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
+      "url": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-17/a717d7f1-0078-4f0b-be1a-c8e3bccf5106.jpg?rect=0%2C281%2C2245%2C2245"
+      },
+      "name": "Rocket, Draag, RAM & DJ Silversun Pickups",
+      "description": "**Rocket, Draag, RAM & DJ Silversun Pickups**\n\npresented by Crap Eyewear LA & Stereogum with proceeds donated to California Community Foundation's Wildfire Recovery Fund"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-09T06:00:00.000Z",
+      "endDate": "2025-02-09T10:00:00.000Z",
+      "@id": "https://link.dice.fm/dac119738b1b?dice_id=dac119738b1b",
+      "url": "https://link.dice.fm/dac119738b1b?dice_id=dac119738b1b",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-12/88968fec-630d-4c3f-82f9-64bb5da73bbf.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "The Jump Off Dance Party",
+      "description": "The Jump Off Dance Party\n\nwith DJs Soulchild Seb, Nativity\n\nAn All Vinyl Affair"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-10T04:00:00.000Z",
+      "endDate": "2025-02-10T07:00:00.000Z",
+      "@id": "https://link.dice.fm/bf5db75699e0?dice_id=bf5db75699e0",
+      "url": "https://link.dice.fm/bf5db75699e0?dice_id=bf5db75699e0",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-03/8edb89f8-16db-49a9-a210-5b26104dd713.jpg?rect=0%2C0%2C1021%2C1021"
+      },
+      "name": "Mercedes Kilmer, Sam Buck, John Errol",
+      "description": "Mercedes Kilmer\n\nSam Buck\n\nJohn Errol"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-11T03:00:00.000Z",
+      "endDate": "2025-02-11T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Mbea09f5e3b4?dice_id=Mbea09f5e3b4",
+      "url": "https://link.dice.fm/Mbea09f5e3b4?dice_id=Mbea09f5e3b4",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
+      },
+      "name": "Total Pleasure February Residency",
+      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night Two\n\n- Past self\n- Total Pleasure\n- Friction\n- Pink depression\n- Miñin (DJ)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-13T04:00:00.000Z",
+      "endDate": "2025-02-13T07:00:00.000Z",
+      "@id": "https://link.dice.fm/B1545275e1d9?dice_id=B1545275e1d9",
+      "url": "https://link.dice.fm/B1545275e1d9?dice_id=B1545275e1d9",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-30/d82877c1-5e92-4b13-8e18-aece81187dae.jpg?rect=677%2C0%2C2707%2C2707"
+      },
+      "name": "AMAYO  formerly of Antibalas (Solo Album Release Party), Tommy Brenneck DJ",
+      "description": "**AMAYO**\n\n**formerly of Antibalas**\n\n**Solo Album Release Party**\n\n**\"Lion Awakes\" Lunar New Year celebration!**\n\n**Tommy Brenneck DJ**\n\nAmayo, the Grammy-nominated former frontman of Antibalas, announces a special record release show for his debut solo album, Lion Awakes, at Zebulon LA on February 12th, 2025.\n\nLion Awakes, out January 17, captures Amayo’s unique fusion of Afrobeat, martial arts philosophy, and Nigerian cultural heritage. The Zebulon LA performance will mark the first time these transformative tracks, including the lead single “Black Magic Sister,” will be performed live on the West Coast in their completed form.\n\nLion Awakes draws inspiration from Amayo’s training as a Kung Fu Lion Dancer and his Nigerian Edo roots, blending myth and reality into a sonic journey that uplifts and inspires.\n\n\"Amayo\" means \"If you don't go, you never know\" in the Edo language of Nigeria.\n\nThis one-night-only event will feature an all-star lineup of musicians, including former Antibalas members Raja Kassis on guitar, Giancarlo Luiggi on shekere, and Ray Mason on trombone, as well as a roster of celebrated artists like Tosin Aribisala on drums. The 8-piece ensemble will channel the Afrobeat magic and dynamic spirit that have defined Amayo’s illustrious career.\n\nLion Awakes was composed by Amayo, who is the featured lead vocalist and also performs on piano, Farfisa and Gbedu Spirit Drum. Amayo sings throughout the album in Yoruba, Edo, pidgin English and Cantonese. The recording features a host of musicians that Amayo has collaborated with over the past two decades, including members of the Dap-Kings, Antibalas, and recorded/produced by Los Angeles-based Thomas Brenneck (Dap-Kings, Menahan Street Band, Amy Winehouse, Beyonce and Jay-Z) at his Diamond West studios.\n\nAmayo’s music has been featured in Rolling Stone, Pitchfork, the LA Times, the New York Times, Wall Street Journal, NPR and he has appeared on NPR’s Tiny Desk, Jimmy Kimmel Live! and The Tonight Show to name a few. As a member of Antibalas and as a solo performer, Amayo has performed across the globe, on the world’s finest stages and at the finest festivals. His final project with Antibalas - Fu Chronicles - earned a GRAMMY nomination for Best Global Music Album in 2020.\n\nRaised in Nigeria, Amayo came to America to attend Howard University on a football scholarship at age 17 and majored in medical illustration. He eventually moved to Brooklyn, where he joined Antibalas, part of a fertile and influential creative community of musicians and friends in Williamsburg that would also form The Dap-Kings and TV On The Radio. Amayo recorded 9 full-length albums with Antibalas & performed 2000+ shows across five continents including four times at Carnegie Hall.\n\nHe also directed the Antibalas music video for “Fight Am Finish” on location in Nigeria & NYC, about an African American returning home via the slave route. 2020’s Grammy-nominated Fu Chronicles was conceptualized and composed by Amayo; he also hand-illustrated the cover artwork. With a move across the country and the birth of his second child during the pandemic, Amayo decided to branch out on his solo career, one dedicated to his rich Nigerian heritage and Chinese martial arts teachings.\n\nAmayo’s unique blend of styles creates a magical landscape of Chinese & African rhythms. Amayo’s songs guide people through Kung Fu movements and stories of the Nigerian Edo & Ife Kingdoms.\n\nAs an anointed Orisha “Awo,” Amayo sings traditional Nigerian spirituals and stories that have been passed down in a sacred lineage. Amayo is a senior master (Sifu) of the Jow Ga Kung Fu School of martial arts and performs traditional Chinese Lion Dance as a salutation ritual to begin his stage performances to bring good fortune to the audience."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-14T04:00:00.000Z",
+      "endDate": "2025-02-14T07:00:00.000Z",
+      "@id": "https://link.dice.fm/T94ad869f5d0?dice_id=T94ad869f5d0",
+      "url": "https://link.dice.fm/T94ad869f5d0?dice_id=T94ad869f5d0",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-21/dcfdca7b-6019-4317-9cf7-beb9920c670a.jpg?rect=0%2C21%2C1200%2C1200"
+      },
+      "name": "Kidsnot$aints., Ebony Loren ",
+      "description": "**Kidsnot$aints., Ebony Loren**\n\nKidsnot$aints., a genre-defying modern boyband, is making waves with their unique sound and heartfelt storytelling. Known for standout singles like \"Love, Always\" and \"60's Baby,\" the trio seamlessly blends influences from indie rock, shoegaze, and even western soundscapes. Their versatility and emotional depth shine through on their latest EP, Ms. Velveteen, which explores themes of longing, love, and self-discovery. The band is set to make their highly anticipated headlining debut in Los Angeles, perfectly timed for Valentine's Day—a fitting occasion for a group whose music resonates with lovesick hearts everywhere."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-15T03:00:00.000Z",
+      "endDate": "2025-02-15T06:00:00.000Z",
+      "@id": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
+      "url": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-10-15/2d63f3e2-c6ca-4fe6-8437-d3f4cc1ce1e5.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Lomelda + Tomberlin",
+      "description": "Sid The Cat Presents\n\nLomelda + Tomberlin\n\nW/ Greg Mendez\n\n2/14/2025 at Zebulon\n\n21+\n\nTomberlin is Sarah Beth Tomberlin, a pastor’s kid born in Florida, raised in rural Illinois. She wrote the majority of her debut, At Weddings (2018), while living at home. For a while after leaving home and church, she lived in Louisville, Kentucky. She worked a day job and kept writing songs. She posted some of these songs to Bandcamp, which led to her signing a record deal with Saddle Creek. It all happened fast: Less than a year after her first live show, she performed on Jimmy Kimmel and she ended up moving to L.A. which is where she wrote Projections (2020), her EP followup to At Weddings.\n\n—\n\nLomelda is Hannah Read's musical project. In swampy, sweaty, Silsbee, TX, she first formed the band with her high school best friends. Throughout the next decade, Lomelda mad a habit out of stretching to fit new friendships and shrinking down to solo strummings. Four albums and a never-the-same live show chronicle these shifts in shape and sound.\n\nLomelda's fifth album is called Hannah. The album stretches and shrinks into many of Lomelda's different forms, from expansive \"Wonder\" and rock band \"Reach\" to meandering \"Stranger Sat By Me\" and finger picking \"It's Infinite.\" Through this range of moods, Hannah sings stories of strangers, suns, dogs, moms, brothers, favorite bands, \"oh god!\"s and big shots as well as herself, by name. She rejoices and reviles her god-given name and then flips it around to name herself Hannah once again. It is an album of confession and transformation made ultimately singable."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-16T03:00:00.000Z",
+      "endDate": "2025-02-16T06:00:00.000Z",
+      "@id": "https://link.dice.fm/Mf0406649a09?dice_id=Mf0406649a09",
+      "url": "https://link.dice.fm/Mf0406649a09?dice_id=Mf0406649a09",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-15/8acfd11e-7741-4f63-9aa7-69515eb623e0.jpg?rect=228%2C0%2C768%2C768"
+      },
+      "name": "Ryosuke Kiyasu, Lucas Granpa Abela, Ted Byrnes, Law",
+      "description": "An evening of extreme sound and performance featuring two astonishing artists from across the Pacific, and some from right here at a gig pulled by UPEND\n\nThe Japanese snare drum soloist 🥁 RYOSUKE KIYASU🥁 rips and thrashes, pushing limits of what can be improvised with a couple of drumsticks, a snare, a mic, and a table. Amidst cathartic whole-body maneuvers, he can just as easily issue a flurry of rolls and virtuosic high velocity click-clack on the rims, or in turn growl right into the heads, or even take the party to the floor for some scrape and drag.\n\nAND\n\nLongtime globe travelling DIY-lifer LUCAS ‘GRANPA’ ABELA (fka Justice Yeldham) also pushes the boundaries and also pushes a large shard of glass into his face and against his mouth, playing it as an electroacoustic instrument, these days feeding the signal into a an array of modular chaos. Might there be blood?\n\nPLUS a couple actions from L.A zones: Percussionist TED BYRNES throwing metal around, and LAW – the duo of L. Coats and Jonah Bergman - folding primitive folk instrumentation right into the harsh."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-16T06:00:00.000Z",
+      "endDate": "2025-02-16T10:00:00.000Z",
+      "@id": "https://link.dice.fm/H075ecda6915?dice_id=H075ecda6915",
+      "url": "https://link.dice.fm/H075ecda6915?dice_id=H075ecda6915",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2023-12-28/0b2b0fb6-cbcc-4d0a-8df1-08b246774595.jpg?rect=216%2C0%2C768%2C768"
+      },
+      "name": "Reverberation Radio DJ Night ",
+      "description": "**Reverberation Radio DJ Night**\n\nTropical boogie, international disco and other spaced out dance floor favs from the 70s"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-17T04:00:00.000Z",
+      "endDate": "2025-02-17T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Dcdaabbb07ab?dice_id=Dcdaabbb07ab",
+      "url": "https://link.dice.fm/Dcdaabbb07ab?dice_id=Dcdaabbb07ab",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-10-17/5916e399-3666-4243-ad77-a8374ab5b530.jpg?rect=149%2C0%2C1202%2C1202"
+      },
+      "name": "The Slaps, Hemlock ",
+      "description": "**The Slaps, Hemlock**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://dice.fm/venue/zebulon-y8bv",
+      "name": "Zebulon",
+      "url": "https://zebulon.la/",
+      "description": "",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.1071962,
+        "longitude": -118.2547398
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2478 Fletcher Drive",
+        "addressLocality": "Los Angeles",
+        "addressRegion": "CA",
+        "postalCode": 90039,
+        "addressCountry": "US"
+      }
+    }
+  ]
+}
