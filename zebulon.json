@@ -6,226 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-01-23T04:00:00.000Z",
-      "endDate": "2025-01-23T07:00:00.000Z",
-      "@id": "https://link.dice.fm/x26a97af7f83?dice_id=x26a97af7f83",
-      "url": "https://link.dice.fm/x26a97af7f83?dice_id=x26a97af7f83",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-20/a4284885-ca80-4e92-946b-d7300f75eba9.jpg?rect=84%2C0%2C1216%2C1216"
-      },
-      "name": "David Lynch: 'Wild At Heart' screening",
-      "description": "David Lynch: Wild At Heart screening\n\n\\*\\*\\*First come first served\\*\\*\\*"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-24T04:00:00.000Z",
-      "endDate": "2025-01-24T07:00:00.000Z",
-      "@id": "https://link.dice.fm/H1c1ce25d5ee?dice_id=H1c1ce25d5ee",
-      "url": "https://link.dice.fm/H1c1ce25d5ee?dice_id=H1c1ce25d5ee",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-18/50346276-b206-4537-bdb2-7174c6584219.jpg?rect=259%2C0%2C780%2C780"
-      },
-      "name": "Walt Mcclements, Mary Lattimore (solo), Paul Corley &  jonsi (sigur ros) DJs",
-      "description": "**Walt Mcclements, Mary Lattimore (solo), DJs - Paul Corley & jonsi (Sigur Ros)**\n\n**Free Event - Donations accepted**\n\n**Walt McClements** is an accordionist and multi-instrumentalist based in Los Angeles. His compositions focus on processed accordion, creating patient and emotional meditations that nod to drone and ambient music. His latest record Rain on the Road, is a duo collaboration with the harpist Mary Lattimore.\n\nThrough evocative, emotionally resonant music, Goodbye, Hotel Arkada, the new LP from American harpist and composer **Mary Lattimore**, speaks not just for its beloved namesake — a hotel in Croatia facing renovation — but for a universal loss that is shared. Six sprawling pieces shaped by change; nothing will ever be the same, and here, the artist, evolving in synthesis, celebrates and mourns the tragedy and beauty of the ephemeral, all that is lived and lost to time. Documented and edited in uncharacteristically measured sessions over the course of two years, the material remains rooted in improvisation while glistening as the most refined and robust in Lattimore’s decade-long catalog. It finds her communing with friends, contemporaries, and longtime influences, in full stride yet slowing down to nurture songs in new ways. The cast includes Lol Tolhurst (The Cure), Meg Baird, Rachel Goswell (Slowdive), Roy Montgomery, Samara Lubelski, and Walt McClements."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-25T03:00:00.000Z",
-      "endDate": "2025-01-25T06:00:00.000Z",
-      "@id": "https://link.dice.fm/pb2944a7575c?dice_id=pb2944a7575c",
-      "url": "https://link.dice.fm/pb2944a7575c?dice_id=pb2944a7575c",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-09-17/00ae090d-b7e0-4c22-a603-3e03dbb2ee57.jpg?rect=483%2C0%2C2337%2C2337"
-      },
-      "name": "Elephant Stone, The Asteroid No.4, DJ Chris Robinson and DJ Brent Rademaker ",
-      "description": "**Elephant Stone, The Asteroid No.4**\n\n**DJ Chris Robinson (The Black Crowes) and DJ Brent Rademaker (Beachwood Sparks)**\n\nWith a remarkable journey spanning 15 years, Elephant Stone has established itself as a vanguard in the psych-pop universe. Under the inspired leadership of Rishi Dhir, the band has ceaselessly pushed the boundaries of musical storytelling. Fueled by Dhir's initial forays into music and elevated by his virtuosity on the sitar, Elephant Stone's compositions transcend mere melodies; they serve as profound meditations on loss, rebirth, and existential wonder.\n\nTheir 2009 Polaris Music Prize long-listed debut, \"The Seven Seas,\" was influenced by Dhir's spiritual travels in India. In 2010, \"The Glass Box\" EP showcased power pop vibes echoing Big Star. Their 2013 self-titled album brought psychedelic rock to the fore. \"The Three Poisons\" (2014) took a darker turn, influenced by Buddhist teachings. 2016 saw the synth-infused \"Ship of Fools,\" while \"Hollow\" (2020) depicted a world on edge. Their 2022 GAMIQ-winning French EP “Le Voyage de M. Lonely dans la Lune” mirrored our own pandemic-era reality. In 2024, \"Back Into the Dream\" offered a fantastical voyage through ethereal dreamscapes and introspective quests, further evolving their sound and narrative depth.\n\nIn celebration of their journey, the band is releasing a 15th anniversary deluxe edition of their debut album \"The Seven Seas,\" rekindling the magic that first captivated audiences.\n\nPraise from international critics and collaborations with industry giants such as Beck and The Brian Jonestown Massacre have affirmed Elephant Stone's standing as a unique powerhouse in musical creativity and emotional depth. Echoing this sentiment, Dhir insightfully remarks, \"As long as there's Rishi, there's Elephant Stone.\" Embark on an enthralling journey with them, where celestial visions and grounded realities converge in a captivating harmony."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-25T06:00:00.000Z",
-      "endDate": "2025-01-25T10:00:00.000Z",
-      "@id": "https://link.dice.fm/t73644b309b8?dice_id=t73644b309b8",
-      "url": "https://link.dice.fm/t73644b309b8?dice_id=t73644b309b8",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-07/e2a9ea2b-3eff-4909-9b9e-b5904bbdf117.jpg?rect=0%2C293%2C912%2C912"
-      },
-      "name": "Josh Da Costa DJ Night ",
-      "description": "**Josh Da Costa DJ Night**\n\nBody Music, Assorted Disco, Goth/Industrial, House, Techno and Downtempo"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-25T19:00:00.000Z",
-      "endDate": "2025-01-26T01:00:00.000Z",
-      "@id": "https://link.dice.fm/befc5b21bd96?dice_id=befc5b21bd96",
-      "url": "https://link.dice.fm/befc5b21bd96?dice_id=befc5b21bd96",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-13/c8684e6f-e242-4824-aad0-935d0ef5ac93.jpg?rect=0%2C29%2C2400%2C2400"
-      },
-      "name": "Brain Dead + AIAIAI present: A Benefit for the California Fire Fund",
-      "description": "Join us for an afternoon that brings the community together in support of those affected by the devastating fires in Los Angeles. Brain Dead and AIAIAI are proud to host an event featuring live performances by Knumears, Febuary, Sinema, and Kiowa, as well as a curated selection of local vendors.\n\nAll proceeds from this event will be donated to the California Fire Fund to provide direct assistance to those impacted by the fires. Your contribution will help support relief efforts and rebuild lives in our community."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-26T06:00:00.000Z",
-      "endDate": "2025-01-26T10:00:00.000Z",
-      "@id": "https://link.dice.fm/F81246025494?dice_id=F81246025494",
-      "url": "https://link.dice.fm/F81246025494?dice_id=F81246025494",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-07/b13125ae-03ce-4046-991a-dadb20e1f55b.jpg?rect=0%2C0%2C2592%2C2592"
-      },
-      "name": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party",
-      "description": "THE CURE vs THE SMITHS vs DEPECHE MODE Dance Party"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-27T02:30:00.000Z",
-      "endDate": "2025-01-27T07:00:00.000Z",
-      "@id": "https://link.dice.fm/A750a6c8aabb?dice_id=A750a6c8aabb",
-      "url": "https://link.dice.fm/A750a6c8aabb?dice_id=A750a6c8aabb",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-28/205a9091-f124-40f0-8617-d84fe050435d.jpg?rect=0%2C0%2C1080%2C1080"
-      },
-      "name": "Stepping Stone presents: Downy Mildew, plus Fat, Evil Children",
-      "description": "Stepping Stone presents: **Downy Mildew**\n\nplus *Fat, Evil Children*"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-28T04:00:00.000Z",
-      "endDate": "2025-01-28T07:00:00.000Z",
-      "@id": "https://link.dice.fm/N215b0ee5200?dice_id=N215b0ee5200",
-      "url": "https://link.dice.fm/N215b0ee5200?dice_id=N215b0ee5200",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-21/d3a00986-bc1a-43c8-a68c-be0a127e4e1c.jpg?rect=0%2C500%2C3396%2C3396"
-      },
-      "name": "Hot Load, Sweat, Oog Bogo",
-      "description": "Hot Load Monday Night Residency\n\nSponsored by Open Beer\n\n- Hot Load\n- Sweat\n- Oog Bogo\n- TBA + 1\n\nDJ: Wicked Ladies\n\nCharity: Planned Parenthood\n\nFREE ($10 Suggested donation to charity at the door)"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-29T04:00:00.000Z",
-      "endDate": "2025-01-29T07:00:00.000Z",
-      "@id": "https://link.dice.fm/i0cd6bd34447?dice_id=i0cd6bd34447",
-      "url": "https://link.dice.fm/i0cd6bd34447?dice_id=i0cd6bd34447",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-02/22bdf224-f4b2-46c9-8413-6e4d598c2019.jpg?rect=0%2C0%2C6000%2C6000"
-      },
-      "name": "Jeremiah Chiu, Yuka Honda, Monde UFO",
-      "description": "Jeremiah Chiu/ Yuka Honda/ Monde UFO\n\nDJ's DIMWIST + BURGERS\n\nJEREMIAH CHIU\n\nJeremiah Chiu is a Los Angeles-based artist, electronic music composer, graphic designer, educator, and community organizer. You've seen him shred with SML, you've seen him shred with Marta Sofia Honer, you've seen him shred with Celia Hollander, you've seen him shred with Dustin Wong, and you've seen him shred with Sam Prekop.\n\nCome see him shred solo live on the Zebulon stage!!\n\nYUKA HONDA\n\nYuka Honda is a NYC-based Japanese-American multi-instrumentalist. On top of collaborations with the likes of Nels Cline, Sean Lennon, Medeski Martin & Wood, Luscious Jackson, and more - she is a founder member of legendary 90's alternative band Cibo Matto.\n\nHer solo shows have centered on her animated sense of wonder through electronic experimentations. An aural sensation that moves you to be in the front row.\n\nMONDE UFO\n\nMonde UFO, LA-based astronauts are a monochromatic sunset for the senses. A sonic journey through cosmic psychedelia, jazz, and the other-side by way of Sun Ra, Spacemen 3 & Vanishing Twin."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-30T04:00:00.000Z",
-      "endDate": "2025-01-30T07:00:00.000Z",
-      "@id": "https://link.dice.fm/P6f4a3b4e0ee?dice_id=P6f4a3b4e0ee",
-      "url": "https://link.dice.fm/P6f4a3b4e0ee?dice_id=P6f4a3b4e0ee",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-15/8e6b9831-6c0b-4744-b54b-ef17cac7d983.jpg?rect=0%2C300%2C2400%2C2400"
-      },
-      "name": "Expose Record Release, Bondo, Pocket Full of Crumbs",
-      "description": "Expose Record Release, Bondo, Pocket Full of Crumbs"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-01-31T03:00:00.000Z",
-      "endDate": "2025-01-31T07:00:00.000Z",
-      "@id": "https://link.dice.fm/je5204b45aff?dice_id=je5204b45aff",
-      "url": "https://link.dice.fm/je5204b45aff?dice_id=je5204b45aff",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-15/3d6b1f17-9d9b-4f5c-8e66-02dbcafde489.jpg?rect=0%2C375%2C1500%2C1500"
-      },
-      "name": "Mark Guiliana plays MARK",
-      "description": "**Mark Guiliana plays MARK**\n\nHailed by The New York Times as “a drummer around whom a cult of admiration has formed,” Grammy-nominated superstar drummer & composer Mark Guiliana brings an adventurous spirit, eclectic palette, and gift for spontaneous invention to a staggering range of styles. Equally virtuosic playing acoustic jazz, boundary-stretching electronic music, or next-level rock, he’s become a key collaborator with such original sonic thinkers as St. Vincent, Matt Cameron (Pearl Jam/Soundgarden), Brad Mehldau, M83, Meshell Ndegeocello, and the late, great David Bowie."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-01T03:00:00.000Z",
       "endDate": "2025-02-01T06:00:00.000Z",
       "@id": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
@@ -300,6 +80,26 @@
       },
       "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
       "description": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-03T03:30:00.000Z",
+      "endDate": "2025-02-03T06:00:00.000Z",
+      "@id": "https://link.dice.fm/t626b3f4d194?dice_id=t626b3f4d194",
+      "url": "https://link.dice.fm/t626b3f4d194?dice_id=t626b3f4d194",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-23/bb13d6b2-647f-4e9e-a736-4947abe893e2.jpg?rect=48%2C0%2C1029%2C1029"
+      },
+      "name": "WEIRDO NIGHT !!! FIRE RELIEF BENEFIT!!! ",
+      "description": "WEIRDO NIGHT !!!\n\nFIRE RELIEF BENEFIT!!!\n\nwith\n\nISAAC PRADO\n\nJULIUS SMACK\n\nTARA JANE O'NEIL\n\n\\+ MORE TBA!"
     },
     {
       "@context": "https://schema.org",
@@ -396,7 +196,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-25/cea7d840-7070-4432-817b-1e9994941149.jpg?rect=396%2C0%2C2508%2C2508"
+        "url": "https://dice-media.imgix.net/attachments/2025-01-29/17f9c571-b967-43ad-8f40-262845a1bceb.jpg?rect=0%2C93%2C1080%2C1080"
       },
       "name": "Dance Till You're Dead - the Indie Sleaze Dance Party",
       "description": "Dance Till You're Dead - the Indie Sleaze Dance Party with DJ Goth Receptionist"
@@ -416,10 +216,10 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-17/a717d7f1-0078-4f0b-be1a-c8e3bccf5106.jpg?rect=0%2C281%2C2245%2C2245"
+        "url": "https://dice-media.imgix.net/attachments/2025-01-23/9818fd04-c24f-48bd-84b5-4c11e16c4fc9.jpg?rect=0%2C268%2C5400%2C5400"
       },
-      "name": "Rocket, Draag, RAM & DJ Silversun Pickups",
-      "description": "**Rocket, Draag, RAM & DJ Silversun Pickups**\n\npresented by Crap Eyewear LA & Stereogum with proceeds donated to California Community Foundation's Wildfire Recovery Fund"
+      "name": "LA Fire Relief Benefit : Rocket, Draag, RAM & DJ Silversun Pickups ",
+      "description": "**LA Fire Relief Benefit : Rocket, Draag, RAM & DJ Silversun Pickups**\n\npresented by Crap Eyewear LA & Stereogum with proceeds donated to California Community Foundation's Wildfire Recovery Fund + Pasadena Community Job Center"
     },
     {
       "@context": "https://schema.org",
@@ -519,7 +319,7 @@
         "url": "https://dice-media.imgix.net/attachments/2024-11-21/dcfdca7b-6019-4317-9cf7-beb9920c670a.jpg?rect=0%2C21%2C1200%2C1200"
       },
       "name": "Kidsnot$aints., Ebony Loren ",
-      "description": "**Kidsnot$aints., Ebony Loren**\n\nKidsnot$aints., a genre-defying modern boyband, is making waves with their unique sound and heartfelt storytelling. Known for standout singles like \"Love, Always\" and \"60's Baby,\" the trio seamlessly blends influences from indie rock, shoegaze, and even western soundscapes. Their versatility and emotional depth shine through on their latest EP, Ms. Velveteen, which explores themes of longing, love, and self-discovery. The band is set to make their highly anticipated headlining debut in Los Angeles, perfectly timed for Valentine's Day—a fitting occasion for a group whose music resonates with lovesick hearts everywhere."
+      "description": "**Kidsnot$aints., Ebony Loren**\n\nKidsnot$aints., a genre-defying modern boyband, is making waves with their unique sound and heartfelt storytelling. Known for standout singles like \"Love, Always\" and \"60's Baby,\" the trio seamlessly blends influences from indie rock, shoegaze, and even western soundscapes. Their versatility and emotional depth shine through on their latest EP, Ms. Velveteen, which explores themes of longing, love, and self-discovery. The band is set to make their highly anticipated headlining debut in Los Angeles, perfectly timed for Valentine's Day—a fitting occasion for a group whose music resonates with lovesick hearts everywhere.\n\n\\*all ticket proceeds will be donated to California Community Foundation Wildfire Recovery Fund"
     },
     {
       "@context": "https://schema.org",
@@ -600,6 +400,206 @@
       },
       "name": "The Slaps, Hemlock ",
       "description": "**The Slaps, Hemlock**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-18T03:00:00.000Z",
+      "endDate": "2025-02-18T07:00:00.000Z",
+      "@id": "https://link.dice.fm/g59230137ffa?dice_id=g59230137ffa",
+      "url": "https://link.dice.fm/g59230137ffa?dice_id=g59230137ffa",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
+      },
+      "name": "Total Pleasure February Residency",
+      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night Three\n\n- Total Pleasure\n- Jinx\n- Konspiracy\n- Home again\n- The Degster (DJ)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-19T04:00:00.000Z",
+      "endDate": "2025-02-19T07:00:00.000Z",
+      "@id": "https://link.dice.fm/K51314ebc3e9?dice_id=K51314ebc3e9",
+      "url": "https://link.dice.fm/K51314ebc3e9?dice_id=K51314ebc3e9",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-31/bbabf420-4e58-4b70-8a93-510a558e5391.jpg?rect=250%2C0%2C1000%2C1000"
+      },
+      "name": "Protest Poetry and Electronic Music",
+      "description": "**Agneta Falk X Schvédranne**\n\n**Matt Sedillo**\n\n**A poetic encounter between San Francisco and France**\n\nWhen San Francisco's protest poetry meets French music, a unique and powerful work is born. The result of a collaboration between French musician Schvédranne and American poet Agneta Falk, this project revives the bohemian spirit of the Bay Area through a hybrid show combining poetry and sound creation.\n\n**An exceptional artistic encounter**\n\nAgneta Falk, a leading figure on the San Francisco poetry scene and widow of the famous poet Jack Hirschman, joins forces with French guitarist Schvédranne to bring to life a repertoire of texts from California's counter-culture. Their performance, enriched by the presence of Céline Frezza who provides the French translations, offers a unique immersive experience where improvised music dialogues with committed poetry.\n\n**A multi-faceted show**\n\nOn stage, the project takes on its full scope: Agneta Falk powerfully embodies the texts, while Schvédranne weaves a sonic backdrop with his guitar and computer compositions. Some of the poems are read in French, to create a different rhythm and sound.\n\nThis show pays tribute to San Francisco's poetic heritage, to feminism and to the spirit of revolt that still drives artistic creation today. It revives the voices of major poets such as Lawrence Ferlinghetti and Jack Hirschman, while blending them with contemporary creations.\n\n**Matt Sedillo** is the Literary Director of the Mexican Cultural Institute of Los Angeles, the Co-Founder of El Martillo Press, the host of Radio La Raza on KPFK and the author of Mowing Leaves of Grass, City on the Second Floor, and Mexican Style. His work has been translated and published in seven languages, including a full collection in Italian, Vite Derubata, Tiera Derubate, published in Itally by Edizione Ensemble and a full collection in Spanish, Our Corzanes Are Still Burning, Chicanx Sin Fronteras."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-20T04:00:00.000Z",
+      "endDate": "2025-02-20T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Wfabced9bdb7?dice_id=Wfabced9bdb7",
+      "url": "https://link.dice.fm/Wfabced9bdb7?dice_id=Wfabced9bdb7",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-11/058f09d1-1765-41ab-a77c-92675281639c.jpg?rect=743%2C0%2C3228%2C3228"
+      },
+      "name": "Video Age, Why Bonnie, Uni Boys",
+      "description": "**Video Age, Why Bonnie, Uni Boys**\n\nVideo Age make breezy and timeless songs that are so ineffable, they can only be the result of a decades-long friendship and songwriting partnership. Across four albums, Ross Farbe and Ray Micarelli have gleefully worn their influences on their sleeve, writing inviting tunes that reference sounds ranging from disco to pop and indie rock. On their latest LP, Away From The Castle, the New Orleans duo have strayed from nostalgia and instead have honed their own unique musicality, making songs that sound like themselves with a taste of inspiration from classic singer-songwriters of the 60s and 70s. The album is a testament to the possibilities that come from getting out of your comfort zone, the freedom of writing vulnerably and unselfconsciously, and the joys of getting to work with your closest companions.\n\nAfter releasing and eventually touring their critically-acclaimed third album Pleasure Line in 2020, Farbe and Micarelli sought inspiration for their next project through collaboration. They worked with Drugdealer on his album Hiding In Plain Sight, Micarelli gigged throughout New Orleans’ jazz and blues scenes, and Farbe recorded local artists at his home studio, most recently producing Esther Rose’s new album Safe to Run. Feeling refreshed, they rented a cabin in Eunice, Louisiana with touring members Nick Corson and Duncan Troast, where they spent eight days in August 2022 jamming, cooking and writing together.\n\nThrough this process, Video Age have made their best collection of tracks to date by perfectly alchemizing their influences and experiences into a record still tinged with nostalgia, but moving towards a more succinct and authentic voice. Away From The Castle is a document of a band having fun and rediscovering their love for making music together, but it’s also their most honest and personal work yet–Video Age distilled to its purest form."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-21T04:00:00.000Z",
+      "endDate": "2025-02-21T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Ifdfb9dd7a49?dice_id=Ifdfb9dd7a49",
+      "url": "https://link.dice.fm/Ifdfb9dd7a49?dice_id=Ifdfb9dd7a49",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-19/b7ccc599-5fe0-4299-a883-33fdbf9d42a7.jpg?rect=0%2C0%2C1200%2C1200"
+      },
+      "name": "Lina Tullgren, Cate Kennan",
+      "description": "Lina Tullgren is an artist, improviser, performer and poet. Their work explores space, duality, relationships and the divine. Recent works of both song music and improvised violin have been released under Astral Spirits, Ba Da Bing! and Captured Tracks. Their new album of songs \"Decide Which Way The Eyes Are Looking\" is due February 7 via PPM. They live in Los Angeles."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-22T06:00:00.000Z",
+      "endDate": "2025-02-22T10:00:00.000Z",
+      "@id": "https://link.dice.fm/J54391f448e6?dice_id=J54391f448e6",
+      "url": "https://link.dice.fm/J54391f448e6?dice_id=J54391f448e6",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2023-09-11/a0357104-ad93-491f-8787-38f212906039.jpg?rect=86%2C0%2C954%2C954"
+      },
+      "name": "Say You'll Be There: A 90s/2000s Dance Party",
+      "description": "Say You'll Be There: A 90s/2000s Dance Party"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-23T03:00:00.000Z",
+      "endDate": "2025-02-23T06:00:00.000Z",
+      "@id": "https://link.dice.fm/pd74eb57d331?dice_id=pd74eb57d331",
+      "url": "https://link.dice.fm/pd74eb57d331?dice_id=pd74eb57d331",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-18/03d0129d-3b7c-4814-b30a-897e9f3ae337.jpg?rect=0%2C0%2C1000%2C1000"
+      },
+      "name": "Truman Sinclair Album Release",
+      "description": "Truman Sinclair Album Release\n\nTruman Sinclair has been playing in bands since he was 8, first in the emo and metal scenes of Chicago. At 14, Truman moved to Los Angeles, where he fell in love with folk music and songwriting all while continuing to pursue his love of emo. Truman would form his cult farwest emo band Frat Mouse in 2019, and began to play and release music – all while producing and recording the albums in his bedroom. Over the next five years the band would release four albums and play over 300 shows, cutting their teeth at local venues and on DIY tours. Recording Frat Mouse and local LA artists in the scene led Truman to pursue the other side of his artistry, engineering and production. Now, Truman is writing and\n\nrecording more than ever. His homemade debut album “American Recordings” will be out in February 2025."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-25T04:00:00.000Z",
+      "endDate": "2025-02-25T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Wecb52f94441?dice_id=Wecb52f94441",
+      "url": "https://link.dice.fm/Wecb52f94441?dice_id=Wecb52f94441",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-25/b1452716-2fc9-469b-b5a8-1b39e8890832.jpg?rect=0%2C138%2C1125%2C1125"
+      },
+      "name": "Frail",
+      "description": "Frail\n\nBeing a teenager in the American suburbs of the 1980s and ‘90s often meant that your ideals seemed to outpace your surroundings. By the early 1990s, as a generation came of age that was too young to have seen Black Flag or Minor Threat, straight edge had started to take a militant approach, drawing lines to keep out people who would not blindly follow some of the genre’s shifting ideals. Frail, a straight-edge hardcore band from Willow Grove, Pennsylvania, who were active from spring 1993 to fall 1995, was more focused on communicating ideas and inclusion; they wanted to teach as much as learn, and this duality meant their music was the perfect vehicle to release the tension of that new generation. Their lineup — Mike Parsell and Don Devore on guitars, Brian Berwind on drums, Derek Zglenski on bass, and Eric Hammar on vocals — released 20 songs, a discography spread across a lone demo tape and a handful of small runs of vinyl on various DIY punk labels, all long out of print."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-27T04:00:00.000Z",
+      "endDate": "2025-02-27T07:00:00.000Z",
+      "@id": "https://link.dice.fm/z9041ce46536?dice_id=z9041ce46536",
+      "url": "https://link.dice.fm/z9041ce46536?dice_id=z9041ce46536",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-21/74d2f7a3-d3bc-4a13-b540-e6b452d687b7.jpg?rect=0%2C1463%2C4492%2C4492"
+      },
+      "name": "Star 69, Dolly Creamer, Graffiti Phalico",
+      "description": "Star 69, Dolly Creamer, Graffiti Phalico"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-28T04:00:00.000Z",
+      "endDate": "2025-02-28T07:00:00.000Z",
+      "@id": "https://link.dice.fm/S80664e34faa?dice_id=S80664e34faa",
+      "url": "https://link.dice.fm/S80664e34faa?dice_id=S80664e34faa",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-23/06f8082e-8496-4a1f-a19a-8516eb990994.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Animals in the Attic, Mae Powell, Cody Wyoming",
+      "description": "Animals in the Attic, Mae Powell, Cody Wyoming"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-01T03:00:00.000Z",
+      "endDate": "2025-03-01T06:00:00.000Z",
+      "@id": "https://link.dice.fm/da27fcd1b460?dice_id=da27fcd1b460",
+      "url": "https://link.dice.fm/da27fcd1b460?dice_id=da27fcd1b460",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-19/370629eb-d594-4642-889c-542c397eff0e.jpg?rect=0%2C60%2C1330%2C1330"
+      },
+      "name": "Bob Log III, Restavrant",
+      "description": "**Bob Log III, Restavrant**\n\nBob Log III is a one man band slide guitar party. A perverse product of the Arizona desert, Bob Log III has been diligently travelling the globe since 1996, showcasing his incomparable talents and developing a devoted following along the way. A whirlwind of dexterous limbs and digits, this super star sonic showman has to be seen to be believed.\n\nClad in his cannonball man, extra tight jumpsuit and signature motorcycle helmet with telephone/microphone attached, Bob Log III unfailingly sweats up a river while kicking on a kick drum, stomping his homemade foot cymbal and playing slide on an old archtop guitar. His endless pursuit for musical mayhem and a downright party has seen his unique talents utilized for children’s birthday parties, obscure beer barns, mammoth music festivals and everything in between.\n\nYet, beyond these mesmerizing visuals, lies the true reason for Bob Log’s international cult status and superhero adoration. It is quite simply the guitar playing - finger picked lightning, sliding up and down, stopping when it wants to, then starting again when it feels like it, all in a way that makes people move uncontrollably, smile and reel."
     },
     {
       "@type": "Place",
