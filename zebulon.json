@@ -6,106 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-01T03:00:00.000Z",
-      "endDate": "2025-02-01T06:00:00.000Z",
-      "@id": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
-      "url": "https://link.dice.fm/M80961fcafe1?dice_id=M80961fcafe1",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-19/6036bd09-57d2-4eb8-b861-ecabc4b35a7a.jpg?rect=154%2C0%2C1140%2C1140"
-      },
-      "name": "ÖLÜM, GROOP",
-      "description": "**ÖLÜM, GROOP**\n\nÖLÜM is LA’s newest and only anatolian rock group lead by frontman Aykut Ozen from Izmir. Bringing new life to timeless Turkish folk songs and tales in the quintessential classic rock manner with heavy seasonings that pay respect to their predecessors, the legends of Anatolia i.e. Erkin Koray, Baris Manço, and Mogollar, ÖLÜM have become Turkey’s latest and current torch bearers of the rock and roll radition by sheer consequence."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-01T06:00:00.000Z",
-      "endDate": "2025-02-01T10:00:00.000Z",
-      "@id": "https://link.dice.fm/N7ec5afbf137?dice_id=N7ec5afbf137",
-      "url": "https://link.dice.fm/N7ec5afbf137?dice_id=N7ec5afbf137",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-08-15/6b4aa5aa-0755-4575-938b-a4fc51e09dac.jpg?rect=0%2C0%2C1620%2C1620"
-      },
-      "name": "Kulture Klub - The '80s Dance Party",
-      "description": "Kulture Klub - The '80s Dance Party"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-02T03:00:00.000Z",
-      "endDate": "2025-02-02T06:00:00.000Z",
-      "@id": "https://link.dice.fm/p7806e71e271?dice_id=p7806e71e271",
-      "url": "https://link.dice.fm/p7806e71e271?dice_id=p7806e71e271",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-07/03dfcacb-1dd3-43ab-b394-3a9bc05c2a4e.jpg?rect=0%2C0%2C1000%2C1000"
-      },
-      "name": "Will Worden, Phil Hollie, Ny Oh",
-      "description": "Will Worden Record Release Show, Phil Hollie, Ny Oh"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-02T06:00:00.000Z",
-      "endDate": "2025-02-02T10:00:00.000Z",
-      "@id": "https://link.dice.fm/gbc39e810870?dice_id=gbc39e810870",
-      "url": "https://link.dice.fm/gbc39e810870?dice_id=gbc39e810870",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-07/cdb6e41c-3887-4d0b-bbe2-e4bb4580d734.jpg?rect=0%2C60%2C1080%2C1080"
-      },
-      "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
-      "description": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-03T03:30:00.000Z",
-      "endDate": "2025-02-03T06:00:00.000Z",
-      "@id": "https://link.dice.fm/t626b3f4d194?dice_id=t626b3f4d194",
-      "url": "https://link.dice.fm/t626b3f4d194?dice_id=t626b3f4d194",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-23/bb13d6b2-647f-4e9e-a736-4947abe893e2.jpg?rect=48%2C0%2C1029%2C1029"
-      },
-      "name": "WEIRDO NIGHT !!! FIRE RELIEF BENEFIT!!! ",
-      "description": "WEIRDO NIGHT !!!\n\nFIRE RELIEF BENEFIT!!!\n\nwith\n\nISAAC PRADO\n\nJULIUS SMACK\n\nTARA JANE O'NEIL\n\n\\+ MORE TBA!"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-04T03:00:00.000Z",
       "endDate": "2025-02-04T07:00:00.000Z",
       "@id": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
@@ -186,6 +86,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-02-08T03:00:00.000Z",
+      "endDate": "2025-02-08T06:00:00.000Z",
+      "@id": "https://link.dice.fm/F7ad5b5edbbe?dice_id=F7ad5b5edbbe",
+      "url": "https://link.dice.fm/F7ad5b5edbbe?dice_id=F7ad5b5edbbe",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-04/6fc5d940-7d1d-4dba-ad9a-dc020f22bdac.jpg?rect=504%2C0%2C3024%2C3024"
+      },
+      "name": "Dave Palmer, Reggie Hamilton, Joey Waronker Trio",
+      "description": "**Dave Palmer, Reggie Hamilton, Joey Waronker**\n\nThe DPT is a jazz trio comprised of Joey Waronker on drums, Reggie Hamilton on bass, and Dave Palmer on piano. The group plays almost exclusively original compositions in a style more attuned to 50s and 60s swing and the compositional elements found therein. Leaning heavily on influences like Duke Ellington, Benny Golson, Horace Silver, Mingus and Monk there is an old school aura that is evenly mixed with a new, more personal touch. This ensemble is a grouping of exceptional musicians all of whom have deep and varied career experience.\n\nJoey Waronker has worked with artists ranging from his long term standing in Beck’s band and more recent touring with Roger Waters to a massive list of others including REM, Atoms for Peace, Yoko Ono, Johnny Cash, Gnarls Barkley, and SIA...to name but a few. An in demand session player and producer for many years, he is also a highly influential musician and producer in LA and beyond.\n\nReggie Hamilton’s professional career is so varied and deep it’s hard to know where to begin. He has played with artists such as David Lynch, Queen Latifah, Warren Zevon, Whitney Houston, Seal, Mariah Carey, Baby Face and George Duke...once again to name but a few. He is also a sought after session player, equally comfortable on Pop, RnB and orchestral music dates. Easily one of the most skilled and versatile bassists in LA and around the world.\n\nDave Palmer is a pianist and keyboardist who makes the bulk of his living scoring films. His body of work includes such works as The Beginners, The Greatest Beer Run Ever, Ricky Stanicky, Goats, On Any Sunday the Next Chapter..to name a few. He has scored and worked on shows and video games including Loudermilk, Hannibal, American Gods, Boss, Grand Theft Auto V, Red Dead Redemption 2, and Watchdogs. Dave is still an in demand session player and arranger who’s credits in that side of the business include Fiona Apple, Air, Fleetwood Mac, De La Soul, Kanye West, Patty Griffin, Brandi Carlile, Shania Twain, Sharon van Etten, Mastodon, and Cordae to, once again, name but a few.\n\nThe group’s first album, recently recorded in Hollywood, will be released in the coming weeks."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-02-08T06:00:00.000Z",
       "endDate": "2025-02-08T10:00:00.000Z",
       "@id": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
@@ -206,8 +126,8 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-09T04:00:00.000Z",
-      "endDate": "2025-02-09T07:00:00.000Z",
+      "startDate": "2025-02-09T03:00:00.000Z",
+      "endDate": "2025-02-09T06:00:00.000Z",
       "@id": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
       "url": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
       "location": {
@@ -438,8 +358,8 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2025-01-31/bbabf420-4e58-4b70-8a93-510a558e5391.jpg?rect=250%2C0%2C1000%2C1000"
       },
-      "name": "Protest Poetry and Electronic Music",
-      "description": "**Agneta Falk X Schvédranne**\n\n**Matt Sedillo**\n\n**A poetic encounter between San Francisco and France**\n\nWhen San Francisco's protest poetry meets French music, a unique and powerful work is born. The result of a collaboration between French musician Schvédranne and American poet Agneta Falk, this project revives the bohemian spirit of the Bay Area through a hybrid show combining poetry and sound creation.\n\n**An exceptional artistic encounter**\n\nAgneta Falk, a leading figure on the San Francisco poetry scene and widow of the famous poet Jack Hirschman, joins forces with French guitarist Schvédranne to bring to life a repertoire of texts from California's counter-culture. Their performance, enriched by the presence of Céline Frezza who provides the French translations, offers a unique immersive experience where improvised music dialogues with committed poetry.\n\n**A multi-faceted show**\n\nOn stage, the project takes on its full scope: Agneta Falk powerfully embodies the texts, while Schvédranne weaves a sonic backdrop with his guitar and computer compositions. Some of the poems are read in French, to create a different rhythm and sound.\n\nThis show pays tribute to San Francisco's poetic heritage, to feminism and to the spirit of revolt that still drives artistic creation today. It revives the voices of major poets such as Lawrence Ferlinghetti and Jack Hirschman, while blending them with contemporary creations.\n\n**Matt Sedillo** is the Literary Director of the Mexican Cultural Institute of Los Angeles, the Co-Founder of El Martillo Press, the host of Radio La Raza on KPFK and the author of Mowing Leaves of Grass, City on the Second Floor, and Mexican Style. His work has been translated and published in seven languages, including a full collection in Italian, Vite Derubata, Tiera Derubate, published in Itally by Edizione Ensemble and a full collection in Spanish, Our Corzanes Are Still Burning, Chicanx Sin Fronteras."
+      "name": "Protest Poetry and Electronic Music: Agneta Falk and Matt Sédillo",
+      "description": "**Protest Poetry and Electronic Music: Agneta Falk and Matt Sédillo**\n\n**A poetic encounter between San Francisco and France**\n\nWhen San Francisco's protest poetry meets French music, a unique and powerful work is born. The result of a collaboration between French musician Schvédranne and American poet Agneta Falk, this project revives the bohemian spirit of the Bay Area through a hybrid show combining poetry and sound creation.\n\n**An exceptional artistic encounter**\n\nAgneta Falk, a leading figure on the San Francisco poetry scene and widow of the famous poet Jack Hirschman, joins forces with French guitarist Schvédranne to bring to life a repertoire of texts from California's counter-culture. Their performance, enriched by the presence of Céline Frezza who provides the French translations, offers a unique immersive experience where improvised music dialogues with committed poetry.\n\n**A multi-faceted show**\n\nOn stage, the project takes on its full scope: Agneta Falk powerfully embodies the texts, while Schvédranne weaves a sonic backdrop with his guitar and computer compositions. Some of the poems are read in French, to create a different rhythm and sound.\n\nThis show pays tribute to San Francisco's poetic heritage, to feminism and to the spirit of revolt that still drives artistic creation today. It revives the voices of major poets such as Lawrence Ferlinghetti and Jack Hirschman, while blending them with contemporary creations.\n\n**Matt Sedillo** is the Literary Director of the Mexican Cultural Institute of Los Angeles, the Co-Founder of El Martillo Press, the host of Radio La Raza on KPFK and the author of Mowing Leaves of Grass, City on the Second Floor, and Mexican Style. His work has been translated and published in seven languages, including a full collection in Italian, Vite Derubata, Tiera Derubate, published in Itally by Edizione Ensemble and a full collection in Spanish, Our Corzanes Are Still Burning, Chicanx Sin Fronteras."
     },
     {
       "@context": "https://schema.org",
@@ -526,6 +446,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-02-23T06:00:00.000Z",
+      "endDate": "2025-02-23T10:00:00.000Z",
+      "@id": "https://link.dice.fm/ya89961e90e2?dice_id=ya89961e90e2",
+      "url": "https://link.dice.fm/ya89961e90e2?dice_id=ya89961e90e2",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-01/10f727eb-4f5c-4c2b-a742-efc00fba02b3.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Memento Mori Dance Party",
+      "description": "Memento Mori Dance Party\n\n'70s - '00s Sassy Bangers\n\nAll Genres - All Genders - All Night Long"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-02-25T04:00:00.000Z",
       "endDate": "2025-02-25T07:00:00.000Z",
       "@id": "https://link.dice.fm/Wecb52f94441?dice_id=Wecb52f94441",
@@ -538,8 +478,8 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2024-11-25/b1452716-2fc9-469b-b5a8-1b39e8890832.jpg?rect=0%2C138%2C1125%2C1125"
       },
-      "name": "Frail",
-      "description": "Frail\n\nBeing a teenager in the American suburbs of the 1980s and ‘90s often meant that your ideals seemed to outpace your surroundings. By the early 1990s, as a generation came of age that was too young to have seen Black Flag or Minor Threat, straight edge had started to take a militant approach, drawing lines to keep out people who would not blindly follow some of the genre’s shifting ideals. Frail, a straight-edge hardcore band from Willow Grove, Pennsylvania, who were active from spring 1993 to fall 1995, was more focused on communicating ideas and inclusion; they wanted to teach as much as learn, and this duality meant their music was the perfect vehicle to release the tension of that new generation. Their lineup — Mike Parsell and Don Devore on guitars, Brian Berwind on drums, Derek Zglenski on bass, and Eric Hammar on vocals — released 20 songs, a discography spread across a lone demo tape and a handful of small runs of vinyl on various DIY punk labels, all long out of print."
+      "name": "Frail, Ursula ",
+      "description": "**Frail, Ursula**\n\nBeing a teenager in the American suburbs of the 1980s and ‘90s often meant that your ideals seemed to outpace your surroundings. By the early 1990s, as a generation came of age that was too young to have seen Black Flag or Minor Threat, straight edge had started to take a militant approach, drawing lines to keep out people who would not blindly follow some of the genre’s shifting ideals. Frail, a straight-edge hardcore band from Willow Grove, Pennsylvania, who were active from spring 1993 to fall 1995, was more focused on communicating ideas and inclusion; they wanted to teach as much as learn, and this duality meant their music was the perfect vehicle to release the tension of that new generation. Their lineup — Mike Parsell and Don Devore on guitars, Brian Berwind on drums, Derek Zglenski on bass, and Eric Hammar on vocals — released 20 songs, a discography spread across a lone demo tape and a handful of small runs of vinyl on various DIY punk labels, all long out of print."
     },
     {
       "@context": "https://schema.org",
@@ -600,6 +540,66 @@
       },
       "name": "Bob Log III, Restavrant",
       "description": "**Bob Log III, Restavrant**\n\nBob Log III is a one man band slide guitar party. A perverse product of the Arizona desert, Bob Log III has been diligently travelling the globe since 1996, showcasing his incomparable talents and developing a devoted following along the way. A whirlwind of dexterous limbs and digits, this super star sonic showman has to be seen to be believed.\n\nClad in his cannonball man, extra tight jumpsuit and signature motorcycle helmet with telephone/microphone attached, Bob Log III unfailingly sweats up a river while kicking on a kick drum, stomping his homemade foot cymbal and playing slide on an old archtop guitar. His endless pursuit for musical mayhem and a downright party has seen his unique talents utilized for children’s birthday parties, obscure beer barns, mammoth music festivals and everything in between.\n\nYet, beyond these mesmerizing visuals, lies the true reason for Bob Log’s international cult status and superhero adoration. It is quite simply the guitar playing - finger picked lightning, sliding up and down, stopping when it wants to, then starting again when it feels like it, all in a way that makes people move uncontrollably, smile and reel."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-02T02:00:00.000Z",
+      "endDate": "2025-03-02T06:00:00.000Z",
+      "@id": "https://link.dice.fm/md64305da1da?dice_id=md64305da1da",
+      "url": "https://link.dice.fm/md64305da1da?dice_id=md64305da1da",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-08-29/bb9e8c15-815d-441a-873f-72aab3926ec3.jpg?rect=0%2C50%2C1083%2C1083"
+      },
+      "name": "Mercury Rev, Liz Lamere",
+      "description": "**Mercury Rev, Liz Lamere**\n\nSince forming in 1989 in Buffalo, New York, Mercury Rev has made a career of boldly exploring the fringes of artistic perception, channeling colors and sounds and visions that always seem just beyond our mortal reach. The Guardian hailed the group as “a rarity in indie rock: a band who have continually evolved their sound, pushing at the boundaries of what rock music actually means over 25 years, borrowing from jazz, funk, doo-wop, techno, folk and more along the way,” while Rolling Stone praised their “majestic chaos,” and the BBC lauded their “shimmering psychedelic pop, immersive indie-rock, \\[and\\] spectacularly engrossing passages of sumptuous instrumentation.”\n\nThe band’s 1991 debut, ‘Yerself Is Steam,’ landed on Pitchfork’s Best Shoegaze Albums of All Time, and their 1998 breakthrough, ‘Deserter’s Songs’, upon its release was named NME’s Album of the Year, Pitchfork’s 100 Favorite Records of the 1990s (2003),Melody Maker’s All Time Top 100 Albums (2000), Uncut’s 200 Greatest Albums of All Time (2016) and multiple1000 Albums to Hear Before You Die lists. Diverse musical collaborations with legendary artistic luminaries as well as major festival and network television performances around the world have solidified their status as One of America’s most pioneering groups capable of straddling the line between mainstream appeal and progressive musical experimentation…\n\nRecorded in the Catskills, the band’s ninth album, Born Horses, is out now on Bella Union."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-02T06:00:00.000Z",
+      "endDate": "2025-03-02T10:00:00.000Z",
+      "@id": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
+      "url": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-09/fd0d4ce7-24d8-4cad-b9f9-3d1e620d1f48.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Pyramid Scheme International Dance Party",
+      "description": "**Pyramid Scheme International Dance Party**\n\ndance party fantasy turned reality"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-04T04:00:00.000Z",
+      "endDate": "2025-03-04T07:00:00.000Z",
+      "@id": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
+      "url": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-17/8d1a05d9-065d-4ce5-8f75-0eabd72f2957.jpg?rect=351%2C0%2C3680%2C3680"
+      },
+      "name": "James Brandon Lewis Trio",
+      "description": "**James Brandon Lewis Trio**\n\nApple Cores is the latest full-length album from New York tenor saxophonist James Brandon Lewis, “one of the fiercest sounds in jazz today” (The Guardian) with a “penchant for unbound exploration” (Pitchfork). Informed by the rhythms and textures of hip-hop and funk while remaining rooted in jazz, James Brandon Lewis Trio’s Apple Cores was recorded with Chad Taylor (drums/mbira) and Josh Werner (bass/guitar). The recording was a collective compositional process that happened over the course of two intense, entirely improvised sessions.\n\n“If you don’t spend time with your band, you’re not going to really trust that moment,” Lewis says. “I think we’ve spent enough time together to where we can do that. I’ve been playing Chad for like 10 years, so that’s like water right there and me and Josh have been playing together since like 2018.”\n\nThe album takes its name and intention from the column that poet and jazz theorist Amiri Baraka wrote for DownBeat in the 1960s. “I was first exposed to Amiri Baraka at Howard University \\[also Baraka’s alma mater\\],” says Lewis. “Blues People \\[Baraka’s groundbreaking 1963 study of Black American music\\], was required reading. I’m always in constant dialogue with his work.”\n\nIn addition to Baraka, the influence of another jazz giant looms mightily over Apple Cores: trumpeter and multi-instrumentalist, Don Cherry. In a testament to Cherry’s influence over the music that the trio is playing, Lewis designed each song title as a cryptogram of sorts, making subtle references to Cherry’s life and music."
     },
     {
       "@type": "Place",
