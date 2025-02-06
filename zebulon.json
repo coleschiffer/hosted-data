@@ -6,66 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-04T03:00:00.000Z",
-      "endDate": "2025-02-04T07:00:00.000Z",
-      "@id": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
-      "url": "https://link.dice.fm/a2594dd90e74?dice_id=a2594dd90e74",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
-      },
-      "name": "Total Pleasure February Residency",
-      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night One\n\n- Total Pleasure\n- Substance\n- Placeres\n- Blood stained concrete\n- Expulsada (DJ)"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-05T03:00:00.000Z",
-      "endDate": "2025-02-05T07:00:00.000Z",
-      "@id": "https://link.dice.fm/I6445cb5b54d?dice_id=I6445cb5b54d",
-      "url": "https://link.dice.fm/I6445cb5b54d?dice_id=I6445cb5b54d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-10/844757fd-faac-4743-8e4a-12263a959baf.jpg?rect=29%2C0%2C1863%2C1863"
-      },
-      "name": "Secret Chiefs 3, CNTS ",
-      "description": "**Secret Chiefs 3, CNTS**\n\nThe brainchild of Trey Spruance, best known as the guitarist for the legendary and infamous Mr. Bungle, Secret Chiefs 3 is an avant-garde band combining Middle Eastern-flavored experimental music, atmospheric soundscapes, death metal, and whatever else comes to Spruance’s venturesome mind. Along with Mr. Bungle bandmates Trevor Dunn on bass and Danny Heifetz on drums, the band released their debut album, First Grand Constitution and Bylaws, in 1996. Their subsequent recordings and tours have featured multifarious lineups"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-06T04:00:00.000Z",
-      "endDate": "2025-02-06T07:00:00.000Z",
-      "@id": "https://link.dice.fm/kef43278e999?dice_id=kef43278e999",
-      "url": "https://link.dice.fm/kef43278e999?dice_id=kef43278e999",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-02/9adf753e-7fc5-4e8b-9dc9-008b4c4a47de.jpg?rect=0%2C5%2C897%2C897"
-      },
-      "name": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace",
-      "description": "Tremours, Lauren Lakis, High Tatras, Izzy Outerspace"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-07T04:00:00.000Z",
       "endDate": "2025-02-07T07:00:00.000Z",
       "@id": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
@@ -206,20 +146,40 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-13T04:00:00.000Z",
-      "endDate": "2025-02-13T07:00:00.000Z",
-      "@id": "https://link.dice.fm/B1545275e1d9?dice_id=B1545275e1d9",
-      "url": "https://link.dice.fm/B1545275e1d9?dice_id=B1545275e1d9",
+      "startDate": "2025-02-12T04:00:00.000Z",
+      "endDate": "2025-02-12T07:00:00.000Z",
+      "@id": "https://link.dice.fm/V4980dccf615?dice_id=V4980dccf615",
+      "url": "https://link.dice.fm/V4980dccf615?dice_id=V4980dccf615",
       "location": {
         "@type": "Place",
         "@id": "https://dice.fm/venue/zebulon-y8bv"
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-30/d82877c1-5e92-4b13-8e18-aece81187dae.jpg?rect=677%2C0%2C2707%2C2707"
+        "url": "https://dice-media.imgix.net/attachments/2025-02-05/bea2091f-2061-44eb-9630-700220c155da.jpg?rect=0%2C139%2C1792%2C1792"
       },
-      "name": "AMAYO  formerly of Antibalas (Solo Album Release Party), Tommy Brenneck DJ",
-      "description": "**AMAYO**\n\n**formerly of Antibalas**\n\n**Solo Album Release Party**\n\n**\"Lion Awakes\" Lunar New Year celebration!**\n\n**Tommy Brenneck DJ**\n\nAmayo, the Grammy-nominated former frontman of Antibalas, announces a special record release show for his debut solo album, Lion Awakes, at Zebulon LA on February 12th, 2025.\n\nLion Awakes, out January 17, captures Amayo’s unique fusion of Afrobeat, martial arts philosophy, and Nigerian cultural heritage. The Zebulon LA performance will mark the first time these transformative tracks, including the lead single “Black Magic Sister,” will be performed live on the West Coast in their completed form.\n\nLion Awakes draws inspiration from Amayo’s training as a Kung Fu Lion Dancer and his Nigerian Edo roots, blending myth and reality into a sonic journey that uplifts and inspires.\n\n\"Amayo\" means \"If you don't go, you never know\" in the Edo language of Nigeria.\n\nThis one-night-only event will feature an all-star lineup of musicians, including former Antibalas members Raja Kassis on guitar, Giancarlo Luiggi on shekere, and Ray Mason on trombone, as well as a roster of celebrated artists like Tosin Aribisala on drums. The 8-piece ensemble will channel the Afrobeat magic and dynamic spirit that have defined Amayo’s illustrious career.\n\nLion Awakes was composed by Amayo, who is the featured lead vocalist and also performs on piano, Farfisa and Gbedu Spirit Drum. Amayo sings throughout the album in Yoruba, Edo, pidgin English and Cantonese. The recording features a host of musicians that Amayo has collaborated with over the past two decades, including members of the Dap-Kings, Antibalas, and recorded/produced by Los Angeles-based Thomas Brenneck (Dap-Kings, Menahan Street Band, Amy Winehouse, Beyonce and Jay-Z) at his Diamond West studios.\n\nAmayo’s music has been featured in Rolling Stone, Pitchfork, the LA Times, the New York Times, Wall Street Journal, NPR and he has appeared on NPR’s Tiny Desk, Jimmy Kimmel Live! and The Tonight Show to name a few. As a member of Antibalas and as a solo performer, Amayo has performed across the globe, on the world’s finest stages and at the finest festivals. His final project with Antibalas - Fu Chronicles - earned a GRAMMY nomination for Best Global Music Album in 2020.\n\nRaised in Nigeria, Amayo came to America to attend Howard University on a football scholarship at age 17 and majored in medical illustration. He eventually moved to Brooklyn, where he joined Antibalas, part of a fertile and influential creative community of musicians and friends in Williamsburg that would also form The Dap-Kings and TV On The Radio. Amayo recorded 9 full-length albums with Antibalas & performed 2000+ shows across five continents including four times at Carnegie Hall.\n\nHe also directed the Antibalas music video for “Fight Am Finish” on location in Nigeria & NYC, about an African American returning home via the slave route. 2020’s Grammy-nominated Fu Chronicles was conceptualized and composed by Amayo; he also hand-illustrated the cover artwork. With a move across the country and the birth of his second child during the pandemic, Amayo decided to branch out on his solo career, one dedicated to his rich Nigerian heritage and Chinese martial arts teachings.\n\nAmayo’s unique blend of styles creates a magical landscape of Chinese & African rhythms. Amayo’s songs guide people through Kung Fu movements and stories of the Nigerian Edo & Ife Kingdoms.\n\nAs an anointed Orisha “Awo,” Amayo sings traditional Nigerian spirituals and stories that have been passed down in a sacred lineage. Amayo is a senior master (Sifu) of the Jow Ga Kung Fu School of martial arts and performs traditional Chinese Lion Dance as a salutation ritual to begin his stage performances to bring good fortune to the audience."
+      "name": "Austin McCutchen & the Western Stars",
+      "description": "Austin McCutchen & the Western Stars"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-13T04:00:00.000Z",
+      "endDate": "2025-02-13T08:00:00.000Z",
+      "@id": "https://link.dice.fm/Hd5e1fcba718?dice_id=Hd5e1fcba718",
+      "url": "https://link.dice.fm/Hd5e1fcba718?dice_id=Hd5e1fcba718",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-05/fa609441-5726-471f-aa2c-cd11ef55ca00.jpg?rect=0%2C237%2C1127%2C1127"
+      },
+      "name": "Total Recall (1990) screening",
+      "description": "**Total Recall (1990)** Screening\n\nDouglas Quaid is haunted by a recurring dream about a journey to Mars. He hopes to find out more about this dream and buys a holiday at Rekall Inc. where they sell implanted memories. But something goes wrong with the memory implantation and he remembers being a secret agent fighting against the evil Mars administrator Cohaagen. Now the story really begins and it's a rollercoaster ride until the massive end of the movie."
     },
     {
       "@context": "https://schema.org",
@@ -260,6 +220,26 @@
       },
       "name": "Lomelda + Tomberlin",
       "description": "Sid The Cat Presents\n\nLomelda + Tomberlin\n\nW/ Greg Mendez\n\n2/14/2025 at Zebulon\n\n21+\n\nTomberlin is Sarah Beth Tomberlin, a pastor’s kid born in Florida, raised in rural Illinois. She wrote the majority of her debut, At Weddings (2018), while living at home. For a while after leaving home and church, she lived in Louisville, Kentucky. She worked a day job and kept writing songs. She posted some of these songs to Bandcamp, which led to her signing a record deal with Saddle Creek. It all happened fast: Less than a year after her first live show, she performed on Jimmy Kimmel and she ended up moving to L.A. which is where she wrote Projections (2020), her EP followup to At Weddings.\n\n—\n\nLomelda is Hannah Read's musical project. In swampy, sweaty, Silsbee, TX, she first formed the band with her high school best friends. Throughout the next decade, Lomelda mad a habit out of stretching to fit new friendships and shrinking down to solo strummings. Four albums and a never-the-same live show chronicle these shifts in shape and sound.\n\nLomelda's fifth album is called Hannah. The album stretches and shrinks into many of Lomelda's different forms, from expansive \"Wonder\" and rock band \"Reach\" to meandering \"Stranger Sat By Me\" and finger picking \"It's Infinite.\" Through this range of moods, Hannah sings stories of strangers, suns, dogs, moms, brothers, favorite bands, \"oh god!\"s and big shots as well as herself, by name. She rejoices and reviles her god-given name and then flips it around to name herself Hannah once again. It is an album of confession and transformation made ultimately singable."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-15T06:00:00.000Z",
+      "endDate": "2025-02-15T10:00:00.000Z",
+      "@id": "https://link.dice.fm/ca57869fb46b?dice_id=ca57869fb46b",
+      "url": "https://link.dice.fm/ca57869fb46b?dice_id=ca57869fb46b",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/1fb7e9d8-4cc9-465d-934d-8faedd251b9c.jpg?rect=0%2C122%2C1080%2C1080"
+      },
+      "name": "Heaven Or Los Angeles - A Cocteau Twins Dance Nite",
+      "description": "Heaven Or Los Angeles - A Cocteau Twins Dance Night with DJ's Olive Kimoto & Paige Emery\n\nValentine's Day"
     },
     {
       "@context": "https://schema.org",
@@ -405,6 +385,26 @@
       "@context": "https://schema.org",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "party",
+      "startDate": "2025-02-22T02:00:00.000Z",
+      "endDate": "2025-02-22T06:00:00.000Z",
+      "@id": "https://link.dice.fm/D9135ef6ddc7?dice_id=D9135ef6ddc7",
+      "url": "https://link.dice.fm/D9135ef6ddc7?dice_id=D9135ef6ddc7",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-05/99ef28a6-b0c6-49d8-8b5f-d0e9323fb40f.jpg?rect=0%2C0%2C768%2C768"
+      },
+      "name": "Earlybirds Club",
+      "description": "Earlybirds Club is a dance party for women, trans, and non-binary folks that starts at 6pm and ends at 10pm—because we have sh\\*t to do in the morning!\n\nOur DJ Helean spins songs from the 80s to 2000s, including pop, hip-hop, new wave, and R&B—you know, the ones you sing at the top of your lungs when no one's home! Earlybirds Club is more than a fun night out, it's a supportive community who wouldn't think to judge your fashion or your Elaine Benes–inspired dance moves. (If you got that reference, you’re definitely an Earlybird!)\n\n10% of ticket proceeds benefit the Red Cross."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
       "startDate": "2025-02-22T06:00:00.000Z",
       "endDate": "2025-02-22T10:00:00.000Z",
@@ -436,10 +436,10 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-18/03d0129d-3b7c-4814-b30a-897e9f3ae337.jpg?rect=0%2C0%2C1000%2C1000"
+        "url": "https://dice-media.imgix.net/attachments/2025-02-05/5474f01e-84a7-41f8-bba5-ea58fca5e12d.jpg?rect=3%2C0%2C1165%2C1165"
       },
-      "name": "Truman Sinclair Album Release",
-      "description": "Truman Sinclair Album Release\n\nTruman Sinclair has been playing in bands since he was 8, first in the emo and metal scenes of Chicago. At 14, Truman moved to Los Angeles, where he fell in love with folk music and songwriting all while continuing to pursue his love of emo. Truman would form his cult farwest emo band Frat Mouse in 2019, and began to play and release music – all while producing and recording the albums in his bedroom. Over the next five years the band would release four albums and play over 300 shows, cutting their teeth at local venues and on DIY tours. Recording Frat Mouse and local LA artists in the scene led Truman to pursue the other side of his artistry, engineering and production. Now, Truman is writing and\n\nrecording more than ever. His homemade debut album “American Recordings” will be out in February 2025."
+      "name": "Truman Sinclair Album Release, Ella Woolsey",
+      "description": "Truman Sinclair Album Release, Ella Woolsey\n\nTruman Sinclair has been playing in bands since he was 8, first in the emo and metal scenes of Chicago. At 14, Truman moved to Los Angeles, where he fell in love with folk music and songwriting all while continuing to pursue his love of emo. Truman would form his cult farwest emo band Frat Mouse in 2019, and began to play and release music – all while producing and recording the albums in his bedroom. Over the next five years the band would release four albums and play over 300 shows, cutting their teeth at local venues and on DIY tours. Recording Frat Mouse and local LA artists in the scene led Truman to pursue the other side of his artistry, engineering and production. Now, Truman is writing and\n\nrecording more than ever. His homemade debut album “American Recordings” will be out in February 2025."
     },
     {
       "@context": "https://schema.org",
@@ -456,7 +456,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-01/10f727eb-4f5c-4c2b-a742-efc00fba02b3.jpg?rect=0%2C0%2C1080%2C1080"
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/f6023c10-0615-4f91-b86a-f6a02e369631.jpg?rect=3%2C0%2C1165%2C1165"
       },
       "name": "Memento Mori Dance Party",
       "description": "Memento Mori Dance Party\n\n'70s - '00s Sassy Bangers\n\nAll Genres - All Genders - All Night Long"
@@ -480,6 +480,26 @@
       },
       "name": "Frail, Ursula ",
       "description": "**Frail, Ursula**\n\nBeing a teenager in the American suburbs of the 1980s and ‘90s often meant that your ideals seemed to outpace your surroundings. By the early 1990s, as a generation came of age that was too young to have seen Black Flag or Minor Threat, straight edge had started to take a militant approach, drawing lines to keep out people who would not blindly follow some of the genre’s shifting ideals. Frail, a straight-edge hardcore band from Willow Grove, Pennsylvania, who were active from spring 1993 to fall 1995, was more focused on communicating ideas and inclusion; they wanted to teach as much as learn, and this duality meant their music was the perfect vehicle to release the tension of that new generation. Their lineup — Mike Parsell and Don Devore on guitars, Brian Berwind on drums, Derek Zglenski on bass, and Eric Hammar on vocals — released 20 songs, a discography spread across a lone demo tape and a handful of small runs of vinyl on various DIY punk labels, all long out of print."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-26T04:00:00.000Z",
+      "endDate": "2025-02-26T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Wf804f8cd5b3?dice_id=Wf804f8cd5b3",
+      "url": "https://link.dice.fm/Wf804f8cd5b3?dice_id=Wf804f8cd5b3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-06/6f86188c-6403-4418-ac5f-d646aa696f0f.jpg?rect=0%2C0%2C1728%2C1728"
+      },
+      "name": "(Quartet) with Dave Harrington, Robert Walter, Spencer Zahn and Kosta Galanopolous",
+      "description": "Maximum Overdub presents: (Quartet) with Dave Harrington, Robert Walter, Spencer Zahn and Kosta Galanopolous\n\nFt. Special Guest Mauro Refosco\n\nDJs Chris O and Uncle Power"
     },
     {
       "@context": "https://schema.org",
@@ -546,6 +566,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-01T06:00:00.000Z",
+      "endDate": "2025-03-01T10:00:00.000Z",
+      "@id": "https://link.dice.fm/Gbb18c58f92a?dice_id=Gbb18c58f92a",
+      "url": "https://link.dice.fm/Gbb18c58f92a?dice_id=Gbb18c58f92a",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-08-15/6b4aa5aa-0755-4575-938b-a4fc51e09dac.jpg?rect=0%2C0%2C1620%2C1620"
+      },
+      "name": "Kulture Klub - The '80s Dance Party",
+      "description": "Kulture Klub - The '80s Dance Party"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-02T02:00:00.000Z",
       "endDate": "2025-03-02T06:00:00.000Z",
       "@id": "https://link.dice.fm/md64305da1da?dice_id=md64305da1da",
@@ -560,46 +600,6 @@
       },
       "name": "Mercury Rev, Liz Lamere",
       "description": "**Mercury Rev, Liz Lamere**\n\nSince forming in 1989 in Buffalo, New York, Mercury Rev has made a career of boldly exploring the fringes of artistic perception, channeling colors and sounds and visions that always seem just beyond our mortal reach. The Guardian hailed the group as “a rarity in indie rock: a band who have continually evolved their sound, pushing at the boundaries of what rock music actually means over 25 years, borrowing from jazz, funk, doo-wop, techno, folk and more along the way,” while Rolling Stone praised their “majestic chaos,” and the BBC lauded their “shimmering psychedelic pop, immersive indie-rock, \\[and\\] spectacularly engrossing passages of sumptuous instrumentation.”\n\nThe band’s 1991 debut, ‘Yerself Is Steam,’ landed on Pitchfork’s Best Shoegaze Albums of All Time, and their 1998 breakthrough, ‘Deserter’s Songs’, upon its release was named NME’s Album of the Year, Pitchfork’s 100 Favorite Records of the 1990s (2003),Melody Maker’s All Time Top 100 Albums (2000), Uncut’s 200 Greatest Albums of All Time (2016) and multiple1000 Albums to Hear Before You Die lists. Diverse musical collaborations with legendary artistic luminaries as well as major festival and network television performances around the world have solidified their status as One of America’s most pioneering groups capable of straddling the line between mainstream appeal and progressive musical experimentation…\n\nRecorded in the Catskills, the band’s ninth album, Born Horses, is out now on Bella Union."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-02T06:00:00.000Z",
-      "endDate": "2025-03-02T10:00:00.000Z",
-      "@id": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
-      "url": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-09/fd0d4ce7-24d8-4cad-b9f9-3d1e620d1f48.jpg?rect=0%2C135%2C1080%2C1080"
-      },
-      "name": "Pyramid Scheme International Dance Party",
-      "description": "**Pyramid Scheme International Dance Party**\n\ndance party fantasy turned reality"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-04T04:00:00.000Z",
-      "endDate": "2025-03-04T07:00:00.000Z",
-      "@id": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
-      "url": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-17/8d1a05d9-065d-4ce5-8f75-0eabd72f2957.jpg?rect=351%2C0%2C3680%2C3680"
-      },
-      "name": "James Brandon Lewis Trio",
-      "description": "**James Brandon Lewis Trio**\n\nApple Cores is the latest full-length album from New York tenor saxophonist James Brandon Lewis, “one of the fiercest sounds in jazz today” (The Guardian) with a “penchant for unbound exploration” (Pitchfork). Informed by the rhythms and textures of hip-hop and funk while remaining rooted in jazz, James Brandon Lewis Trio’s Apple Cores was recorded with Chad Taylor (drums/mbira) and Josh Werner (bass/guitar). The recording was a collective compositional process that happened over the course of two intense, entirely improvised sessions.\n\n“If you don’t spend time with your band, you’re not going to really trust that moment,” Lewis says. “I think we’ve spent enough time together to where we can do that. I’ve been playing Chad for like 10 years, so that’s like water right there and me and Josh have been playing together since like 2018.”\n\nThe album takes its name and intention from the column that poet and jazz theorist Amiri Baraka wrote for DownBeat in the 1960s. “I was first exposed to Amiri Baraka at Howard University \\[also Baraka’s alma mater\\],” says Lewis. “Blues People \\[Baraka’s groundbreaking 1963 study of Black American music\\], was required reading. I’m always in constant dialogue with his work.”\n\nIn addition to Baraka, the influence of another jazz giant looms mightily over Apple Cores: trumpeter and multi-instrumentalist, Don Cherry. In a testament to Cherry’s influence over the music that the trio is playing, Lewis designed each song title as a cryptogram of sorts, making subtle references to Cherry’s life and music."
     },
     {
       "@type": "Place",

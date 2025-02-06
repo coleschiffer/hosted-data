@@ -36,7 +36,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-29/814cc03c-32d1-4f7f-bcfe-2effc9324dea.jpg?rect=0%2C0%2C2000%2C2000"
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/ed24655d-e4a5-483b-bcbc-100c93caf4d6.jpg?rect=0%2C0%2C2000%2C2000"
       },
       "name": "Eva Loona Smith, Rocko Wheeler",
       "description": "**Eva Loona Smith with Fine Folk**'s mission is to fuse genres and musical styles together from the inspiring roots of Folk music. The band believes unity is possible through music alone with the message it promotes and the community it creates. They believe in “Music for the people, by the people”. All of their music is recorded live in the studio, and their live shows are creative and diverse every time. The name \"Fine Folk\" is nearly a translation of their message, as it represents how by holding true to the unifying roots of folk music, people will be just fine.\n\nBorn in East Texas, **Rocko Wheeler** blends Americana, folk, and country, inspired by legends like John Prine and Townes Van Zandt. His music has taken him across the U.S., from small stages to Nashville’s iconic studios. His debut album, The Book of Rocko Wheeler, gained attention in Nashville and L.A., with \"The Ghost Got Loose\" becoming an anthem. Now based in L.A., Rocko performs at venues like Hotel Café and The Echo. His upcoming album, West Coast Gold, releases Spring 2025, chronicling his journey from Texas to L.A.\n\nDoors at 8 PM.\n\n$18 adv (+DICE fees)/$22 at the door"
@@ -166,6 +166,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-02-18T04:00:00.000Z",
+      "endDate": "2025-02-18T08:00:00.000Z",
+      "@id": "https://link.dice.fm/B2f6eb951524?dice_id=B2f6eb951524",
+      "url": "https://link.dice.fm/B2f6eb951524?dice_id=B2f6eb951524",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-05/c31653ec-43da-4776-8cf0-be89220d48f5.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Lila Forde, Rachel Mazer",
+      "description": "**Lila Forde** is a Los Angeles-based singer-songwriter known for her soulful melodies and heartfelt performances. A USC Thornton School of Music graduate, she gained national attention as a contestant on NBC's The Voice (Season 24), advancing to the Top 5 under John Legend's mentorship. After the show, Lila went on her first headlining tour, selling out venues across the West Coast. She released the EP *River*, featuring renditions of classic songs from the show. Lila is set to perform at SXSW in 2025, showcasing her Americana and singer-songwriter style.\n\n**Rachel Mazer** is a Los Angeles-based multi-instrumentalist known for her soulful pop-soul music. Originally from the San Francisco Bay Area, she studied jazz at the University of Michigan before moving to LA. In 2019, she released her debut album *How Do We Get By*, which earned critical acclaim and over 1.3 million streams on Spotify. Mazer has collaborated with artists like Vulfpeck, Cory Wong, Alessia Cara, Moonchild, and Monica Martin. She has performed at iconic venues, including the El Rey Theatre and the Bluebird Theater.\n\n$12 ADV (+DICE fees)/$15 DOOR\n\nDoors at 8 PM.\n\nD"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-02-19T04:00:00.000Z",
       "endDate": "2025-02-19T07:00:00.000Z",
       "@id": "https://link.dice.fm/G7fabbf3a09d?dice_id=G7fabbf3a09d",
@@ -200,6 +220,86 @@
       },
       "name": "Nicole Lawrence & the Durango House Band w/ Guests",
       "description": "**Nicole Lawrence** is a sought-after musician who has toured globally with artists like Jenny Lewis, Coldplay, Devendra Banhart, and Bruce Springsteen. Known for her deft pedal steel and guitar work, she introduces her own voice on her debut solo LP, *Time in Love*. A blend of poetic wisdom and virtuosity, the album reflects themes of intimacy, relationships, and community, influenced by J.J. Cale, early Beck, and the societal commentaries of films and philosophy. Recorded live at Studio 606, it captures the raw energy of collaboration, marking Lawrence's evolution as both an artist and a person.\n\nJoin us at Healing Force of the Universe for Nicole Lawrence and the Durango House Band (with special guests!!) February 12, 19 and 26th.\n\n**Ben Alleman** and his band will open.\n\n$15 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-21T04:00:00.000Z",
+      "endDate": "2025-02-21T08:00:00.000Z",
+      "@id": "https://link.dice.fm/q0ee2e152619?dice_id=q0ee2e152619",
+      "url": "https://link.dice.fm/q0ee2e152619?dice_id=q0ee2e152619",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-06/9fb30cf1-ed1b-45b7-8403-688b30e478eb.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Band Aparte, Bad Interior, Dizz Brew",
+      "description": "Phoggy Jeph presents: Band Aparte, Bad Interior, Dizz Brew at Healing Force of the Universe on Thursday, February 20. Doors at 8 PM. $5 ADV/$7 DOOR"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-22T04:00:00.000Z",
+      "endDate": "2025-02-22T08:00:00.000Z",
+      "@id": "https://link.dice.fm/e33d0d077769?dice_id=e33d0d077769",
+      "url": "https://link.dice.fm/e33d0d077769?dice_id=e33d0d077769",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-06/041957e1-3075-44ac-ae76-3995a6fc1204.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Harry the Nightgown, Poppy Patica, Abe Hollow Band",
+      "description": "**Harry the Nightgown** is a Los Angeles based duo who's influences range from The Raincoats and Kate Bush to Tierra Whack and Ennio Morricone. Their sound has been compared to bands such as Dirty Projectors and Deerhoof. The band formed in 2019 as an experimental project from engineers Sami Perez and Spencer Hartling of Tiny Telephone Studios in San Francisco. Today they work out of their new Los Angeles studio, Wiggle World.\n\n**Poppy Patica** is an odd rock band based in Oakland, California. Started by Peter Hartmann in his hometown, Washington, D.C., the band currently features Bay Area musicians Hannah Valente of and Zach Elsasser of .\n\nAdam Hirsch (**Abe Hollow**) is a Los Angeles-born musician and producer. He studied at Oberlin College and Mills College, where he earned an MFA in Electronic Music. Adam worked as a recording engineer at Tiny Telephone and The Creek in Oakland and organized the Lucky Cloud concert series. In 2021, he moved back to LA for an MA in Musicology at UCLA. Now, he runs The Acorn studio, writes music, and plays saxophone. He also organizes The Acorn Series and tours DIY across the USA in his Volkswagen hatchback.\n\n$15 ADV/$18 DOOR\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-23T22:00:00.000Z",
+      "endDate": "2025-02-24T00:30:00.000Z",
+      "@id": "https://link.dice.fm/Cbc257f06849?dice_id=Cbc257f06849",
+      "url": "https://link.dice.fm/Cbc257f06849?dice_id=Cbc257f06849",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-06/9abc0125-ec3d-4dba-ba9b-9cf96c4c8fcd.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Play Avec Strangers: The Experimental Music Jam",
+      "description": "Brian Cooper aka Earth Like Planets hosts an experimental music jam at Healing Force of the Universe on Sunday afternoon, February 23, at 2 PM. A suggested donation of $5 can be made upon entry.\n\nBrian Cooper, known as “Earth Like Planets,” is an LA-based solo artist blending sequenced synthesizers, vocals reminiscent of Ian McCulloch or Brendan Perry, and echoey guitar. He released two full-length albums (2019, 2021) and two EPs (2012, 2014). His sound roots in indie rock and post-punk, with some performances featuring live musicians. Cooper's music is influenced by cognitive science research and has been played on college radio. He’s performed in venues across LA and beyond, including The Echo, Gold Diggers, SXSW, and festivals in Joshua Tree and Ojai.\n\nCooper, also a visual artist, explores consciousness and material reality through trompe l’oeil techniques. His paintings combine elegance, humor, and philosophy, focusing on mind-body relationships, space, and modernity. His recent works depict abstracted bodies and obsolete phone book pages, inspired by Max Weber's theory of modernity. His art has been featured in publications like Juxtapoz, L.A. Weekly, and Hi Fructose, and exhibited in galleries worldwide. Cooper holds an MFA from USC and a BFA from the San Francisco Art Institute. He currently resides in Los Angeles.\n\n2 PM - $5 suggested donation to participate"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-24T03:00:00.000Z",
+      "endDate": "2025-02-24T07:00:00.000Z",
+      "@id": "https://link.dice.fm/s1e0ec5fc895?dice_id=s1e0ec5fc895",
+      "url": "https://link.dice.fm/s1e0ec5fc895?dice_id=s1e0ec5fc895",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-06/4c65f0c1-27c0-4b11-9210-89a75c649f27.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Dead Peaches: Taylor Kropp's Bday Party",
+      "description": "Dead Peaches, Allman Brothers & Grateful Dead tribute band, have their debut show at Healing Force of the Universe on February 23, 2025 in celebration of guitar shredder, Taylor Kropp's day of birth.\n\nDead Peaches is:\n\nTaylor Kropp\n\nAustin Callendar\n\nAlex Koford\n\nVince Fossett Jr.\n\nZena Kay\n\nStewart Forgey\n\nKatie Skene\n\n& special guests\n\nDoors at 7 PM\n\n$12 ADV/$15 DOOR"
     },
     {
       "@context": "https://schema.org",
@@ -306,6 +406,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-07T04:00:00.000Z",
+      "endDate": "2025-03-07T07:00:00.000Z",
+      "@id": "https://link.dice.fm/F725d822ca99?dice_id=F725d822ca99",
+      "url": "https://link.dice.fm/F725d822ca99?dice_id=F725d822ca99",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-01/17e3bd24-8ebe-43d4-a8fd-c003612aaa10.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Black Oak Artists Showcase",
+      "description": "Join us at Healing Force of the Universe for the Black Oak Artists Showcase. Featuring **Ashley E. Norton, David Luning, Shane Alexander** and **Pi Jacobs**.\n\n$20 adv + DICE fees / $25 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-08T04:00:00.000Z",
       "endDate": "2025-03-08T07:00:00.000Z",
       "@id": "https://link.dice.fm/R021dabcfa3d?dice_id=R021dabcfa3d",
@@ -360,6 +480,26 @@
       },
       "name": "Iain Matthews, Russ Tolman",
       "description": "A vital figure in the history of British folk, **Ian Matthews** (also billed as **Iain Matthews**) was a founding member of the pioneering U.K. folk-rock band Fairport Convention before he went on to found his own group, Matthews' Southern Comfort, and later moved on to a solo career. Matthews possesses a warm and expressive tenor voice and a talent for songwriting. While he drew from British folk traditions in his work, his greatest inspiration came from American country, folk, and roots music, and he blended their timeless themes with a hippie-fied pastoral feel that was warm and sweet or sorrowful, depending on the song. Though he would dabble in soft rock, power pop, and synth pop in the late '70s and early '80s, he always returned to the sun-dappled sound of the country-folk hybrid that was his trademark.\n\n**Russ Tolman** is a singer-songwriter and guitarist known for his work in the 1980s Paisley Underground with True West, whose dark, hypnotic sound set them apart from their peers. After leaving the band, he launched a successful solo career with albums like *Totem Poles and Glory Holes* and *Down In Earthquake Town*, collaborating with artists like Johnette Napolitano and Howe Gelb. His music blends folk, rock, and experimental sounds, with his 2019 album *Goodbye El Dorado* paying tribute to the Laurel Canyon singer-songwriter era.\n\n$25 adv + DICE fees / $30 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-30T03:00:00.000Z",
+      "endDate": "2025-04-30T07:00:00.000Z",
+      "@id": "https://link.dice.fm/od92a59afa6f?dice_id=od92a59afa6f",
+      "url": "https://link.dice.fm/od92a59afa6f?dice_id=od92a59afa6f",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/e575629c-c261-47ee-872d-56ac5f255db0.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Macie Stewart",
+      "description": "**Macie Stewar**t’s upcoming album *When the Distance is Blue* (International Anthem, 2024), out March 21, offers a cinematic and symphonic exploration of life's in-between moments. The album weaves together Stewart’s prepared piano improvisations, lush string arrangements, and field recordings captured during a year of touring, creating a sonic landscape that marks her most striking work yet. A Chicago-based multi-instrumentalist, composer, and improviser, Stewart is known for her deep listening and technical prowess, with Pitchfork calling her one of the standout collaborators of the past five years.\n\nIn 2014, Stewart co-founded the experimental duo Finom, which has released four records and garnered praise for its avant-pop, art-rock sound. Their latest album Not God (2024) showcases the duo’s signature harmonies, lyricism, and innovative sonic textures. Stewart’s composition work spans various disciplines, dissolving boundaries between genres. She composed for Hubbard Street Dance’s Half of Us in 2021, worked with Finom bandmate Sima Cunningham and Alex Grelle on a performance piece honoring Kate Bush, and scored a 50-piece orchestra for the Pacific Northwest Ballet’s Before I Was (2022). More recently, she created a sound installation for Robyn Mineko Williams’ Hisako House and contributed to the ESS Florisonic Installation at Lincoln Park Conservatory in 2024.\n\nDoors at 8 PM\n\n$15 ADV (+dice fees)/$18 DOOR"
     },
     {
       "@type": "Place",
