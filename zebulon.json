@@ -6,206 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-07T04:00:00.000Z",
-      "endDate": "2025-02-07T07:00:00.000Z",
-      "@id": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
-      "url": "https://link.dice.fm/k3e86fc88e38?dice_id=k3e86fc88e38",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-05/97d2e121-21f2-472a-95fe-0f7efefd5c46.jpg?rect=0%2C51%2C1401%2C1401"
-      },
-      "name": "Shane Parish, Barry Archie Johnson, Paul Lai ",
-      "description": "**Shane Parish, Barry Archie Johnson, Paul Lai**\n\nShane Parish – the virtuosic self-taught guitarist from Athens, Georgia – visits Zebulon for a night of acoustic guitar at a free show also featuring L.A.’s Barry Archie Johnson.\n\nAthens, Georgia-based guitarist Shane Parish devotes his days to developing his singular and expressive musicianship. A self-taught musician, he is known for his orchestral finger-style solo arrangements, for his intense and intricate electric playing in the avant-rock band Ahleuchatistas, and as a member of the Bill Orcutt Guitar Quartet. His music is a fluid synthesis of many traditions, ceaselessly pushing the edges as it aims for the future. Over the years, he has released albums on labels such as Tzadik Records, Palilalia Records, Cuneiform Records, and International Anthem.\n\n“Shane Parish is a relentless interpreter. The guitarist's catalog is full of folk songs, sea shanties and the Chet Baker Sings album thoughtfully and playfully mangled. (Parish also notated and arranged Bill Orcutt's Music for Four Guitars for, well, four guitars — their Tiny Desk is raucously joyful.)”\n\n—Lars Gotrich, NPR\n\n“In the spirit of solo acoustic guitarists like John Renbourn and Bert Jansch, or American Primitivists John Fahey and Robbie Basho, Parish reinterprets canons, with a focus on a motley crew of titans of the last century: Ornette Coleman, Minutemen, Alice Coltrane, Charles Mingus, Apex Twin, Kraftwerk, Sun Ra, Roland Kirk, John Cage, and Fred Rogers.”\n\n—Repressed Records\n\n“As an arranger and transcriber, Shane has incredible attention to detail and a devotion to get it right. As a performer and improvisor, he’s passionate and has terrific drive and charisma. On stage, he’s impossible not to like.”\n\n—Bill Orcutt, quoted in Flagpole Magazine (Athens, GA)\n\nPaul Lai is best known as the guitarist and leader of Upsilon Acrux- one of Southern California's most storied and intense instrumental groups and a key proponent of an incredibly intricate, rigorous evolution of rock/prog/jazz music. He recently returned after a 5.5 year sojourn in Taipei, Taiwan – where he formed the group (Z)erpents and advanced his work in the city’s vibrant music underground.\n\nHis solo guitarwork is known as \"Scissortronics\" and has performed frequently in Taipei and Los Angeles with butoh dancer(s) and in group formats w/ Patrick Shiroishi, Dylan Fujioki, Mark Kimbrell and Heldon among others."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-08T03:00:00.000Z",
-      "endDate": "2025-02-08T06:00:00.000Z",
-      "@id": "https://link.dice.fm/F7ad5b5edbbe?dice_id=F7ad5b5edbbe",
-      "url": "https://link.dice.fm/F7ad5b5edbbe?dice_id=F7ad5b5edbbe",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-04/6fc5d940-7d1d-4dba-ad9a-dc020f22bdac.jpg?rect=504%2C0%2C3024%2C3024"
-      },
-      "name": "Dave Palmer, Reggie Hamilton, Joey Waronker Trio",
-      "description": "**Dave Palmer, Reggie Hamilton, Joey Waronker**\n\nThe DPT is a jazz trio comprised of Joey Waronker on drums, Reggie Hamilton on bass, and Dave Palmer on piano. The group plays almost exclusively original compositions in a style more attuned to 50s and 60s swing and the compositional elements found therein. Leaning heavily on influences like Duke Ellington, Benny Golson, Horace Silver, Mingus and Monk there is an old school aura that is evenly mixed with a new, more personal touch. This ensemble is a grouping of exceptional musicians all of whom have deep and varied career experience.\n\nJoey Waronker has worked with artists ranging from his long term standing in Beck’s band and more recent touring with Roger Waters to a massive list of others including REM, Atoms for Peace, Yoko Ono, Johnny Cash, Gnarls Barkley, and SIA...to name but a few. An in demand session player and producer for many years, he is also a highly influential musician and producer in LA and beyond.\n\nReggie Hamilton’s professional career is so varied and deep it’s hard to know where to begin. He has played with artists such as David Lynch, Queen Latifah, Warren Zevon, Whitney Houston, Seal, Mariah Carey, Baby Face and George Duke...once again to name but a few. He is also a sought after session player, equally comfortable on Pop, RnB and orchestral music dates. Easily one of the most skilled and versatile bassists in LA and around the world.\n\nDave Palmer is a pianist and keyboardist who makes the bulk of his living scoring films. His body of work includes such works as The Beginners, The Greatest Beer Run Ever, Ricky Stanicky, Goats, On Any Sunday the Next Chapter..to name a few. He has scored and worked on shows and video games including Loudermilk, Hannibal, American Gods, Boss, Grand Theft Auto V, Red Dead Redemption 2, and Watchdogs. Dave is still an in demand session player and arranger who’s credits in that side of the business include Fiona Apple, Air, Fleetwood Mac, De La Soul, Kanye West, Patty Griffin, Brandi Carlile, Shania Twain, Sharon van Etten, Mastodon, and Cordae to, once again, name but a few.\n\nThe group’s first album, recently recorded in Hollywood, will be released in the coming weeks."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-08T06:00:00.000Z",
-      "endDate": "2025-02-08T10:00:00.000Z",
-      "@id": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
-      "url": "https://link.dice.fm/fc13be335bcc?dice_id=fc13be335bcc",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-29/17f9c571-b967-43ad-8f40-262845a1bceb.jpg?rect=0%2C93%2C1080%2C1080"
-      },
-      "name": "Dance Till You're Dead - the Indie Sleaze Dance Party",
-      "description": "Dance Till You're Dead - the Indie Sleaze Dance Party with DJ Goth Receptionist"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-09T03:00:00.000Z",
-      "endDate": "2025-02-09T06:00:00.000Z",
-      "@id": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
-      "url": "https://link.dice.fm/N79543778fda?dice_id=N79543778fda",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-23/9818fd04-c24f-48bd-84b5-4c11e16c4fc9.jpg?rect=0%2C268%2C5400%2C5400"
-      },
-      "name": "LA Fire Relief Benefit : Rocket, Draag, RAM & DJ Silversun Pickups ",
-      "description": "**LA Fire Relief Benefit : Rocket, Draag, RAM & DJ Silversun Pickups**\n\npresented by Crap Eyewear LA & Stereogum with proceeds donated to California Community Foundation's Wildfire Recovery Fund + Pasadena Community Job Center"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-09T06:00:00.000Z",
-      "endDate": "2025-02-09T10:00:00.000Z",
-      "@id": "https://link.dice.fm/dac119738b1b?dice_id=dac119738b1b",
-      "url": "https://link.dice.fm/dac119738b1b?dice_id=dac119738b1b",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-12/88968fec-630d-4c3f-82f9-64bb5da73bbf.jpg?rect=0%2C135%2C1080%2C1080"
-      },
-      "name": "The Jump Off Dance Party",
-      "description": "The Jump Off Dance Party\n\nwith DJs Soulchild Seb, Nativity\n\nAn All Vinyl Affair"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-10T04:00:00.000Z",
-      "endDate": "2025-02-10T07:00:00.000Z",
-      "@id": "https://link.dice.fm/bf5db75699e0?dice_id=bf5db75699e0",
-      "url": "https://link.dice.fm/bf5db75699e0?dice_id=bf5db75699e0",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-03/8edb89f8-16db-49a9-a210-5b26104dd713.jpg?rect=0%2C0%2C1021%2C1021"
-      },
-      "name": "Mercedes Kilmer, Sam Buck, John Errol",
-      "description": "Mercedes Kilmer\n\nSam Buck\n\nJohn Errol"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-11T03:00:00.000Z",
-      "endDate": "2025-02-11T07:00:00.000Z",
-      "@id": "https://link.dice.fm/Mbea09f5e3b4?dice_id=Mbea09f5e3b4",
-      "url": "https://link.dice.fm/Mbea09f5e3b4?dice_id=Mbea09f5e3b4",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
-      },
-      "name": "Total Pleasure February Residency",
-      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night Two\n\n- Past self\n- Total Pleasure\n- Friction\n- Pink depression\n- Miñin (DJ)"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-12T04:00:00.000Z",
-      "endDate": "2025-02-12T07:00:00.000Z",
-      "@id": "https://link.dice.fm/V4980dccf615?dice_id=V4980dccf615",
-      "url": "https://link.dice.fm/V4980dccf615?dice_id=V4980dccf615",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-05/bea2091f-2061-44eb-9630-700220c155da.jpg?rect=0%2C139%2C1792%2C1792"
-      },
-      "name": "Austin McCutchen & the Western Stars",
-      "description": "Austin McCutchen & the Western Stars"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-13T04:00:00.000Z",
-      "endDate": "2025-02-13T08:00:00.000Z",
-      "@id": "https://link.dice.fm/Hd5e1fcba718?dice_id=Hd5e1fcba718",
-      "url": "https://link.dice.fm/Hd5e1fcba718?dice_id=Hd5e1fcba718",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-05/fa609441-5726-471f-aa2c-cd11ef55ca00.jpg?rect=0%2C237%2C1127%2C1127"
-      },
-      "name": "Total Recall (1990) screening",
-      "description": "**Total Recall (1990)** Screening\n\nDouglas Quaid is haunted by a recurring dream about a journey to Mars. He hopes to find out more about this dream and buys a holiday at Rekall Inc. where they sell implanted memories. But something goes wrong with the memory implantation and he remembers being a secret agent fighting against the evil Mars administrator Cohaagen. Now the story really begins and it's a rollercoaster ride until the massive end of the movie."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-14T04:00:00.000Z",
-      "endDate": "2025-02-14T07:00:00.000Z",
-      "@id": "https://link.dice.fm/T94ad869f5d0?dice_id=T94ad869f5d0",
-      "url": "https://link.dice.fm/T94ad869f5d0?dice_id=T94ad869f5d0",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-21/dcfdca7b-6019-4317-9cf7-beb9920c670a.jpg?rect=0%2C21%2C1200%2C1200"
-      },
-      "name": "Kidsnot$aints., Ebony Loren ",
-      "description": "**Kidsnot$aints., Ebony Loren**\n\nKidsnot$aints., a genre-defying modern boyband, is making waves with their unique sound and heartfelt storytelling. Known for standout singles like \"Love, Always\" and \"60's Baby,\" the trio seamlessly blends influences from indie rock, shoegaze, and even western soundscapes. Their versatility and emotional depth shine through on their latest EP, Ms. Velveteen, which explores themes of longing, love, and self-discovery. The band is set to make their highly anticipated headlining debut in Los Angeles, perfectly timed for Valentine's Day—a fitting occasion for a group whose music resonates with lovesick hearts everywhere.\n\n\\*all ticket proceeds will be donated to California Community Foundation Wildfire Recovery Fund"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-15T03:00:00.000Z",
       "endDate": "2025-02-15T06:00:00.000Z",
       "@id": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
@@ -276,7 +76,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2023-12-28/0b2b0fb6-cbcc-4d0a-8df1-08b246774595.jpg?rect=216%2C0%2C768%2C768"
+        "url": "https://dice-media.imgix.net/attachments/2025-02-11/2eb136a6-7126-44e5-9a39-a4f934b32898.jpg?rect=0%2C270%2C2160%2C2160"
       },
       "name": "Reverberation Radio DJ Night ",
       "description": "**Reverberation Radio DJ Night**\n\nTropical boogie, international disco and other spaced out dance floor favs from the 70s"
@@ -298,8 +98,8 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2024-10-17/5916e399-3666-4243-ad77-a8374ab5b530.jpg?rect=149%2C0%2C1202%2C1202"
       },
-      "name": "The Slaps, Hemlock ",
-      "description": "**The Slaps, Hemlock**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live."
+      "name": "The Slaps, Hemlock, Chatterton",
+      "description": "**The Slaps, Hemlock, Chatterton**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live."
     },
     {
       "@context": "https://schema.org",
@@ -378,7 +178,7 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2025-01-19/b7ccc599-5fe0-4299-a883-33fdbf9d42a7.jpg?rect=0%2C0%2C1200%2C1200"
       },
-      "name": "Lina Tullgren, Cate Kennan",
+      "name": "Lina Tullgren, Cate Kennan, Five Slashes",
       "description": "Lina Tullgren is an artist, improviser, performer and poet. Their work explores space, duality, relationships and the divine. Recent works of both song music and improvised violin have been released under Astral Spirits, Ba Da Bing! and Captured Tracks. Their new album of songs \"Decide Which Way The Eyes Are Looking\" is due February 7 via PPM. They live in Los Angeles."
     },
     {
@@ -399,7 +199,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-02-05/99ef28a6-b0c6-49d8-8b5f-d0e9323fb40f.jpg?rect=0%2C0%2C768%2C768"
       },
       "name": "Earlybirds Club",
-      "description": "Earlybirds Club is a dance party for women, trans, and non-binary folks that starts at 6pm and ends at 10pm—because we have sh\\*t to do in the morning!\n\nOur DJ Helean spins songs from the 80s to 2000s, including pop, hip-hop, new wave, and R&B—you know, the ones you sing at the top of your lungs when no one's home! Earlybirds Club is more than a fun night out, it's a supportive community who wouldn't think to judge your fashion or your Elaine Benes–inspired dance moves. (If you got that reference, you’re definitely an Earlybird!)\n\n10% of ticket proceeds benefit the Red Cross."
+      "description": "Earlybirds Club is a dance party for women, trans, and non-binary folks that starts at 6pm and ends at 10pm—because we have sh\\*t to do in the morning!\n\nOur DJ Helean spins songs from the 80s to 2000s, including pop, hip-hop, new wave, and R&B—you know, the ones you sing at the top of your lungs when no one's home! Earlybirds Club is more than a fun night out, it's a supportive community who wouldn't think to judge your fashion or your Elaine Benes–inspired dance moves. (If you got that reference, you’re definitely an Earlybird!)\n\nEarlybirds Club is designed for women, trans, and non-binary people but we are inclusive of people not in these groups.\n\n10% of ticket proceeds benefit the Red Cross."
     },
     {
       "@context": "https://schema.org",
@@ -600,6 +400,206 @@
       },
       "name": "Mercury Rev, Liz Lamere",
       "description": "**Mercury Rev, Liz Lamere**\n\nSince forming in 1989 in Buffalo, New York, Mercury Rev has made a career of boldly exploring the fringes of artistic perception, channeling colors and sounds and visions that always seem just beyond our mortal reach. The Guardian hailed the group as “a rarity in indie rock: a band who have continually evolved their sound, pushing at the boundaries of what rock music actually means over 25 years, borrowing from jazz, funk, doo-wop, techno, folk and more along the way,” while Rolling Stone praised their “majestic chaos,” and the BBC lauded their “shimmering psychedelic pop, immersive indie-rock, \\[and\\] spectacularly engrossing passages of sumptuous instrumentation.”\n\nThe band’s 1991 debut, ‘Yerself Is Steam,’ landed on Pitchfork’s Best Shoegaze Albums of All Time, and their 1998 breakthrough, ‘Deserter’s Songs’, upon its release was named NME’s Album of the Year, Pitchfork’s 100 Favorite Records of the 1990s (2003),Melody Maker’s All Time Top 100 Albums (2000), Uncut’s 200 Greatest Albums of All Time (2016) and multiple1000 Albums to Hear Before You Die lists. Diverse musical collaborations with legendary artistic luminaries as well as major festival and network television performances around the world have solidified their status as One of America’s most pioneering groups capable of straddling the line between mainstream appeal and progressive musical experimentation…\n\nRecorded in the Catskills, the band’s ninth album, Born Horses, is out now on Bella Union."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-02T06:00:00.000Z",
+      "endDate": "2025-03-02T10:00:00.000Z",
+      "@id": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
+      "url": "https://link.dice.fm/P09ad8058b32?dice_id=P09ad8058b32",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-09/fd0d4ce7-24d8-4cad-b9f9-3d1e620d1f48.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Pyramid Scheme International Dance Party",
+      "description": "**Pyramid Scheme International Dance Party**\n\ndance party fantasy turned reality"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-04T04:00:00.000Z",
+      "endDate": "2025-03-04T07:00:00.000Z",
+      "@id": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
+      "url": "https://link.dice.fm/G9cf090822f3?dice_id=G9cf090822f3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-17/8d1a05d9-065d-4ce5-8f75-0eabd72f2957.jpg?rect=351%2C0%2C3680%2C3680"
+      },
+      "name": "James Brandon Lewis Trio",
+      "description": "**James Brandon Lewis Trio**\n\nApple Cores is the latest full-length album from New York tenor saxophonist James Brandon Lewis, “one of the fiercest sounds in jazz today” (The Guardian) with a “penchant for unbound exploration” (Pitchfork). Informed by the rhythms and textures of hip-hop and funk while remaining rooted in jazz, James Brandon Lewis Trio’s Apple Cores was recorded with Chad Taylor (drums/mbira) and Josh Werner (bass/guitar). The recording was a collective compositional process that happened over the course of two intense, entirely improvised sessions.\n\n“If you don’t spend time with your band, you’re not going to really trust that moment,” Lewis says. “I think we’ve spent enough time together to where we can do that. I’ve been playing Chad for like 10 years, so that’s like water right there and me and Josh have been playing together since like 2018.”\n\nThe album takes its name and intention from the column that poet and jazz theorist Amiri Baraka wrote for DownBeat in the 1960s. “I was first exposed to Amiri Baraka at Howard University \\[also Baraka’s alma mater\\],” says Lewis. “Blues People \\[Baraka’s groundbreaking 1963 study of Black American music\\], was required reading. I’m always in constant dialogue with his work.”\n\nIn addition to Baraka, the influence of another jazz giant looms mightily over Apple Cores: trumpeter and multi-instrumentalist, Don Cherry. In a testament to Cherry’s influence over the music that the trio is playing, Lewis designed each song title as a cryptogram of sorts, making subtle references to Cherry’s life and music."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-08T03:00:00.000Z",
+      "endDate": "2025-03-08T06:00:00.000Z",
+      "@id": "https://link.dice.fm/D195241bb519?dice_id=D195241bb519",
+      "url": "https://link.dice.fm/D195241bb519?dice_id=D195241bb519",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-19/9d9a0f49-d1f3-437b-aee5-bc4fb8b91d7e.jpg?rect=497%2C0%2C1757%2C1757"
+      },
+      "name": "The Mother Hips",
+      "description": "**The Mother Hips**\n\nSan Francisco, CA: The Mother Hips are back with a new album, When We Disappear, a compelling new studio album set for release January 27, 2023 on Blue Rose. Based in Northern California, the Hips headed to New Mexico, spending time at Ghost Ranch before settling in at Jono Manson's Kitchen Sink studio in Sante Fe in late 2021 for the sessions. Self-produced, When We Disappear features nine new tracks co-written by co-founders Tim Bluhm and Greg Loiacono — a collection of lit-psych rock songs Inspired by psychology and literature — as well as a raw, garagey cover of Buffy St. Marie’s 1964 addiction song “Codine.”\n\nHailed by the San Francisco Chronicle as “one of the Bay Area’s most beloved live outfits,” The Mother Hips' headline and festival performances have became the stuff of legend, finding them sharing stages with everyone from Johnny Cash and Wilco to Lucinda Williams and The Black Crowes. Rolling Stone called the band “divinely inspired,” while Pitchfork praised their “rootsy mix of 70’s rock and power pop,” and The New Yorker lauded their ability to “sing it sweet and play it dirty.”"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-08T06:00:00.000Z",
+      "endDate": "2025-03-08T10:00:00.000Z",
+      "@id": "https://link.dice.fm/F99797c16bd6?dice_id=F99797c16bd6",
+      "url": "https://link.dice.fm/F99797c16bd6?dice_id=F99797c16bd6",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-07/d252a803-b7c5-4886-aec3-75f567290511.jpg?rect=0%2C0%2C1141%2C1141"
+      },
+      "name": "On the Flip with DJs Danny Holloway, Curator, Coleman, Decisions",
+      "description": "On the Flip with DJs Danny Holloway, Curator, Coleman, Decisions\n\n\"Playin' grooves across the planet\""
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-09T03:00:00.000Z",
+      "endDate": "2025-03-09T06:00:00.000Z",
+      "@id": "https://link.dice.fm/X85b3a7ccf27?dice_id=X85b3a7ccf27",
+      "url": "https://link.dice.fm/X85b3a7ccf27?dice_id=X85b3a7ccf27",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/d02967d8-633d-411e-8e8d-42af6e9bfe98.jpg?rect=0%2C93%2C960%2C960"
+      },
+      "name": "CROM, ACxDC, Shitbrains",
+      "description": "CROM\n\nACxDC\n\nShitbrains\n\nBenefit show for vicitims of the Eaton Fire"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-10T02:00:00.000Z",
+      "endDate": "2025-03-10T06:00:00.000Z",
+      "@id": "https://link.dice.fm/vcd01e52b1d3?dice_id=vcd01e52b1d3",
+      "url": "https://link.dice.fm/vcd01e52b1d3?dice_id=vcd01e52b1d3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-11/cf48be52-7fd9-4f28-84ad-9de4c48a042f.jpg?rect=645%2C0%2C2580%2C2580"
+      },
+      "name": "Baddiez Night: Rosie, Mary, Sally Spitz, Palma Estela, DJ Jordan Heyser",
+      "description": "Baddiez Night: Rosie, Mary, Sally Spitz, Palma Estela, DJ Jordan Heyser"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-11T03:00:00.000Z",
+      "endDate": "2025-03-11T06:00:00.000Z",
+      "@id": "https://link.dice.fm/p82198c1032e?dice_id=p82198c1032e",
+      "url": "https://link.dice.fm/p82198c1032e?dice_id=p82198c1032e",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-09/2599be9c-f4d0-448d-a685-0c8c9e0d6fa9.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Slow Heat, Monde UFO, Leng Bian, Shelley Burgon & Patrick Shiroishi",
+      "description": "Slow Heat (record release)\n\nMonde UFO (record release)\n\nLeng Bian, Shelley Burgon & Patrick Shiroishi\n\nSlow Heat is LA-based musician James Novick (Expose, ex-Hooveriii). The new Slow Heat album \"Magic Realism\" is out March 7 on Jungle Gym Records. A sonic exploration of fourth world soundscapes and repetitive meditations, Magic Realism is an acid-soaked fried egg stuck to the bottom of the ocean floor."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-12T02:00:00.000Z",
+      "endDate": "2025-03-12T06:00:00.000Z",
+      "@id": "https://link.dice.fm/fb58749cd355?dice_id=fb58749cd355",
+      "url": "https://link.dice.fm/fb58749cd355?dice_id=fb58749cd355",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-03/f2dcfa61-1d0c-47dc-b2b4-8bece7c5f8ab.jpg?rect=521%2C0%2C2048%2C2048"
+      },
+      "name": "Sagittaire & Ascetic Faces, Hirons, Cole Berliner",
+      "description": "**Sagittaire & Ascetic Faces, Hirons, Cole Berliner**\n\nThe term “collision music” is typically associated with bassist/producer Bill Laswell, known for uniting artists from divergent sound worlds to create something unexpected. Coventry Suite Pt. 1, the experimental hip-hop and R&B project from Sagitairre’s Ivan Mairesse, is directly influenced by Laswell’s concept — “colliding” musicians from various communities in his hometown of LA to form the genre-agnostic group, Ascetic Faces. The album’s title is an additional nod to Coventry, the British town that spawned ska group The Specials and the multiracial 2-Tone movement.\n\n“I was interested early on in the recontextualization aspect of sampling, whether that came from Christian Marclay or Prince Paul,” explains Mairesse. “Marrying sounds or techniques from culturally distant spheres is a way of calling into question listeners' tendencies to keep these worlds separate. There is a certain political critique communicated in those juxtapositions. In a way, it’s an extension of pop-art.”"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-13T03:00:00.000Z",
+      "endDate": "2025-03-13T06:00:00.000Z",
+      "@id": "https://link.dice.fm/t75fb6854541?dice_id=t75fb6854541",
+      "url": "https://link.dice.fm/t75fb6854541?dice_id=t75fb6854541",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-25/55c2bc94-8476-41a9-bd75-567696415005.jpg?rect=334%2C0%2C1333%2C1333"
+      },
+      "name": "Chat Pile, Purest Form",
+      "description": "Chat Pile, Purest Form"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-14T03:00:00.000Z",
+      "endDate": "2025-03-14T06:00:00.000Z",
+      "@id": "https://link.dice.fm/u590ca6c31cd?dice_id=u590ca6c31cd",
+      "url": "https://link.dice.fm/u590ca6c31cd?dice_id=u590ca6c31cd",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-25/55c2bc94-8476-41a9-bd75-567696415005.jpg?rect=334%2C0%2C1333%2C1333"
+      },
+      "name": "Chat Pile, Deaf Club",
+      "description": "Chat Pile, Deaf Club"
     },
     {
       "@type": "Place",
