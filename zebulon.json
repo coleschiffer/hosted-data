@@ -6,126 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-15T03:00:00.000Z",
-      "endDate": "2025-02-15T06:00:00.000Z",
-      "@id": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
-      "url": "https://link.dice.fm/D70d87d16d04?dice_id=D70d87d16d04",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-10-15/2d63f3e2-c6ca-4fe6-8437-d3f4cc1ce1e5.jpg?rect=0%2C0%2C1080%2C1080"
-      },
-      "name": "Lomelda + Tomberlin",
-      "description": "Sid The Cat Presents\n\nLomelda + Tomberlin\n\nW/ Greg Mendez\n\n2/14/2025 at Zebulon\n\n21+\n\nTomberlin is Sarah Beth Tomberlin, a pastor’s kid born in Florida, raised in rural Illinois. She wrote the majority of her debut, At Weddings (2018), while living at home. For a while after leaving home and church, she lived in Louisville, Kentucky. She worked a day job and kept writing songs. She posted some of these songs to Bandcamp, which led to her signing a record deal with Saddle Creek. It all happened fast: Less than a year after her first live show, she performed on Jimmy Kimmel and she ended up moving to L.A. which is where she wrote Projections (2020), her EP followup to At Weddings.\n\n—\n\nLomelda is Hannah Read's musical project. In swampy, sweaty, Silsbee, TX, she first formed the band with her high school best friends. Throughout the next decade, Lomelda mad a habit out of stretching to fit new friendships and shrinking down to solo strummings. Four albums and a never-the-same live show chronicle these shifts in shape and sound.\n\nLomelda's fifth album is called Hannah. The album stretches and shrinks into many of Lomelda's different forms, from expansive \"Wonder\" and rock band \"Reach\" to meandering \"Stranger Sat By Me\" and finger picking \"It's Infinite.\" Through this range of moods, Hannah sings stories of strangers, suns, dogs, moms, brothers, favorite bands, \"oh god!\"s and big shots as well as herself, by name. She rejoices and reviles her god-given name and then flips it around to name herself Hannah once again. It is an album of confession and transformation made ultimately singable."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-15T06:00:00.000Z",
-      "endDate": "2025-02-15T10:00:00.000Z",
-      "@id": "https://link.dice.fm/ca57869fb46b?dice_id=ca57869fb46b",
-      "url": "https://link.dice.fm/ca57869fb46b?dice_id=ca57869fb46b",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-04/1fb7e9d8-4cc9-465d-934d-8faedd251b9c.jpg?rect=0%2C122%2C1080%2C1080"
-      },
-      "name": "Heaven Or Los Angeles - A Cocteau Twins Dance Nite",
-      "description": "Heaven Or Los Angeles - A Cocteau Twins Dance Night with DJ's Olive Kimoto & Paige Emery\n\nValentine's Day"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-16T03:00:00.000Z",
-      "endDate": "2025-02-16T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Mf0406649a09?dice_id=Mf0406649a09",
-      "url": "https://link.dice.fm/Mf0406649a09?dice_id=Mf0406649a09",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-15/8acfd11e-7741-4f63-9aa7-69515eb623e0.jpg?rect=228%2C0%2C768%2C768"
-      },
-      "name": "Ryosuke Kiyasu, Lucas Granpa Abela, Ted Byrnes, Law",
-      "description": "An evening of extreme sound and performance featuring two astonishing artists from across the Pacific, and some from right here at a gig pulled by UPEND\n\nThe Japanese snare drum soloist 🥁 RYOSUKE KIYASU🥁 rips and thrashes, pushing limits of what can be improvised with a couple of drumsticks, a snare, a mic, and a table. Amidst cathartic whole-body maneuvers, he can just as easily issue a flurry of rolls and virtuosic high velocity click-clack on the rims, or in turn growl right into the heads, or even take the party to the floor for some scrape and drag.\n\nAND\n\nLongtime globe travelling DIY-lifer LUCAS ‘GRANPA’ ABELA (fka Justice Yeldham) also pushes the boundaries and also pushes a large shard of glass into his face and against his mouth, playing it as an electroacoustic instrument, these days feeding the signal into a an array of modular chaos. Might there be blood?\n\nPLUS a couple actions from L.A zones: Percussionist TED BYRNES throwing metal around, and LAW – the duo of L. Coats and Jonah Bergman - folding primitive folk instrumentation right into the harsh."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-16T06:00:00.000Z",
-      "endDate": "2025-02-16T10:00:00.000Z",
-      "@id": "https://link.dice.fm/H075ecda6915?dice_id=H075ecda6915",
-      "url": "https://link.dice.fm/H075ecda6915?dice_id=H075ecda6915",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-11/2eb136a6-7126-44e5-9a39-a4f934b32898.jpg?rect=0%2C270%2C2160%2C2160"
-      },
-      "name": "Reverberation Radio DJ Night ",
-      "description": "**Reverberation Radio DJ Night**\n\nTropical boogie, international disco and other spaced out dance floor favs from the 70s"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-17T04:00:00.000Z",
-      "endDate": "2025-02-17T07:00:00.000Z",
-      "@id": "https://link.dice.fm/Dcdaabbb07ab?dice_id=Dcdaabbb07ab",
-      "url": "https://link.dice.fm/Dcdaabbb07ab?dice_id=Dcdaabbb07ab",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-10-17/5916e399-3666-4243-ad77-a8374ab5b530.jpg?rect=149%2C0%2C1202%2C1202"
-      },
-      "name": "The Slaps, Hemlock, Chatterton",
-      "description": "**The Slaps, Hemlock, Chatterton**\n\nAs proven on their strange and beautiful new album Mudglimmer, the looming specter of artistic oblivion pushed The Slaps to lean into their idiosyncrasies: snaking rhythms, complicatedly interlocking guitar riffs, grubby yet alluring poetry, and homespun post-modern Americana sing-alongs all surge with a free-wheeling improvisatory verve informed by free jazz. It’s a stunning DIY comeback story, a doubling-down on avant-garde impulses that pays immediate dividends.\n\nSpontaneous composition and earnest, threadbare folk collide on Mudglimmer. It’s a marvel of influential synthesis, evoking Slint’s comfortability with ominous tension (“Mudglimmer”), Tortoise’s slinky push-pull grooves (“Filthy Sex Manuevers”), Waxahatchee’s slice-of-life Americana gems (“Flip”), elliptical funk-punk a la The Minutemen (“Forward”), minimal grunge-pop in the vein of Sebadoh (“King”) and so much more.\n\nMudglimmer, in short, rips. Faced with existential threats, The Slaps reconfigured and reenergized — finding purpose, not in reaching for a brass ring, but in becoming fully, unashamedly, their own wonderfully confounding thing.\n\n+++\n\n**hemlock** is the swamp-raised \"phone-fi” alt-folk project of multi-disciplinary creative force Carolina Chauffe and various rotating collaborators, currently anchored between Chicago, Austin, and Louisiana, but more often on the road.\n\nTheir most recent album ‘444’ – self-released in October 2024 – is a \"best of, so far\" of an ongoing song-a-day-for-a-month project, with its 12 carefully chosen tracks recaptured, rearranged, and reimagined in eager collaboration with an all-star Chicago cast.\n\nThis is means-to-an-end modern-day folk art for the open-hearted. Eager, intentionally imperfect, prolific.\n\nDoggedly DIY, Chauffe is an avid documenter, an amateur archivist, and a believer in magic, with a discography spanning hundreds of songs in half a decade, including their independently released debut full-band LP 'talk soon' (2022), and 6 months' worth of aforementioned phone-recorded song-a-day collections (2019-present), among other works.\n\nIn addition to hemlock, Carolina has toured in Merce Lemon (2023), Babehoven (2022), Fran (2023), and is a long-time member of TX band Little Mazarn.\n\nThey are a gatherer, a neighbor, and a hopeful for a free Palestine, for a free tomorrow for all. They will be a road dog for as long as they can, and make music for as long as they live."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-18T03:00:00.000Z",
-      "endDate": "2025-02-18T07:00:00.000Z",
-      "@id": "https://link.dice.fm/g59230137ffa?dice_id=g59230137ffa",
-      "url": "https://link.dice.fm/g59230137ffa?dice_id=g59230137ffa",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-18/fa2894cd-9390-4caa-bdbb-79e0b7c501e5.jpg?rect=0%2C21%2C2400%2C2400"
-      },
-      "name": "Total Pleasure February Residency",
-      "description": "Altima Down presents:\n\nTotal Pleasure February Residency - Night Three\n\n- Total Pleasure\n- Jinx\n- Konspiracy\n- Home again\n- The Degster (DJ)"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-19T04:00:00.000Z",
       "endDate": "2025-02-19T07:00:00.000Z",
       "@id": "https://link.dice.fm/K51314ebc3e9?dice_id=K51314ebc3e9",
@@ -260,6 +140,26 @@
       },
       "name": "Memento Mori Dance Party",
       "description": "Memento Mori Dance Party\n\n'70s - '00s Sassy Bangers\n\nAll Genres - All Genders - All Night Long"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-02-24T04:00:00.000Z",
+      "endDate": "2025-02-24T07:00:00.000Z",
+      "@id": "https://link.dice.fm/v0b612fadbe5?dice_id=v0b612fadbe5",
+      "url": "https://link.dice.fm/v0b612fadbe5?dice_id=v0b612fadbe5",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-12-30/39f32dfa-9402-485f-b219-588fa825cc18.jpg?rect=0%2C71%2C960%2C960"
+      },
+      "name": "Corey Fogel Very Large Ensemble",
+      "description": "**Corey Fogel**\n\nOn Feb 23rd Corey Fogel – artist, composer, and percussionist – conducts a “very large ensemble” of more than TWO DOZEN performers. The group will feature some of L.A.’s premier improvisers - Stephanie Cheng Smith, William Roper, M.A. Tiesenga, Logan Hone to name a few - playing an extended piece of intersecting, anti-tonal, rhythmic vignettes and micro improvisations.  \n\nA free night! RIYL Phillip Glass, Swans, Anthony Braxton.\n\n**RSVP Here**"
     },
     {
       "@context": "https://schema.org",
@@ -446,6 +346,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-05T04:00:00.000Z",
+      "endDate": "2025-03-05T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Q67d4a154c6d?dice_id=Q67d4a154c6d",
+      "url": "https://link.dice.fm/Q67d4a154c6d?dice_id=Q67d4a154c6d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-18/d157b9ce-f3bf-43e0-a00a-33bc6934de87.jpg?rect=0%2C450%2C2700%2C2700"
+      },
+      "name": "Music to Your Ears: A Benefit for Altadena Musicians ft. Escape Artist Lovers, Mercedes Kilmer, Malena Cadiz & More TBA",
+      "description": "Music to Your Ears: A Benefit for Altadena Musicians ft. Escape Artist Lovers, Mercedes Kilmer, Malena Cadiz, Shepard Fairey & Nick Zinner DJs\n\n\\+ Surprise guest performances\n\nAbout Altadena Musicians\n\nAny musician knows: losing instruments is a special kind of heartbreak. More than the sum of their parts, our instruments carry special memories, a lineage, and each has its own unique magic. Altadena Musicians was created to help mend the many broken hearts suffered by our fellow musicians who lost everything in the LA fires. We are with you.\n\nThe instruments we lost are irreplaceable, but we can help create new memories with our custom registry.\n\nTogether, we can make music.\n\nAltadena Musicians was formed by Brandon Jay, joined by supporters and organizations seeking a way to help.\n\nBrandon Jay and his wife Gwendolyn Sanford are music composers (Weeds/Orange is the New Black/Romy and Michele the Musical) who lost their home, their music studio and all but two of their instruments in the Eaton fire."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-08T03:00:00.000Z",
       "endDate": "2025-03-08T06:00:00.000Z",
       "@id": "https://link.dice.fm/D195241bb519?dice_id=D195241bb519",
@@ -600,6 +520,86 @@
       },
       "name": "Chat Pile, Deaf Club",
       "description": "Chat Pile, Deaf Club"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-15T02:00:00.000Z",
+      "endDate": "2025-03-15T05:00:00.000Z",
+      "@id": "https://link.dice.fm/kdf3c1fcd894?dice_id=kdf3c1fcd894",
+      "url": "https://link.dice.fm/kdf3c1fcd894?dice_id=kdf3c1fcd894",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-14/e20d3b05-95e1-4282-83c2-80479d9b2cc2.jpg?rect=0%2C232%2C1503%2C1503"
+      },
+      "name": "The Macks, SLUTTONY",
+      "description": "**The Macks, SLUTTONY**\n\nAll the identity and none of the crisis! The Macks are in their own pocket. Your fifth-favorite-band’s fifth-favorite-band are hardened road warriors and goblins of their basement studio.\n\nVirile and award-winning like a show horse, The Macks deliver a sonic-f\\*\\*\\*\\*\\*g-circus and they are turning heads around the country and internationally through the airwaves and their touring roadshow.\n\nWith their latest LP release, \"The Macks are a Knife,\" (via Devil Duck Records) The Macks have released their most poised and pungent LP as a result of their think-tank approach to producing records. Some legendary appearances at Pickathon, Treefort Fest, SXSW, Elsewhere Festival, and Lose Yr Mind have seen The Macks emerge from the PNW scene as a true 1 of 1 type band. With a lineup that has the group firing on all cylinders, both live and in the studio, The Macks have folks tuning in and spelling it right.\n\n**Sluttony** is a four-piece all femme rock band from Santa Cruz, CA. Formed in 2021, Sluttony quickly gained local following and re-ignited the college music scene in Santa Cruz. Their on-stage chemistry and charisma combined with the femme-rock energy of their performances quickly made Sluttony a cornerstone of the Santa Cruz house show scene, and they went on to sell out venues in town including Urbani's Cellar and The Catalyst Atrium. In March 2022, the band released their long awaited debut single \"Everybody's Business\", followed by their debut EP \"Another Something Nice\", through which they continued to explore their sound.\n\nBeyond Santa Cruz, the band has played numerous shows in cities such as Los Angeles, San Francisco, Oakland, and Berkeley, playing a sold out show at The Smell - one of LA's notable DIY venues. In May 2023, Sluttony made their debut festival appearance at Shabang Music Festival.\n\nIn September 2023, the band relocated to Los Angeles. Their debut LP, produced by Jim Wirt, is set to be released in Winter 2025.\n\nThe band consists of Hannah Goodwin (lead vocals/guitar), Nina Maravic (guitar/vocals), Sabine Hovnanian (drums/vocals), and Caroline Margolis (bass)."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-15T05:00:00.000Z",
+      "endDate": "2025-03-15T09:00:00.000Z",
+      "@id": "https://link.dice.fm/e86375bbcbaa?dice_id=e86375bbcbaa",
+      "url": "https://link.dice.fm/e86375bbcbaa?dice_id=e86375bbcbaa",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-07/cdb6e41c-3887-4d0b-bbe2-e4bb4580d734.jpg?rect=0%2C60%2C1080%2C1080"
+      },
+      "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
+      "description": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-16T02:00:00.000Z",
+      "endDate": "2025-03-16T05:00:00.000Z",
+      "@id": "https://link.dice.fm/ra386a7e227d?dice_id=ra386a7e227d",
+      "url": "https://link.dice.fm/ra386a7e227d?dice_id=ra386a7e227d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-11-20/3e77dbdc-ecd4-4239-91c8-5e01f122f0a2.jpg?rect=500%2C0%2C2000%2C2000"
+      },
+      "name": "Ela Minus",
+      "description": "Sister Midnight + Viva! Presents Ela Minus at Zebulon."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-16T05:00:00.000Z",
+      "endDate": "2025-03-16T09:00:00.000Z",
+      "@id": "https://link.dice.fm/Z615a0dcf8a3?dice_id=Z615a0dcf8a3",
+      "url": "https://link.dice.fm/Z615a0dcf8a3?dice_id=Z615a0dcf8a3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/792d8ed4-3f09-46bf-a212-e6b079bb1398.jpg?rect=0%2C0%2C1300%2C1300"
+      },
+      "name": "Discostan Nowruz",
+      "description": "Discostan Nowruz\n\nw/\n\nDiscotchari\n\nOmid Walizadeh\n\nParisa (Aziz Amor)"
     },
     {
       "@type": "Place",

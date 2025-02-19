@@ -6,86 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-15T03:30:00.000Z",
-      "endDate": "2025-02-15T06:30:00.000Z",
-      "@id": "https://link.dice.fm/Eed30d820db8?dice_id=Eed30d820db8",
-      "url": "https://link.dice.fm/Eed30d820db8?dice_id=Eed30d820db8",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-31/491249c6-2f24-4645-95b9-80da53aeb0d4.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "For The Love Show: Poetry, Music and Healing",
-      "description": "Healing Force of the Universe Presents...\n\nFor The Love Show: Poetry, Music and Healing for the Heart of Pasadena.\n\nPoetry by **Arielle Estoria, Yazmin Monet Watkins, Edwin Bodney** and **Brian \"Super B\" Olivia**.\n\nMusic by **Ficticious Professor, Kesha Shantrell, Moorea Massa, William Matthews** and **Jordan Black**.\n\n$25 adv + DICE fees / $30 at the door\n\nDoors at 7:30 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-16T04:00:00.000Z",
-      "endDate": "2025-02-16T07:00:00.000Z",
-      "@id": "https://link.dice.fm/W1192fc12f07?dice_id=W1192fc12f07",
-      "url": "https://link.dice.fm/W1192fc12f07?dice_id=W1192fc12f07",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-27/719b5757-1462-4e5e-909d-1a94f67a00bc.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Daisy Abrams Release Show w/ Guests",
-      "description": "**Daisy Abrams** is an indie singer-songwriter from Los Angeles, blending heartfelt storytelling with soulful, blooming melodies. Her music feels warm and handmade, a reflection of life’s highs and heartbreaks stitched together with raw emotion. Her upcoming EP, *Patchwork*, a vibrant and personal collection of songs, arrives this February.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-17T03:00:00.000Z",
-      "endDate": "2025-02-17T06:00:00.000Z",
-      "@id": "https://link.dice.fm/I3a5d667344d?dice_id=I3a5d667344d",
-      "url": "https://link.dice.fm/I3a5d667344d?dice_id=I3a5d667344d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-08/bfc683c8-ce13-4492-b14a-b8868379bdd1.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Vicious Animal, The Graylings",
-      "description": "Jose Galvez, a songwriter/producer from Pasadena, CA primarily known as a founding member and current guitarist of the rock band Ozma. His solo work expanded over a decade with multiple full lengths and EPs. **Vicious Animal**, his female-fronted indie pop project, released their debut album titled, *\"Squint\"* In December of 2024.\n\n**The Graylings** are an americana/alt-rock group, led by wife and husband Zachary and Bridget Galanis. The band was created in Sierra Madre, CA and consists of a rotating cast of musicians from Salt Lake City and Los Angeles, whom also perform in other solo-projects. The music draws influence from 60’s era songwriting, 90’s rock and some Broadway by way of Bridget’s musical theater background and solo work as a cabaret artist.\n\n$10 adv + DICE fees / $13 at the door\n\nDoors at 7 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-18T04:00:00.000Z",
-      "endDate": "2025-02-18T08:00:00.000Z",
-      "@id": "https://link.dice.fm/B2f6eb951524?dice_id=B2f6eb951524",
-      "url": "https://link.dice.fm/B2f6eb951524?dice_id=B2f6eb951524",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-05/c31653ec-43da-4776-8cf0-be89220d48f5.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Lila Forde, Rachel Mazer",
-      "description": "**Lila Forde** is a Los Angeles-based singer-songwriter known for her soulful melodies and heartfelt performances. A USC Thornton School of Music graduate, she gained national attention as a contestant on NBC's The Voice (Season 24), advancing to the Top 5 under John Legend's mentorship. After the show, Lila went on her first headlining tour, selling out venues across the West Coast. She released the EP *River*, featuring renditions of classic songs from the show. Lila is set to perform at SXSW in 2025, showcasing her Americana and singer-songwriter style.\n\n**Rachel Mazer** is a Los Angeles-based multi-instrumentalist known for her soulful pop-soul music. Originally from the San Francisco Bay Area, she studied jazz at the University of Michigan before moving to LA. In 2019, she released her debut album *How Do We Get By*, which earned critical acclaim and over 1.3 million streams on Spotify. Mazer has collaborated with artists like Vulfpeck, Cory Wong, Alessia Cara, Moonchild, and Monica Martin. She has performed at iconic venues, including the El Rey Theatre and the Bluebird Theater.\n\n$12 ADV (+DICE fees)/$15 DOOR\n\nDoors at 8 PM.\n\nD"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-19T04:00:00.000Z",
       "endDate": "2025-02-19T07:00:00.000Z",
       "@id": "https://link.dice.fm/G7fabbf3a09d?dice_id=G7fabbf3a09d",
@@ -119,7 +39,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-01-30/4c289aad-6bef-4d68-a35d-e9a808853450.jpg?rect=0%2C0%2C2000%2C2000"
       },
       "name": "Nicole Lawrence & the Durango House Band w/ Guests",
-      "description": "**Nicole Lawrence** is a sought-after musician who has toured globally with artists like Jenny Lewis, Coldplay, Devendra Banhart, and Bruce Springsteen. Known for her deft pedal steel and guitar work, she introduces her own voice on her debut solo LP, *Time in Love*. A blend of poetic wisdom and virtuosity, the album reflects themes of intimacy, relationships, and community, influenced by J.J. Cale, early Beck, and the societal commentaries of films and philosophy. Recorded live at Studio 606, it captures the raw energy of collaboration, marking Lawrence's evolution as both an artist and a person.\n\nJoin us at Healing Force of the Universe for Nicole Lawrence and the Durango House Band (with special guests!!) February 12, 19 and 26th.\n\n**Ben Alleman** and his band will open.\n\n$15 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
+      "description": "**Nicole Lawrence** is a sought-after musician who has toured globally with artists like Jenny Lewis, Coldplay, Devendra Banhart, and Bruce Springsteen. Known for her deft pedal steel and guitar work, she introduces her own voice on her debut solo LP, *Time in Love*. A blend of poetic wisdom and virtuosity, the album reflects themes of intimacy, relationships, and community, influenced by J.J. Cale, early Beck, and the societal commentaries of films and philosophy. Recorded live at Studio 606, it captures the raw energy of collaboration, marking Lawrence's evolution as both an artist and a person.\n\nJoin us at Healing Force of the Universe for Nicole Lawrence and the Durango House Band (with special guests!!) February 12, 19 and 26th.\n\n**Ben Alleman** Quartet will open.\n\n$15 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -346,6 +266,46 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-02T22:00:00.000Z",
+      "endDate": "2025-03-03T00:30:00.000Z",
+      "@id": "https://link.dice.fm/Y3ce50c32617?dice_id=Y3ce50c32617",
+      "url": "https://link.dice.fm/Y3ce50c32617?dice_id=Y3ce50c32617",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-15/b05bd667-d02e-41de-aac1-12285807e82d.jpg?rect=0%2C0%2C1800%2C1800"
+      },
+      "name": "Whale Song: Workshop + Pink Dolphins ",
+      "description": "Includes a live performance by electroacoustic improvisation duo **Pink Dolphins** (Christina Marie Karr + Lillian Doyle) using keys and flutes to generate pre/post apocalyptic aural environments as well as a Whale Song workshop led by vocalist, composer, and cantor Daniela Gesundheit.\n\nThe cool blue underwater feeling of Healing Force is the perfect stand-in ocean basin for a day-into-night of apprenticing ourselves to the largest broadcasting mammals on the planet— humpback whales. As humpbacks simulcast their continuous composition, they listen attentively to their peers, incorporating the innovations that they hear around them into their shared, living song. Musicians especially geek out on what humpbacks are up to once they are privy. In this moment when deep, attuned listening is at a premium, what might we learn about group identity, innovation, and empathy from these marine masters?\n\n**Whale Song**: a Workshop is a response to and continuation of a decade of affectionate correspondence and collaboration between Daniela and bioacoustics researcher Katy Payne (Songs of the Humpback Whale). A trained musician, Katy listened to thousands of hours of recordings of humpback whale song and found form where others heard noise. With Pink Dolphins as our sonic guardians, we will listen and vocalize together as we recreate a primary experience of the compositional techniques and structures at play in the humpbacks’ complex song.\n\n2pm doors\n\n$11 adv/$14 door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-03T03:00:00.000Z",
+      "endDate": "2025-03-03T07:00:00.000Z",
+      "@id": "https://link.dice.fm/K128dfd52b6c?dice_id=K128dfd52b6c",
+      "url": "https://link.dice.fm/K128dfd52b6c?dice_id=K128dfd52b6c",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-15/a8b7a7ed-d0a2-4c5a-a778-a2ab6258c685.jpg?rect=1%2C0%2C1800%2C1800"
+      },
+      "name": "Whale Song: Workshop + Pink Dolphins",
+      "description": "Includes a live performance by electroacoustic improvisation duo Pink Dolphins (Christina Marie Karr + Lillian Doyle) using keys and flutes to generate pre/post apocalyptic aural environments as well as a Whale Song workshop led by vocalist, composer, and cantor Daniela Gesundheit.\n\nThe cool blue underwater feeling of Healing Force is the perfect stand-in ocean basin for a day-into-night of apprenticing ourselves to the largest broadcasting mammals on the planet— humpback whales. As humpbacks simulcast their continuous composition, they listen attentively to their peers, incorporating the innovations that they hear around them into their shared, living song. Musicians especially geek out on what humpbacks are up to once they are privy. In this moment when deep, attuned listening is at a premium, what might we learn about group identity, innovation, and empathy from these marine masters?\n\nWhale Song: a Workshop is a response to and continuation of a decade of affectionate correspondence and collaboration between Daniela and bioacoustics researcher Katy Payne (Songs of the Humpback Whale). A trained musician, Katy listened to thousands of hours of recordings of humpback whale song and found form where others heard noise. With Pink Dolphins as our sonic guardians, we will listen and vocalize together as we recreate a primary experience of the compositional techniques and structures at play in the humpbacks’ complex song.\n\n7pm doors: Marine Mammal Nocturne\n\n$22 adv / $26 door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-07T04:00:00.000Z",
       "endDate": "2025-03-07T07:00:00.000Z",
       "@id": "https://link.dice.fm/F725d822ca99?dice_id=F725d822ca99",
@@ -440,6 +400,66 @@
       },
       "name": "Maria Taylor",
       "description": "Sid The Cat Presents\n\nMaria Taylor\n\n3/14/2025 at Healing Force Of The Universe\n\nMaria Taylor is a singer-songwriter from Birmingham, Alabama, currently residing in Los Angeles California, known for her solo career and as a member of the duo Azure Ray with Orenda Fink. Taylor is a multi-instrumentalist who has collaborated with artists such as Bright Eyes, Phoebe Bridgers, Michael Stipe of REM, Daniel Johnston, and Adam Duritz of the Counting Crows.\n\nTaylor began her career in the band Little Red Rocket, signing to Geffen at just 16 years old, before forming the indie-dream pop dup Azure Ray in the early 2000s. Azure Ray gained recognition with their debut self-titled album, with songs featured in films and TV shows, most notably the song “Sleep,” a favorite of Taylor Swift. After meeting the band in Athens, Bright Eyes frontman Conor Oberst invited the band on tour and introduced them to Saddle Creek where Azure Ray ultimately released four albums and three EPs. During that time, Taylor also lent her voice, piano and drumming skills to numerous Bright Eyes records.\n\nMaria announced her solo career in 2005 – a change that would pave the way for five critically acclaimed albums and collaborations. Across 8 LPs, Taylor’s critically acclaimed solo work includiesher debut “11:11” which included “Song Beneath the Song” which has appeared multiple times on television including Grey’s Anatomy, through 2017’s “In the Next Life” which included the single “If Only” featuring long time collaborator Conor Oberst, appearing in NBC’s “This Is Us.”\n\nMost recently Taylor and Fink reconnected to release Azure Ray’s first full length record in 6 years, scored music for a Hallmark series, performed with Daniel Johnston during his final tour, appeared on several Phoebe Bridgers’ songs (covers of John Prine \"Summer's End” and \"Funny Feeling\" by Bo Burnham) and on multiple tracks from Bright Eyes' 2022 Companion reissue series. She joined the band as their drummer during Bright Eyes' 2023 world tour of the United States, Mexico, Australia and New Zealand.\n\nIn 2024, Taylor began recording her yet-to-be titled 9th solo album with producers Mike Mogis (Brights Eyes, BoyGenius) at ARC Studios in Omaha , Brad Armstrong, and Ben Brodin (First Aid Kit), with arrangements by Nate Walcott (Bright Eyes, Red Hot Chili Peppers). The album is currently in production, with plans for a 2025 release."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-16T21:00:00.000Z",
+      "endDate": "2025-03-16T23:30:00.000Z",
+      "@id": "https://link.dice.fm/Ed51fd193495?dice_id=Ed51fd193495",
+      "url": "https://link.dice.fm/Ed51fd193495?dice_id=Ed51fd193495",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-16/670344eb-3c23-4d68-90a3-2c4c87976d93.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Kacey Johansing",
+      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and \"*No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMarch 16 & 23 at 2PM\n\nMarch 30 at 6PM\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-24T01:00:00.000Z",
+      "endDate": "2025-03-24T05:00:00.000Z",
+      "@id": "https://link.dice.fm/wa2c803d42c4?dice_id=wa2c803d42c4",
+      "url": "https://link.dice.fm/wa2c803d42c4?dice_id=wa2c803d42c4",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-18/94f9266e-a7ba-4925-b87e-4e71f4d8db34.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Kacey Johansing",
+      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and *\"No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\n**March 16 & 23 at 2PM**\n\n**March 30 at 6PM**\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-30T21:00:00.000Z",
+      "endDate": "2025-03-31T01:00:00.000Z",
+      "@id": "https://link.dice.fm/rd85878af746?dice_id=rd85878af746",
+      "url": "https://link.dice.fm/rd85878af746?dice_id=rd85878af746",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-18/73200d75-cdf5-42a7-af4c-b2284e501c0b.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Kacey Johansing",
+      "description": "Kacey Johansing was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album “The Hiding” in 2017 and \"No Better Time\" in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMarch 16 & 23 at 2PM\n\nMarch 30 at 6PM\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 6 PM"
     },
     {
       "@context": "https://schema.org",
