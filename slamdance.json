@@ -4,8 +4,7 @@
     {
       "@type": "Place",
       "@id": "67994e262f9c37c5b38ce87e",
-      "referenceId": "67994e262f9c37c5b38ce87e",
-      "name": "The Egyptian Theatre",
+      "name": "Egyptian Theatre",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "6712 Hollywood Blvd.",
@@ -18,7 +17,6 @@
     {
       "@type": "Place",
       "@id": "67994dd7b3468bb616de6787",
-      "referenceId": "67994dd7b3468bb616de6787",
       "name": "LA Times Theater @ Quixote",
       "address": {
         "@type": "PostalAddress",
@@ -32,7 +30,6 @@
     {
       "@type": "Place",
       "@id": "67994d3de92d227df36ec9c0",
-      "referenceId": "67994d3de92d227df36ec9c0",
       "name": "Panasonic LUMIX Theater @ Quixote",
       "address": {
         "@type": "PostalAddress",
@@ -46,7 +43,6 @@
     {
       "@type": "Place",
       "@id": "67994e01d95f590cd84dd020",
-      "referenceId": "67994e01d95f590cd84dd020",
       "name": "Summer & David Theater @ Quixote",
       "address": {
         "@type": "PostalAddress",
@@ -60,7 +56,6 @@
     {
       "@type": "Place",
       "@id": "67a4fe392220fd9a4347538a",
-      "referenceId": "67a4fe392220fd9a4347538a",
       "name": "The LUMIX Studio @ Quixote",
       "address": {
         "@type": "PostalAddress",
@@ -74,7 +69,6 @@
     {
       "@type": "Place",
       "@id": "67a5446154b60adc0cc66f88",
-      "referenceId": "67a5446154b60adc0cc66f88",
       "name": "THE FORGE @ Quixote",
       "address": {
         "@type": "PostalAddress",
@@ -88,7 +82,6 @@
     {
       "@type": "Place",
       "@id": "67994e78495e2217d5ae6953",
-      "referenceId": "67994e78495e2217d5ae6953",
       "name": "Landmark Theater 3",
       "address": {
         "@type": "PostalAddress",
@@ -102,7 +95,6 @@
     {
       "@type": "Place",
       "@id": "679972b0f8753d7f60920a25",
-      "referenceId": "679972b0f8753d7f60920a25",
       "name": "Landmark Theater 4",
       "address": {
         "@type": "PostalAddress",
