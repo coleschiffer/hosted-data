@@ -6,206 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-19T04:00:00.000Z",
-      "endDate": "2025-02-19T07:00:00.000Z",
-      "@id": "https://link.dice.fm/G7fabbf3a09d?dice_id=G7fabbf3a09d",
-      "url": "https://link.dice.fm/G7fabbf3a09d?dice_id=G7fabbf3a09d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-31/53e4b1ae-7516-4080-86de-c8ae26e65e91.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Rosy Nolan, Andrés Miguel Cervantes",
-      "description": "With her cowgirl hat, platinum bob and 1940s Western getups, L.A.-based artist **Rosy Nolan** evokes midcentury California honky-tonk legends such as Rose Maddox and Jean Shepard. But the San Francisco native honed her performance chops in riot-grrl and post-punk indie bands across the US and the UK before finding her new sound in L.A.’s tight-knit old-time community. Now a confident bandleader and songwriter in the center of L.A.’s latest Country music resurgence, Nolan’s vulnerable songs and onstage charm are endearing her to audiences across Southern California and around the US as she promotes her feisty single “One of Your Songs” in advance of her fourth album, due this summer.\n\n**Andrés Miguel Cervantes** is a Mexican-American singer-songwriter and finger-picking guitarist based in San Diego, California. Influenced by Leonard Cohen, Townes Van Zandt, and Guy Clark, his lyrics weave haunting images of travel, love, and impermanence. His debut album, The Crossing, produced by Alicia Vanden Heuvel, blends '60s folk-country with a western noir sound. The album’s melancholy atmosphere, with lonesome pedal steel and dramatic percussion, captures the heartworn landscapes of the West in a timeless, deeply emotional journey.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-20T04:00:00.000Z",
-      "endDate": "2025-02-20T07:00:00.000Z",
-      "@id": "https://link.dice.fm/Nf87dd9ab580?dice_id=Nf87dd9ab580",
-      "url": "https://link.dice.fm/Nf87dd9ab580?dice_id=Nf87dd9ab580",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-30/4c289aad-6bef-4d68-a35d-e9a808853450.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Nicole Lawrence & the Durango House Band w/ Guests",
-      "description": "**Nicole Lawrence** is a sought-after musician who has toured globally with artists like Jenny Lewis, Coldplay, Devendra Banhart, and Bruce Springsteen. Known for her deft pedal steel and guitar work, she introduces her own voice on her debut solo LP, *Time in Love*. A blend of poetic wisdom and virtuosity, the album reflects themes of intimacy, relationships, and community, influenced by J.J. Cale, early Beck, and the societal commentaries of films and philosophy. Recorded live at Studio 606, it captures the raw energy of collaboration, marking Lawrence's evolution as both an artist and a person.\n\nJoin us at Healing Force of the Universe for Nicole Lawrence and the Durango House Band (with special guests!!) February 12, 19 and 26th.\n\n**Ben Alleman** Quartet will open.\n\n$15 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-21T04:00:00.000Z",
-      "endDate": "2025-02-21T08:00:00.000Z",
-      "@id": "https://link.dice.fm/q0ee2e152619?dice_id=q0ee2e152619",
-      "url": "https://link.dice.fm/q0ee2e152619?dice_id=q0ee2e152619",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-06/9fb30cf1-ed1b-45b7-8403-688b30e478eb.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Band Aparte, Bad Interior, Dizz Brew",
-      "description": "Phoggy Jeph presents: Band Aparte, Bad Interior, Dizz Brew at Healing Force of the Universe on Thursday, February 20.\n\nDoors at 8 PM. $5 ADV/$7 DOOR"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-22T04:00:00.000Z",
-      "endDate": "2025-02-22T08:00:00.000Z",
-      "@id": "https://link.dice.fm/e33d0d077769?dice_id=e33d0d077769",
-      "url": "https://link.dice.fm/e33d0d077769?dice_id=e33d0d077769",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-06/041957e1-3075-44ac-ae76-3995a6fc1204.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Harry the Nightgown, Poppy Patica, Abe Hollow Band",
-      "description": "**Harry the Nightgown** is a Los Angeles based duo who's influences range from The Raincoats and Kate Bush to Tierra Whack and Ennio Morricone. Their sound has been compared to bands such as Dirty Projectors and Deerhoof. The band formed in 2019 as an experimental project from engineers Sami Perez and Spencer Hartling of Tiny Telephone Studios in San Francisco. Today they work out of their new Los Angeles studio, Wiggle World.\n\n**Poppy Patica** is an odd rock band based in Oakland, California. Started by Peter Hartmann in his hometown, Washington, D.C., the band currently features Bay Area musicians Hannah Valente of and Zach Elsasser of .\n\nAdam Hirsch (**Abe Hollow**) is a Los Angeles-born musician and producer. He studied at Oberlin College and Mills College, where he earned an MFA in Electronic Music. Adam worked as a recording engineer at Tiny Telephone and The Creek in Oakland and organized the Lucky Cloud concert series. In 2021, he moved back to LA for an MA in Musicology at UCLA. Now, he runs The Acorn studio, writes music, and plays saxophone. He also organizes The Acorn Series and tours DIY across the USA in his Volkswagen hatchback.\n\n$15 ADV/$18 DOOR\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-23T04:00:00.000Z",
-      "endDate": "2025-02-23T07:00:00.000Z",
-      "@id": "https://link.dice.fm/G50a1d6bc462?dice_id=G50a1d6bc462",
-      "url": "https://link.dice.fm/G50a1d6bc462?dice_id=G50a1d6bc462",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-08/953f5624-bfbe-4dfe-a18b-297756661ebe.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "You, Me, + the Whales; QNC DAYZ, MILES D + more",
-      "description": "bed crumb show\\* presents...\n\n**MILES D.**\n\n**QNC DAYZ** & **Shane Arnold**\n\n**You, Me, + The Whales**\n\nWith sounds by **Mikaela Elson**\n\n$16 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-23T22:00:00.000Z",
-      "endDate": "2025-02-24T00:30:00.000Z",
-      "@id": "https://link.dice.fm/Cbc257f06849?dice_id=Cbc257f06849",
-      "url": "https://link.dice.fm/Cbc257f06849?dice_id=Cbc257f06849",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-06/9abc0125-ec3d-4dba-ba9b-9cf96c4c8fcd.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Play Avec Strangers: The Experimental Music Jam",
-      "description": "Brian Cooper aka Earth Like Planets hosts an experimental music jam at Healing Force of the Universe on Sunday afternoon, February 23, at 2 PM. A suggested donation of $5 can be made upon entry.\n\nBrian Cooper, known as “Earth Like Planets,” is an LA-based solo artist blending sequenced synthesizers, vocals reminiscent of Ian McCulloch or Brendan Perry, and echoey guitar. He released two full-length albums (2019, 2021) and two EPs (2012, 2014). His sound roots in indie rock and post-punk, with some performances featuring live musicians. Cooper's music is influenced by cognitive science research and has been played on college radio. He’s performed in venues across LA and beyond, including The Echo, Gold Diggers, SXSW, and festivals in Joshua Tree and Ojai.\n\nCooper, also a visual artist, explores consciousness and material reality through trompe l’oeil techniques. His paintings combine elegance, humor, and philosophy, focusing on mind-body relationships, space, and modernity. His recent works depict abstracted bodies and obsolete phone book pages, inspired by Max Weber's theory of modernity. His art has been featured in publications like Juxtapoz, L.A. Weekly, and Hi Fructose, and exhibited in galleries worldwide. Cooper holds an MFA from USC and a BFA from the San Francisco Art Institute. He currently resides in Los Angeles.\n\n2 PM - $5 suggested donation to participate"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-24T03:00:00.000Z",
-      "endDate": "2025-02-24T07:00:00.000Z",
-      "@id": "https://link.dice.fm/s1e0ec5fc895?dice_id=s1e0ec5fc895",
-      "url": "https://link.dice.fm/s1e0ec5fc895?dice_id=s1e0ec5fc895",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-06/4c65f0c1-27c0-4b11-9210-89a75c649f27.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Dead Peaches: Taylor Kropp's Bday Party",
-      "description": "Dead Peaches, Allman Brothers & Grateful Dead tribute band, have their debut show at Healing Force of the Universe on February 23, 2025 in celebration of guitar shredder, Taylor Kropp's day of birth.\n\nDead Peaches is:\n\nTaylor Kropp\n\nAustin Callendar\n\nAlex Koford\n\nVince Fossett Jr.\n\nZena Kay\n\nStewart Forgey\n\nKatie Skene\n\n& special guests\n\nDoors at 7 PM\n\n$12 ADV/$15 DOOR"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-25T04:00:00.000Z",
-      "endDate": "2025-02-25T08:00:00.000Z",
-      "@id": "https://link.dice.fm/D644ed169b0c?dice_id=D644ed169b0c",
-      "url": "https://link.dice.fm/D644ed169b0c?dice_id=D644ed169b0c",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-07/04da9546-ebd5-4c3e-84b3-937731ba727f.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Gaptooth EP Release, Baby Fischground",
-      "description": "Vermont raised **Gaptooth** celebrates the release of her EP, *The Wheel*, out February 21, at Healing Force of the Universe with Baby Fischground.\n\n**Baby Fischground**’s music invites you in to an intimate sense of belonging, as though being reached out to through the microphone and asked, “do you want to hang out?” Listening to Baby sing, you’ll hear a melting heart laughing at the absurdity of it all.\n\n$12 ADV (+DICE fees)/$15 DOOR\n\nDoors at 8 PM."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-26T03:00:00.000Z",
-      "endDate": "2025-02-26T07:00:00.000Z",
-      "@id": "https://link.dice.fm/Z75ef3d2ad63?dice_id=Z75ef3d2ad63",
-      "url": "https://link.dice.fm/Z75ef3d2ad63?dice_id=Z75ef3d2ad63",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-31/fa46bce0-c215-4752-8f4c-f420fed4e0be.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "WHY? Butch, Jason Abraham Roberts, Billy Mohler",
-      "description": "**Why?** Returns to Healing Force of the Universe for performance #4.\n\nWords: **Rich Ferguson**\n\nSights: **NORTON WISDOM** “NO WAR”\n\nSounds: **Butch Norton + Billy Mohler + Jason Abraham Roberts**\n\n**Billy Mohler**, an exploratory jazz bassist with pop credits like Dolly Parton and Lady Gaga, is a Berklee graduate and Thelonious Monk Institute alum who studied with Herbie Hancock and Wayne Shorter. His inventive debut Focus and 2022 release Anatomy highlight his rhythmic compositions and raw chemistry with bandmates. Joining him is Jonathan Hayes \"Butch\" Norton, renowned drummer from the indie rock band Eels, and Jason Abraham Roberts, known for collaborations with Bedouine, Norah Jones, and Ben Kweller. Together, they promise a dynamic musical experience.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 7 PM. Show at 8 PM."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-02-27T04:00:00.000Z",
-      "endDate": "2025-02-27T07:00:00.000Z",
-      "@id": "https://link.dice.fm/v4f7b43ac3a7?dice_id=v4f7b43ac3a7",
-      "url": "https://link.dice.fm/v4f7b43ac3a7?dice_id=v4f7b43ac3a7",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-30/bfdef6c4-9489-400b-90a3-90496c733054.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Nicole Lawrence & the Durango House Band w/ Guests",
-      "description": "**Nicole Lawrence** is a sought-after musician who has toured globally with artists like Jenny Lewis, Coldplay, Devendra Banhart, and Bruce Springsteen. Known for her deft pedal steel and guitar work, she introduces her own voice on her debut solo LP, *Time in Love*. A blend of poetic wisdom and virtuosity, the album reflects themes of intimacy, relationships, and community, influenced by J.J. Cale, early Beck, and the societal commentaries of films and philosophy. Recorded live at Studio 606, it captures the raw energy of collaboration, marking Lawrence's evolution as both an artist and a person.\n\nJoin us at Healing Force of the Universe for **Nicole Lawrence and the Durango House Band** (with special guests!!) February 12, 19 and 26th.\n\n**Rocco DeLuca** will open.\n\n$15 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-02-28T04:00:00.000Z",
       "endDate": "2025-02-28T08:00:00.000Z",
       "@id": "https://link.dice.fm/Ga6ad2487a2c?dice_id=Ga6ad2487a2c",
@@ -399,7 +199,47 @@
         "url": "https://dice-media.imgix.net/attachments/2025-02-06/4ab68e56-e5ac-4b01-9fdd-76b323e069e9.jpg?rect=0%2C0%2C1152%2C1152"
       },
       "name": "Maria Taylor",
-      "description": "Sid The Cat Presents\n\nMaria Taylor\n\n3/14/2025 at Healing Force Of The Universe\n\nMaria Taylor is a singer-songwriter from Birmingham, Alabama, currently residing in Los Angeles California, known for her solo career and as a member of the duo Azure Ray with Orenda Fink. Taylor is a multi-instrumentalist who has collaborated with artists such as Bright Eyes, Phoebe Bridgers, Michael Stipe of REM, Daniel Johnston, and Adam Duritz of the Counting Crows.\n\nTaylor began her career in the band Little Red Rocket, signing to Geffen at just 16 years old, before forming the indie-dream pop dup Azure Ray in the early 2000s. Azure Ray gained recognition with their debut self-titled album, with songs featured in films and TV shows, most notably the song “Sleep,” a favorite of Taylor Swift. After meeting the band in Athens, Bright Eyes frontman Conor Oberst invited the band on tour and introduced them to Saddle Creek where Azure Ray ultimately released four albums and three EPs. During that time, Taylor also lent her voice, piano and drumming skills to numerous Bright Eyes records.\n\nMaria announced her solo career in 2005 – a change that would pave the way for five critically acclaimed albums and collaborations. Across 8 LPs, Taylor’s critically acclaimed solo work includiesher debut “11:11” which included “Song Beneath the Song” which has appeared multiple times on television including Grey’s Anatomy, through 2017’s “In the Next Life” which included the single “If Only” featuring long time collaborator Conor Oberst, appearing in NBC’s “This Is Us.”\n\nMost recently Taylor and Fink reconnected to release Azure Ray’s first full length record in 6 years, scored music for a Hallmark series, performed with Daniel Johnston during his final tour, appeared on several Phoebe Bridgers’ songs (covers of John Prine \"Summer's End” and \"Funny Feeling\" by Bo Burnham) and on multiple tracks from Bright Eyes' 2022 Companion reissue series. She joined the band as their drummer during Bright Eyes' 2023 world tour of the United States, Mexico, Australia and New Zealand.\n\nIn 2024, Taylor began recording her yet-to-be titled 9th solo album with producers Mike Mogis (Brights Eyes, BoyGenius) at ARC Studios in Omaha , Brad Armstrong, and Ben Brodin (First Aid Kit), with arrangements by Nate Walcott (Bright Eyes, Red Hot Chili Peppers). The album is currently in production, with plans for a 2025 release."
+      "description": "Sid The Cat Presents\n\nMaria Taylor\n\nwith The Glass Hours\n\n3/14/2025 at Healing Force Of The Universe\n\nMaria Taylor is a singer-songwriter from Birmingham, Alabama, currently residing in Los Angeles California, known for her solo career and as a member of the duo Azure Ray with Orenda Fink. Taylor is a multi-instrumentalist who has collaborated with artists such as Bright Eyes, Phoebe Bridgers, Michael Stipe of REM, Daniel Johnston, and Adam Duritz of the Counting Crows.\n\nTaylor began her career in the band Little Red Rocket, signing to Geffen at just 16 years old, before forming the indie-dream pop dup Azure Ray in the early 2000s. Azure Ray gained recognition with their debut self-titled album, with songs featured in films and TV shows, most notably the song “Sleep,” a favorite of Taylor Swift. After meeting the band in Athens, Bright Eyes frontman Conor Oberst invited the band on tour and introduced them to Saddle Creek where Azure Ray ultimately released four albums and three EPs. During that time, Taylor also lent her voice, piano and drumming skills to numerous Bright Eyes records.\n\nMaria announced her solo career in 2005 – a change that would pave the way for five critically acclaimed albums and collaborations. Across 8 LPs, Taylor’s critically acclaimed solo work includiesher debut “11:11” which included “Song Beneath the Song” which has appeared multiple times on television including Grey’s Anatomy, through 2017’s “In the Next Life” which included the single “If Only” featuring long time collaborator Conor Oberst, appearing in NBC’s “This Is Us.”\n\nMost recently Taylor and Fink reconnected to release Azure Ray’s first full length record in 6 years, scored music for a Hallmark series, performed with Daniel Johnston during his final tour, appeared on several Phoebe Bridgers’ songs (covers of John Prine \"Summer's End” and \"Funny Feeling\" by Bo Burnham) and on multiple tracks from Bright Eyes' 2022 Companion reissue series. She joined the band as their drummer during Bright Eyes' 2023 world tour of the United States, Mexico, Australia and New Zealand.\n\nIn 2024, Taylor began recording her yet-to-be titled 9th solo album with producers Mike Mogis (Brights Eyes, BoyGenius) at ARC Studios in Omaha , Brad Armstrong, and Ben Brodin (First Aid Kit), with arrangements by Nate Walcott (Bright Eyes, Red Hot Chili Peppers). The album is currently in production, with plans for a 2025 release."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-15T21:00:00.000Z",
+      "endDate": "2025-03-15T23:30:00.000Z",
+      "@id": "https://link.dice.fm/d68aa4ea9000?dice_id=d68aa4ea9000",
+      "url": "https://link.dice.fm/d68aa4ea9000?dice_id=d68aa4ea9000",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-19/2c784f92-7f4a-40a1-b473-d5e8c2e451ce.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Marc Perez & Friends",
+      "description": "Marc & Friends\n\nPerformances by **Perez + Weathers**, **You, Me + The Whales**, **Matt Crane, Joe Baiza**, **Dan Clucas** and **Danny Frankel**\n\nFree afternoon show, donations are welcome of course.\n\nDoors at 2 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-16T03:00:00.000Z",
+      "endDate": "2025-03-16T06:00:00.000Z",
+      "@id": "https://link.dice.fm/X4880092899a?dice_id=X4880092899a",
+      "url": "https://link.dice.fm/X4880092899a?dice_id=X4880092899a",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-19/7961d573-b717-403c-9157-fcef3f4fedc8.jpg?rect=0%2C0%2C1200%2C1200"
+      },
+      "name": "Elf Freedom, Immaterial Possession",
+      "description": "**Elf Freedom** is the musical and artistic collaboration between Nora Keyes and Bee Appleseed. Using elves as an archetype for the human nature spirit that exists across cultures around the world, the intention of the project is to help people feel more connected to nature through music and create sonic experiences which transcend the stresses of everyday life. Concerts range between more delicate soundbath performances where audiences lie down on the floor to louder rock performances, occasionally featuring multiple guests. Given the improvised nature of the concerts, that no songs are written beforehand nor repeated afterward, the audio from every show is always recorded and archived for later release. Audiences are likely to feel elevated, connected, and transformed during this unique listening experience as the group takes listeners on a musical journey like no other. Elf Freedom is a phenomenon that must be experienced to be believed. It is a band, it is a political movement, and it is certainly a force of nature.\n\nConjuring a mysterious brew of folk, psychedelia, world music, and progressive rock, **Immaterial Possession** are a group from Athens, Georgia whose music takes listeners into a world all their own.\n\n$10 adv + DICE fees / $13 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -426,6 +266,66 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-19T03:00:00.000Z",
+      "endDate": "2025-03-19T06:00:00.000Z",
+      "@id": "https://link.dice.fm/O78e47f8b0d1?dice_id=O78e47f8b0d1",
+      "url": "https://link.dice.fm/O78e47f8b0d1?dice_id=O78e47f8b0d1",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-27/2aba4c7f-8e69-481a-ada6-7761565c0fe7.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Willa Kaplan, Tin Angel",
+      "description": "Singer-songwriter **Willa Kaplan** joined by folk trio **Tin Angel**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-22T03:00:00.000Z",
+      "endDate": "2025-03-22T06:00:00.000Z",
+      "@id": "https://link.dice.fm/H1dda7d46694?dice_id=H1dda7d46694",
+      "url": "https://link.dice.fm/H1dda7d46694?dice_id=H1dda7d46694",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-13/cc94bcb4-31b6-45c5-854f-dd96229f022f.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Christina Galisatus: “Hold Still” Record Release Show",
+      "description": "Join Christina and friends for evening of heart-first original music described by All About Jazz as “Laurel Canyon singer-songwriter music as played by an improvising group.”\n\nChristina will be joined by Michael Blasky on saxophone, Ethan Sherman on guitar, Connor Schultze on bass, and Remy Morritt on drums.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-23T03:00:00.000Z",
+      "endDate": "2025-03-23T06:00:00.000Z",
+      "@id": "https://link.dice.fm/c75daee01959?dice_id=c75daee01959",
+      "url": "https://link.dice.fm/c75daee01959?dice_id=c75daee01959",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-21/6c6be14e-63c8-402b-8449-76a8c96e5014.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Nydia Gonzalez, Mia Wilson",
+      "description": "**Nydia Gonzalez** is a Mexican-American Singer Songwriter with stilled and genuine blend of poetic/folk/indie sound. Enlightened by her humble beginnings in a small town, she paints her words decoratively through song.\n\nNydia is joined by **Mia Wilson**.\n\n$13 adv + DICE fees / $16 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-24T01:00:00.000Z",
       "endDate": "2025-03-24T05:00:00.000Z",
       "@id": "https://link.dice.fm/wa2c803d42c4?dice_id=wa2c803d42c4",
@@ -446,6 +346,86 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-27T03:00:00.000Z",
+      "endDate": "2025-03-27T06:00:00.000Z",
+      "@id": "https://link.dice.fm/yc177d2f7090?dice_id=yc177d2f7090",
+      "url": "https://link.dice.fm/yc177d2f7090?dice_id=yc177d2f7090",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-27/493eb6cc-37ae-4564-b0aa-4c3b2d42ae81.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "BredMan & HashMo, Dead By Sunday, SWEETER + More",
+      "description": "Altadena fire aid show (proceeds go to survivors of the Eaton Fire)\n\nPerformances by **Lennon Holden, Sandi Milne, BredMan & HashMo**, **SWEETER**, and **Dead By Sunday**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-28T03:00:00.000Z",
+      "endDate": "2025-03-28T06:00:00.000Z",
+      "@id": "https://link.dice.fm/P4d47742e004?dice_id=P4d47742e004",
+      "url": "https://link.dice.fm/P4d47742e004?dice_id=P4d47742e004",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-19/4bf205cf-34b6-40e0-bd23-08a381c20655.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Andrea Centazzo Record Release Show",
+      "description": "Composer, percussionist and multimedia artist **Andrea Centazzo** has been for 54 years a bold explorer of contemporary art. In the early 70’s he introduced a new concept of percussion playing, migrating from the Free Jazz to a new form of improvised music, defining itself and in the same time searching a path to his own new compositional methods.\n\nCelebrating his record release, Andrea is joined by **Ellen Burr** (flutes) and **Jeff Schwartz** (bass).\n\n$20 adv + DICE fees / $25 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-29T03:00:00.000Z",
+      "endDate": "2025-03-29T06:00:00.000Z",
+      "@id": "https://link.dice.fm/i5938e87724d?dice_id=i5938e87724d",
+      "url": "https://link.dice.fm/i5938e87724d?dice_id=i5938e87724d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-26/6060bc1f-9385-4a2d-9dd5-077cc4e59d1c.jpg?rect=0%2C0%2C3750%2C3750"
+      },
+      "name": "Camille Schmidt, Jack DeMeo, Lilliana Villines",
+      "description": "Brooklyn based songwriter **Camille Schmidt**, joined by **Jack DeMeo** and **Lilliana Villines**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-30T03:00:00.000Z",
+      "endDate": "2025-03-30T06:00:00.000Z",
+      "@id": "https://link.dice.fm/B0c71d164dcc?dice_id=B0c71d164dcc",
+      "url": "https://link.dice.fm/B0c71d164dcc?dice_id=B0c71d164dcc",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-20/83232ae5-2916-46a2-89b4-260602a0fe74.jpg?rect=1%2C0%2C2000%2C2000"
+      },
+      "name": "Brook Terrace, Silverware, Scone",
+      "description": "Local artists **Brook Terrace** and **Scone**, joined by San Francisco based **Silverware**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-30T21:00:00.000Z",
       "endDate": "2025-03-31T01:00:00.000Z",
       "@id": "https://link.dice.fm/rd85878af746?dice_id=rd85878af746",
@@ -460,6 +440,46 @@
       },
       "name": "Kacey Johansing",
       "description": "Kacey Johansing was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album “The Hiding” in 2017 and \"No Better Time\" in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMarch 16 & 23 at 2PM\n\nMarch 30 at 6PM\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 6 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-04T03:00:00.000Z",
+      "endDate": "2025-04-04T07:00:00.000Z",
+      "@id": "https://link.dice.fm/R47901dc063f?dice_id=R47901dc063f",
+      "url": "https://link.dice.fm/R47901dc063f?dice_id=R47901dc063f",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-25/8add0017-1349-41b3-9115-9f7856450442.jpg?rect=0%2C0%2C2019%2C2019"
+      },
+      "name": "Philip Krohnengold, Austin Manuel, Casey Trela",
+      "description": "PK & Friends First Thursday Residency\n\n**Philip Krohnengold** is back with Darla Hawn and Daniel Rhine at HFOTU but this time joined by **Casey Trela** and our very own **Austin Manuel**.\n\n$20 adv / $25 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-29T02:00:00.000Z",
+      "endDate": "2025-04-29T06:45:00.000Z",
+      "@id": "https://link.dice.fm/ddf4fbb24daf?dice_id=ddf4fbb24daf",
+      "url": "https://link.dice.fm/ddf4fbb24daf?dice_id=ddf4fbb24daf",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-26/65fec255-88c5-42d9-89b8-cfaebc36ffd6.jpg?rect=0%2C0%2C1152%2C1152"
+      },
+      "name": "Sean Hayes",
+      "description": "Sid The Cat Presents\n\nSean Hayes\n\n4/28/2025 at Healing Force Of The Universe\n\nSean Hayes is a Bay Area singer-songwriter who makes music to dance to or cry to, or maybe both at the same time. He was born in New York City, raised in North Carolina, and honed his earliest musical chops in a band playing Irish and old-time tunes — but his unique style of deeply felt, R&B-inflected folk really matured during his two decades singing and playing in cafes, bars, and night clubs of San Francisco.\n\nHis voice layers wonder and heartache upon grit and gravel, sex and soul. His lyrics carry an unpretentious wisdom. He’s dueted with Aimee Mann; been covered by the Be Good Tanyas; and toured with Anais Mitchell (performing songs from Hadestown, before it was an award-winning Broadway show). His songs have appeared on NPR, NBC and HBO."
     },
     {
       "@context": "https://schema.org",
