@@ -6,146 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-02-28T04:00:00.000Z",
-      "endDate": "2025-02-28T08:00:00.000Z",
-      "@id": "https://link.dice.fm/Ga6ad2487a2c?dice_id=Ga6ad2487a2c",
-      "url": "https://link.dice.fm/Ga6ad2487a2c?dice_id=Ga6ad2487a2c",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-27/f070fafe-dd2d-4de1-b54b-d8a22d2cb16a.jpg?rect=0%2C0%2C1200%2C1200"
-      },
-      "name": "Brenda Carsey Birthday Bash",
-      "description": "Happy birthday, **Brenda Carsey**! It's a Capricorn Extravaganza Birthday Bash!\n\nFeaturing BC Band + Special Guest performing covers by renowned Capricorns!\n\n\\+ a jam session featuring surprise L.A. all-star musicians and friends!\n\n\\+ burlesque by Miss Anna Morphic\n\nFeaturing:\n\nThe BC Band (Brenda Carsey on lead vocal and keys, Matt Brundrett on drums, Derrick Wong on bass, Abby Posner, and Jungwoo Change on guitar) + special guests performing a diverse set of epic covers by renowned Capricorns! \n\nDon't miss this unique one time only show and hang!\n\n**Brenda Carsey** is a Los Angeles-based vocalist, songwriter, multi-instrumentalist, and producer. Her music has been described as brilliant, timeless, playful, and larger-than-life R&B/Soul and Progressive Pop. Carsey delivers an engaging, energetic show, with her unmistakably unique sound rooted in the classic pop diaspora. Carsey’s voice is uninhibited with a virtuosic range, mixing a syrupy sweet sound with a beautiful soulful darkness. She will stop you in your tracks with poetic lyrics, fluid melodies, engaging chord progressions, funky rhythms, and a voice filled with passion and soul. She has recently released three new singles, \"Just Trying To Do My Thing\" \"Party's Over\" and \"I'm Sorry\" all from her much anticipated full-length album *Cognizance* (January 2023).\n\n$10 adv (+DICE fees)/$15 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-01T04:00:00.000Z",
-      "endDate": "2025-03-01T08:00:00.000Z",
-      "@id": "https://link.dice.fm/R019e89fa0b1?dice_id=R019e89fa0b1",
-      "url": "https://link.dice.fm/R019e89fa0b1?dice_id=R019e89fa0b1",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-23/31be7a26-dfc3-46db-bfeb-a7791d0f7d00.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Melinda Sullivan, Larry Goldings",
-      "description": "In 2021, amid the Covid lockdowns, **Melinda Sullivan** and jazz pianist **Larry Goldings** formed a duet, initially posting an improvisational rendition of Somewhere for a virtual party honoring Sullivan’s father-in-law. Their collaboration quickly gained traction, sparking conversations among jazz musicians, tap dancers, and broader music fans, with figures like Sheila E., Robert Glasper, and Questlove joining the dialogue. As Covid restrictions lifted in 2022, they began performing live, blending jazz, funk, commercial dance, and underground tap. Their unique, eclectic sound attracted a dedicated following on Instagram and Patreon, with fans seeking their improvised performances in Southern California clubs.\n\nTheir work is part of a historical jazz-tap tradition dating back to the 1920s, when jazz music and tap dance developed in parallel. This tradition was cemented by the 1921 Broadway show Shuffle Along and further popularized by The Cotton Club in 1984. While this collaboration had gone underground since the early 2000s, Goldings and Sullivan’s platform has reignited public interest. Goldings praised Sullivan's talents, calling him a great jazz instrumentalist. Jazz journalist Allen Morrison noted that their sound forms a new kind of jazz piano trio, with Goldings playing piano and synth bass, and Sullivan providing percussion on a portable board. Their upcoming album *Big Foot* released in August 2024 on Colorfield Records.\n\nDoors at 8 PM.\n\n$30 adv/$35 at door"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-02T04:00:00.000Z",
-      "endDate": "2025-03-02T07:00:00.000Z",
-      "@id": "https://link.dice.fm/X01e57463146?dice_id=X01e57463146",
-      "url": "https://link.dice.fm/X01e57463146?dice_id=X01e57463146",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-03/5efb4deb-a582-4213-973b-5bdb6913440f.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Benny Bock, Jay Rudolph, Will Graefe",
-      "description": "Benny Bock - piano (of Tony Berg, Blake Mills, Feist, Rick Ruben, etc)\n\nJay Rudolph - drums (of Weyes Blood, etc)\n\nWill Graefe - guitar (of Okkervil River, etc)\n\n$15 adv (+DICE fees)/$18 at the door.\n\nDoors at 8 PM."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-02T22:00:00.000Z",
-      "endDate": "2025-03-03T00:30:00.000Z",
-      "@id": "https://link.dice.fm/Y3ce50c32617?dice_id=Y3ce50c32617",
-      "url": "https://link.dice.fm/Y3ce50c32617?dice_id=Y3ce50c32617",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-15/b05bd667-d02e-41de-aac1-12285807e82d.jpg?rect=0%2C0%2C1800%2C1800"
-      },
-      "name": "Whale Song: Workshop + Pink Dolphins ",
-      "description": "Includes a live performance by electroacoustic improvisation duo **Pink Dolphins** (Christina Marie Karr + Lillian Doyle) using keys and flutes to generate pre/post apocalyptic aural environments as well as a Whale Song workshop led by vocalist, composer, and cantor Daniela Gesundheit.\n\nThe cool blue underwater feeling of Healing Force is the perfect stand-in ocean basin for a day-into-night of apprenticing ourselves to the largest broadcasting mammals on the planet— humpback whales. As humpbacks simulcast their continuous composition, they listen attentively to their peers, incorporating the innovations that they hear around them into their shared, living song. Musicians especially geek out on what humpbacks are up to once they are privy. In this moment when deep, attuned listening is at a premium, what might we learn about group identity, innovation, and empathy from these marine masters?\n\n**Whale Song**: a Workshop is a response to and continuation of a decade of affectionate correspondence and collaboration between Daniela and bioacoustics researcher Katy Payne (Songs of the Humpback Whale). A trained musician, Katy listened to thousands of hours of recordings of humpback whale song and found form where others heard noise. With Pink Dolphins as our sonic guardians, we will listen and vocalize together as we recreate a primary experience of the compositional techniques and structures at play in the humpbacks’ complex song.\n\n2pm doors\n\n$11 adv/$14 door"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-03T03:00:00.000Z",
-      "endDate": "2025-03-03T07:00:00.000Z",
-      "@id": "https://link.dice.fm/K128dfd52b6c?dice_id=K128dfd52b6c",
-      "url": "https://link.dice.fm/K128dfd52b6c?dice_id=K128dfd52b6c",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-15/a8b7a7ed-d0a2-4c5a-a778-a2ab6258c685.jpg?rect=1%2C0%2C1800%2C1800"
-      },
-      "name": "Whale Song: Workshop + Pink Dolphins",
-      "description": "Includes a live performance by electroacoustic improvisation duo Pink Dolphins (Christina Marie Karr + Lillian Doyle) using keys and flutes to generate pre/post apocalyptic aural environments as well as a Whale Song workshop led by vocalist, composer, and cantor Daniela Gesundheit.\n\nThe cool blue underwater feeling of Healing Force is the perfect stand-in ocean basin for a day-into-night of apprenticing ourselves to the largest broadcasting mammals on the planet— humpback whales. As humpbacks simulcast their continuous composition, they listen attentively to their peers, incorporating the innovations that they hear around them into their shared, living song. Musicians especially geek out on what humpbacks are up to once they are privy. In this moment when deep, attuned listening is at a premium, what might we learn about group identity, innovation, and empathy from these marine masters?\n\nWhale Song: a Workshop is a response to and continuation of a decade of affectionate correspondence and collaboration between Daniela and bioacoustics researcher Katy Payne (Songs of the Humpback Whale). A trained musician, Katy listened to thousands of hours of recordings of humpback whale song and found form where others heard noise. With Pink Dolphins as our sonic guardians, we will listen and vocalize together as we recreate a primary experience of the compositional techniques and structures at play in the humpbacks’ complex song.\n\n7pm doors: Marine Mammal Nocturne\n\n$22 adv / $26 door"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-07T04:00:00.000Z",
-      "endDate": "2025-03-07T07:00:00.000Z",
-      "@id": "https://link.dice.fm/F725d822ca99?dice_id=F725d822ca99",
-      "url": "https://link.dice.fm/F725d822ca99?dice_id=F725d822ca99",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-01/17e3bd24-8ebe-43d4-a8fd-c003612aaa10.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Black Oak Artists Showcase",
-      "description": "Join us at Healing Force of the Universe for the Black Oak Artists Showcase. Featuring **Ashley E. Norton, David Luning, Shane Alexander** and **Pi Jacobs**.\n\n$20 adv + DICE fees / $25 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-08T04:00:00.000Z",
-      "endDate": "2025-03-08T07:00:00.000Z",
-      "@id": "https://link.dice.fm/R021dabcfa3d?dice_id=R021dabcfa3d",
-      "url": "https://link.dice.fm/R021dabcfa3d?dice_id=R021dabcfa3d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-07/c5bf1874-f22f-4c00-9b12-4c07510163a5.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Hasco Enjoyments Album Release Celebration",
-      "description": "**Hasco Enjoyments** invites you to celebrate the release of their new album *Wow!*\n\nLive music will start around 8:30 with a post-show hang.\n\n$10 adv / $13 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-03-09T04:00:00.000Z",
       "endDate": "2025-03-09T07:00:00.000Z",
       "@id": "https://link.dice.fm/R55fad10934d?dice_id=R55fad10934d",
@@ -160,6 +20,66 @@
       },
       "name": "The Ronan Delisle 3 Plays Blues and Ballads",
       "description": "**Ronan Delisle** is a guitarist and composer based in Los Angeles. His music blends early jazz lyricism, chamber-like textures, and dynamic improvisation to create a world of sound that is at once expansive and introspective.\n\n$17 adv + DICE fees / $20 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-10T03:00:00.000Z",
+      "endDate": "2025-03-10T06:00:00.000Z",
+      "@id": "https://link.dice.fm/sef0ddba9383?dice_id=sef0ddba9383",
+      "url": "https://link.dice.fm/sef0ddba9383?dice_id=sef0ddba9383",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-28/e1fdc748-b5c0-44bf-9968-174699c77f38.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Jordan Patterson, Superfan",
+      "description": "**Jordan Patterson** & her many soundmakers.\n\nJordan is originally from LA, southern girl at heart. This is her music collage she loves you and hopes these bits of her become something you can hold as well.\n\nFeaturing **Superfan**.\n\n$12 adv + DICE fees / $16 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-12T03:00:00.000Z",
+      "endDate": "2025-03-12T06:00:00.000Z",
+      "@id": "https://link.dice.fm/I9024c23661d?dice_id=I9024c23661d",
+      "url": "https://link.dice.fm/I9024c23661d?dice_id=I9024c23661d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-28/2094fc7c-d6f4-4504-9cd7-855e27750dbc.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Don Preston",
+      "description": "A very versatile keyboardist who deserves much greater recognition, **Don Preston** is one of the few synthesizer players to develop his own sound on the instrument. Preston played with Herbie Mann while serving in the military in the early 1950s. He was part of the Detroit jazz scene after his discharge, and in the late 1950s he moved permanently to Los Angeles, gigging with Charlie Haden in 1959. Preston performed jazz and experimental music in the 1960s, including with his group Aha! in 1963. He worked on and off with Frank Zappa from 1967-74, toured with Gil Evans in 1971 and played with Buell Neidlinger in the 1970s. A busy studio musician for decades, Preston has occasionally appeared in L.A. nightclubs playing with advanced musicians. Preston recorded a duo album with Mike Mantler in 1985 for Watt and as a leader for Echograph in 1997.\n\n$20 adv + DICE fees / $25 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-13T03:00:00.000Z",
+      "endDate": "2025-03-13T06:00:00.000Z",
+      "@id": "https://link.dice.fm/K1d628b9d289?dice_id=K1d628b9d289",
+      "url": "https://link.dice.fm/K1d628b9d289?dice_id=K1d628b9d289",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-03/e30187c7-571e-4dd0-9c6e-8bbc32aa5bfa.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Tangled Up in Blue",
+      "description": "**Tangled Up in Blue** is Yale's premier American folk singing group. **TUIB** (pronounced twihb) has repertoire that ranges from the bluegrass tunes of the Appalachians to traditional Irish ballads, the folk-rock hits of Bob Dylan and contemporary jams of Brandi Carlisle to the country-rock hits of Beyonce and Jerry Reed. We sing four-part folk harmonies and accompany ourselves on guitar, banjo, fiddle, viola, mandolin, and harmonica. Their on-campus shows are always a blast (and jam-packed)!\n\n$20 adv + DICE fees / $25 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -256,10 +176,30 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-16/670344eb-3c23-4d68-90a3-2c4c87976d93.jpg?rect=0%2C0%2C2000%2C2000"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-08/67e2affa-b9fd-4d3b-9360-6c79623f1719.jpg?rect=0%2C0%2C2000%2C2000"
       },
-      "name": "Kacey Johansing",
-      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and \"*No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMarch 16 & 23 at 2PM\n\nMarch 30 at 6PM\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+      "name": "Kacey Johansing (solo), Samuel Webb",
+      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and \"*No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMARCH 16 at 2 PM solo piano set with SAMUEL WEBB\n\nMARCH 23 at 6 PM trio set plus the return of OPENING MIC\n\nMARCH 30 at 2 PM full band set with DREAM SCHOOL (Marina Allen + Jasper Strawberry)\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-17T03:00:00.000Z",
+      "endDate": "2025-03-17T06:00:00.000Z",
+      "@id": "https://link.dice.fm/Ka826a7b7a16?dice_id=Ka826a7b7a16",
+      "url": "https://link.dice.fm/Ka826a7b7a16?dice_id=Ka826a7b7a16",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-28/f0f3b843-f2b1-4b10-ae5a-9ba27ca3233a.jpg?rect=1%2C0%2C2000%2C2000"
+      },
+      "name": "Chrissy, Celia Babini",
+      "description": "**Chrissy** celebrates the release of her album *Heaven Is In You*, with support from **Celia Babini.**\n\n$12 adv + DICE fees / $15 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -268,18 +208,58 @@
       "@type": "MusicEvent",
       "startDate": "2025-03-19T03:00:00.000Z",
       "endDate": "2025-03-19T06:00:00.000Z",
-      "@id": "https://link.dice.fm/O78e47f8b0d1?dice_id=O78e47f8b0d1",
-      "url": "https://link.dice.fm/O78e47f8b0d1?dice_id=O78e47f8b0d1",
+      "@id": "https://link.dice.fm/M23425ea1805?dice_id=M23425ea1805",
+      "url": "https://link.dice.fm/M23425ea1805?dice_id=M23425ea1805",
       "location": {
         "@type": "Place",
         "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-27/2aba4c7f-8e69-481a-ada6-7761565c0fe7.jpg?rect=0%2C0%2C2000%2C2000"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-02/ca16cd75-319d-4acb-93a5-01f93a48f21c.jpg?rect=0%2C0%2C2000%2C2000"
       },
       "name": "Willa Kaplan, Tin Angel",
-      "description": "Singer-songwriter **Willa Kaplan** joined by folk trio **Tin Angel**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
+      "description": "Singer-songwriter **Willa Kaplan** joined by folk trio **Tin Angel.**\n\n$15 adv / $18 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-20T02:00:00.000Z",
+      "endDate": "2025-03-20T05:00:00.000Z",
+      "@id": "https://link.dice.fm/Jd26a6931dd2?dice_id=Jd26a6931dd2",
+      "url": "https://link.dice.fm/Jd26a6931dd2?dice_id=Jd26a6931dd2",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-02/cd14a019-c1f7-495e-8c04-8500ecd34589.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "The South Hill Experiment Album Release Party",
+      "description": "**The South Hill Experiment** celebrates the release of their album *Earthbreaks* at Healing Force of the Universe. Expect an acoustic set, early vinyl listening session, music video + album visualizer premiere.\n\nFree with RSVP. Doors at 7 PM."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-21T03:00:00.000Z",
+      "endDate": "2025-03-21T06:00:00.000Z",
+      "@id": "https://link.dice.fm/Td4aef7f2bc9?dice_id=Td4aef7f2bc9",
+      "url": "https://link.dice.fm/Td4aef7f2bc9?dice_id=Td4aef7f2bc9",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-28/717d4fe7-3bb1-4f2f-974f-c6e960dbe36e.jpg?rect=0%2C0%2C2001%2C2001"
+      },
+      "name": "Joe Davancens",
+      "description": "**Joe Davancens** with **Julien Knowles, Max Jaffe, Daniel Rotem, Jonny Stallings**\n\n$10 adv + DICE fees / $12 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -319,7 +299,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-02-21/6c6be14e-63c8-402b-8449-76a8c96e5014.jpg?rect=0%2C0%2C2000%2C2000"
       },
       "name": "Nydia Gonzalez, Mia Wilson",
-      "description": "**Nydia Gonzalez** is a Mexican-American Singer Songwriter with stilled and genuine blend of poetic/folk/indie sound. Enlightened by her humble beginnings in a small town, she paints her words decoratively through song.\n\nNydia is joined by **Mia Wilson**.\n\n$13 adv + DICE fees / $16 at the door\n\nDoors at 8 PM"
+      "description": "**Nydia Gonzalez** is a Mexican-American Singer Songwriter with stilled and genuine blend of poetic/folk/indie sound. Enlightened by her humble beginnings in a small town, she paints her words decoratively through song.\n\n**Mia Wilson** is a Southern Californian singer songwriter. She creates music that sounds timeless, classic with a laid back West Coast feel.\n\n$13 adv + DICE fees / $16 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -336,10 +316,30 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-18/94f9266e-a7ba-4925-b87e-4e71f4d8db34.jpg?rect=0%2C0%2C2000%2C2000"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-08/64142216-f183-4c58-971b-4db0afe46edf.jpg?rect=0%2C0%2C2000%2C2000"
       },
-      "name": "Kacey Johansing",
-      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and *\"No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\n**March 16 & 23 at 2PM**\n\n**March 30 at 6PM**\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+      "name": "Kacey Johansing (trio), Opening Mic",
+      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and *\"No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\n**MARCH 16 at 2 PM solo piano set with SAMUEL WEBB**\n\n**MARCH 23 at 6 PM trio set plus the return of OPENING MIC**\n\n**MARCH 30 at 2 PM full band set with DREAM SCHOOL (Marina Allen + Jasper Strawberry)**\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-26T03:00:00.000Z",
+      "endDate": "2025-03-26T06:00:00.000Z",
+      "@id": "https://link.dice.fm/Z6b24a1e2bae?dice_id=Z6b24a1e2bae",
+      "url": "https://link.dice.fm/Z6b24a1e2bae?dice_id=Z6b24a1e2bae",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-28/4d0fdcaa-bd39-4e3a-abc5-5b020df2da3b.jpg?rect=0%2C0%2C2001%2C2001"
+      },
+      "name": "Katie Pearlman, Susy Sun, Francesca Blanchard",
+      "description": "**Katie Pearlman** says what women think but are too afraid to say out loud. With the release of her latest EP *“Fumbling Towards Glory”* Pearlman explores themes of femininity, defiance, and intuition, set to a lush soundscape that mixes elements of 90’s, folk, and alternative.\n\nAn LA native who spent her formative years performing music and studying philosophy in New Orleans, it was New Orleans that awoke the performer in her soul; learning piano and guitar along the way and fronting a live band singing in clubs and at jazz festivals. After returning home from college, Pearlman found success as a songwriter penning Grammy-nominated songs for Kelly Clarkson, Grace Potter, and others. She has also lent her vocals to artists like Gryffin, Dijon, and Lukas Graham.\n\nPushing the boundaries with both her music and lifestyle, Katie found inspiration in the community she created after moving to Taos, New Mexico, and in the divine feminine energy from influences such as Patti Smith, Joni Mitchell, and Alanis Morissette. “I follow the cosmic feeling,” says Katie. “I’m designing my own life. I want to grow. And I want to make people feel less alone. A pioneer on the journey of coming home to yourself, Katie Pearlman is following her magic.\n\nKatie will be opening up for Lola Kirke on her Trailblazer tour after playing Healing Force of The Universe, where she is joined by **Susy Sun** and **Francesca Blanchard**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
@@ -438,8 +438,8 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2025-02-18/73200d75-cdf5-42a7-af4c-b2284e501c0b.jpg?rect=0%2C0%2C2000%2C2000"
       },
-      "name": "Kacey Johansing",
-      "description": "Kacey Johansing was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album “The Hiding” in 2017 and \"No Better Time\" in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMarch 16 & 23 at 2PM\n\nMarch 30 at 6PM\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 6 PM"
+      "name": "Kacey Johansing (full band), Dream School",
+      "description": "Kacey Johansing was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album “The Hiding” in 2017 and \"No Better Time\" in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMARCH 16 at 2 PM solo piano set with SAMUEL WEBB\n\nMARCH 23 at 6 PM trio set plus the return of OPENING MIC\n\nMARCH 30 at 2 PM full band set with DREAM SCHOOL (Marina Allen + Jasper Strawberry)\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 6 PM"
     },
     {
       "@context": "https://schema.org",
@@ -460,6 +460,66 @@
       },
       "name": "Philip Krohnengold, Austin Manuel, Casey Trela",
       "description": "PK & Friends First Thursday Residency\n\n**Philip Krohnengold** is back with Darla Hawn and Daniel Rhine at HFOTU but this time joined by **Casey Trela** and our very own **Austin Manuel**.\n\n$20 adv / $25 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-05T03:00:00.000Z",
+      "endDate": "2025-04-05T06:00:00.000Z",
+      "@id": "https://link.dice.fm/kfca5bdde145?dice_id=kfca5bdde145",
+      "url": "https://link.dice.fm/kfca5bdde145?dice_id=kfca5bdde145",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-03/224f12f5-db2b-44f2-81e4-89c15d41f558.jpg?rect=0%2C10%2C1130%2C1130"
+      },
+      "name": "Jia*, Jak & Dak",
+      "description": "Jake and Fia equals **Jia\\*** and Jia\\* celebrates the release of a deluxe version of their album in April at Healing Force of the Universe with **Jak & Dak**.\n\n$17 adv + DICE fees / $22 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-07T02:00:00.000Z",
+      "endDate": "2025-04-07T05:00:00.000Z",
+      "@id": "https://link.dice.fm/Nbb000d9406f?dice_id=Nbb000d9406f",
+      "url": "https://link.dice.fm/Nbb000d9406f?dice_id=Nbb000d9406f",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-06/4a19ca58-d6b1-4a59-af0c-fb3fa4e661fe.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Jamie Drake + Justin Wade Tam: So Many Melodies ",
+      "description": "**Jamie Drake** + **Justin Wade Tam** celebrate the release of their duo EP \"*So Many Melodies\",* with a show at Healing Force of the Universe.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 7 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-13T03:00:00.000Z",
+      "endDate": "2025-04-13T06:00:00.000Z",
+      "@id": "https://link.dice.fm/Fc779e8af80f?dice_id=Fc779e8af80f",
+      "url": "https://link.dice.fm/Fc779e8af80f?dice_id=Fc779e8af80f",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-06/9708159d-3f31-47f7-b2c4-1f48622c1032.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Joel P West, Julianna Zachariou",
+      "description": "**Joel P West** brings his lush, folky tunes to Healing Force for a night with friends. He'll be joined by Darla Hawn, Daniel Rhine, Philip Krohnengold, and Connor Gallaher to play songs from his albums Sonora, Smaller, False Klamath, and more.\n\n**Julianna Zachariou** will open the night.\n\n$18 adv + DICE fees / $22 at the door\n\nDoors at 8 PM"
     },
     {
       "@context": "https://schema.org",
