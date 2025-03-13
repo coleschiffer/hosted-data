@@ -6,126 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-03-09T03:00:00.000Z",
-      "endDate": "2025-03-09T06:00:00.000Z",
-      "@id": "https://link.dice.fm/n920f1b9f7dc?dice_id=n920f1b9f7dc",
-      "url": "https://link.dice.fm/n920f1b9f7dc?dice_id=n920f1b9f7dc",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-07/d9ba8c51-72c4-47a6-892a-0194581b954a.jpg?rect=0%2C0%2C1152%2C1152"
-      },
-      "name": "Cornelia Murr (Night 1)",
-      "description": "Sid The Cat Presents\n\nCornelia Murr\n\nwith Luke Temple\n\n3/8/2025 at Gold-Diggers\n\n21+\n\nCornelia’s Murr’s newest album began with a question: What do I want? The answer is everything, and it’s never felt more urgent.\n\nOn her first LP in six years, Run To The Center, out February 28, 2025 on 22Twenty, the London-born singer-songwriter delivers her most confident, expansive album yet. Across 10 hypnotic pop songs is a fully realized portrait of a woman and an artist in her thirties, standing triumphantly in uncertainties, asking the crucial questions one needs to sustain a life: How can you fit everything you want into a life? How can you do this if you want so much?\n\nRun To The Center, which Murr will tour internationally next year, is her first release since her self-produced, six-track EP Corridor in 2022 and her first LP since her 2018 debut Lake Tear of the Clouds, produced by Jim James of My Morning Jacket. For years, Murr tried to make another LP, but extraneous forces kept getting in the way, whether economic or global.\n\nBut in the spring of 2023, Murr started working with prolific producer Luke Temple (Adrienne Lenker, Hand Habits), adding to her impressive list of collaborators, which includes Rodrigo Amarante, Alice Boman, Reverend Baron, and Oracle Sisters among many others. Temple was an old friend whom she had met in New York more than a decade prior. Finally, forces coalesced for them to work together. The result is a sweeping album of Murr’s most spectral and tender pop yet, born of a need to excavate her desires and experience of time, both in new songs born spontaneously out of an easy collaboration with Temple, as well as older songs that, for years, had been knocking around in her brain.\n\nRun To the Center is the most updated expression of who Murr is now, both sonically and emotionally, particularly as questions around artmaking have become more urgent for her over the better part of the last decade."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "dj",
-      "startDate": "2025-03-09T06:00:00.000Z",
-      "endDate": "2025-03-09T10:00:00.000Z",
-      "@id": "https://link.dice.fm/h6eda11453b5?dice_id=h6eda11453b5",
-      "url": "https://link.dice.fm/h6eda11453b5?dice_id=h6eda11453b5",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-19/731ccd93-349f-4b13-85c3-d7e62e41471b.jpg?rect=0%2C106%2C1080%2C1080"
-      },
-      "name": "Whatever Forever presents: Indie Sleaze Spring Fling",
-      "description": "A night of indie sleaze, blog house, and whatever the f#%k else.\n\nJoin us for your favorite traveling tribute night as they hit Gold-Diggers for a special Indie Sleaze Spring Fling. Featuring a live Strokes tribute band: The Strokers. Special guest DJs Callate y Escucha will be spinning plus resident Casio Crybaby. For one night, we're back in the dive bars and dance floors of NYC where it all began. Throw on those AA disco pants and roll in for the party."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-10T02:00:00.000Z",
-      "endDate": "2025-03-10T05:00:00.000Z",
-      "@id": "https://link.dice.fm/e099aad6341e?dice_id=e099aad6341e",
-      "url": "https://link.dice.fm/e099aad6341e?dice_id=e099aad6341e",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-07/d9ba8c51-72c4-47a6-892a-0194581b954a.jpg?rect=0%2C0%2C1152%2C1152"
-      },
-      "name": "Cornelia Murr (Night 2)",
-      "description": "Sid The Cat Presents\n\nCornelia Murr (Night 2)\n\nwith Lightman & Lightman\n\n3/9/2025 at Gold-Diggers\n\n21+\n\nCornelia’s Murr’s newest album began with a question: What do I want? The answer is everything, and it’s never felt more urgent.\n\nOn her first LP in six years, Run To The Center, out February 28, 2025 on 22Twenty, the London-born singer-songwriter delivers her most confident, expansive album yet. Across 10 hypnotic pop songs is a fully realized portrait of a woman and an artist in her thirties, standing triumphantly in uncertainties, asking the crucial questions one needs to sustain a life: How can you fit everything you want into a life? How can you do this if you want so much?\n\nRun To The Center, which Murr will tour internationally next year, is her first release since her self-produced, six-track EP Corridor in 2022 and her first LP since her 2018 debut Lake Tear of the Clouds, produced by Jim James of My Morning Jacket. For years, Murr tried to make another LP, but extraneous forces kept getting in the way, whether economic or global.\n\nBut in the spring of 2023, Murr started working with prolific producer Luke Temple (Adrienne Lenker, Hand Habits), adding to her impressive list of collaborators, which includes Rodrigo Amarante, Alice Boman, Reverend Baron, and Oracle Sisters among many others. Temple was an old friend whom she had met in New York more than a decade prior. Finally, forces coalesced for them to work together. The result is a sweeping album of Murr’s most spectral and tender pop yet, born of a need to excavate her desires and experience of time, both in new songs born spontaneously out of an easy collaboration with Temple, as well as older songs that, for years, had been knocking around in her brain.\n\nRun To the Center is the most updated expression of who Murr is now, both sonically and emotionally, particularly as questions around artmaking have become more urgent for her over the better part of the last decade."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-11T03:00:00.000Z",
-      "endDate": "2025-03-11T07:00:00.000Z",
-      "@id": "https://link.dice.fm/D0ec541278c2?dice_id=D0ec541278c2",
-      "url": "https://link.dice.fm/D0ec541278c2?dice_id=D0ec541278c2",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-25/01be3ee7-75ae-4b13-9a7c-7795105201ac.jpg?rect=0%2C205%2C1802%2C1802"
-      },
-      "name": "very good™ mondays",
-      "description": "Alex Wasily's Very Good™ Mondays is back, this time with live performances by Alex Wasily, John Michael Bradford, Horace Bray, Stanley Randolph, Nate Foley and Taiki Tsuyama, plus an after-party with DJ Teddy Roxpin.\n\nThis is a night of improvised play among some of the most talented musicians in Los Angeles. Mondays have but one rule: no covers!\n\nFollow @very.good.mondays on Instagram for the latest."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-12T04:00:00.000Z",
-      "endDate": "2025-03-12T09:00:00.000Z",
-      "@id": "https://link.dice.fm/Z4367266a940?dice_id=Z4367266a940",
-      "url": "https://link.dice.fm/Z4367266a940?dice_id=Z4367266a940",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-05/252c42ae-f323-4d4c-976a-cb3ba665d79e.jpg?rect=0%2C22%2C971%2C971"
-      },
-      "name": "Night Scene: A Rock N Roll Sleaze Show",
-      "description": "Named one of the best shows in Los Angeles by, The Daily Beast, Night Scene is an immersive live music experience like no other. With it’s powerhouse house band, Night Boys, and a lineup of LA’s hottest performers, Night Scene blurs the line between stage, audience, and spectacle- where the bar, the crowd, and the venue itself become front-row seats to pure, unabashed decadence. What sets Night Scene apart is its ability to transform any space into a pulsing fever dream. From a backbar in a bowling alley, to a NYC-style Punk bar in DTLA, to a hotel rooftop and it’s latest home- a retired strip club- every show delivers a new electrifying experience while maintaining the raw, unfiltered power that defines it. You can expect to hear your favorite punk classics, originals, and sounds of bands like: Grinderman, Viagra Boys, Fat White Family, and then some. “The best party I’ve ever been to.”- Every audience member"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-13T02:00:00.000Z",
-      "endDate": "2025-03-13T06:00:00.000Z",
-      "@id": "https://link.dice.fm/F2285bdf8bdf?dice_id=F2285bdf8bdf",
-      "url": "https://link.dice.fm/F2285bdf8bdf?dice_id=F2285bdf8bdf",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-24/dd6a2509-5921-446c-a4dc-3bbcb3594c2e.jpg?rect=0%2C288%2C1728%2C1728"
-      },
-      "name": "Kitten Robot & Final Girls Records Residency",
-      "description": "Kitten Robot and Final Girl Records are coming together for a killer once-a-month residency at Gold Diggers, running until June! Expect a mix of electrifying performances from underground legends and emerging indie talent—all at one of LA’s most iconic venues. Final Girl brings the spirit of the fearless and the feral, spotlighting women, trans and non-binary artists who push boundaries and refuse to be tamed, while Kitten Robot offers the vanguard of indie and punk, fusing bold experimentation with high-octane energy. Come hang, discover your next favorite artist, and get into the music."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-03-14T02:00:00.000Z",
       "endDate": "2025-03-14T06:00:00.000Z",
       "@id": "https://link.dice.fm/L3b076b13eef?dice_id=L3b076b13eef",
@@ -140,6 +20,26 @@
       },
       "name": "Child of Night, Crowjane, C. Corp",
       "description": "Child of Night has cast their shadow over the underground electronic scene since 2017. They've released several cassette EPs and demos as well as one full length LP entitled \"The Walls at Dawn.\" The band has toured repeatedly since forming, performing over 150 times across the US. 2025 will see the release of their to be titled sophomore LP as well as more touring."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-03-14T05:30:00.000Z",
+      "endDate": "2025-03-14T09:30:00.000Z",
+      "@id": "https://link.dice.fm/U3e943f46f4d?dice_id=U3e943f46f4d",
+      "url": "https://link.dice.fm/U3e943f46f4d?dice_id=U3e943f46f4d",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-10/4c3f63b9-05bc-4093-bc08-aa52aca9fea9.jpg?rect=0%2C300%2C2400%2C2400"
+      },
+      "name": "BREACH ft. Worship the Speakers & XQZ ME w/ residents MIÑIN & Venganza",
+      "description": "BREACH is back this Thursday, 3/13! This month we’re serving up jack’n, pumpin’, spins, and dips!\n\nCome through and hear the dynamic selections from our guests this month, @worshipthespeakers & @xqzmebeats.\n\nResidentes @de\\_minin & @venganza.riddim."
     },
     {
       "@context": "https://schema.org",
@@ -167,7 +67,7 @@
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "dj",
       "startDate": "2025-03-15T05:30:00.000Z",
-      "endDate": "2025-03-15T09:30:00.000Z",
+      "endDate": "2025-03-15T09:00:00.000Z",
       "@id": "https://link.dice.fm/t7651092a0f9?dice_id=t7651092a0f9",
       "url": "https://link.dice.fm/t7651092a0f9?dice_id=t7651092a0f9",
       "location": {
@@ -305,6 +205,26 @@
       "@context": "https://schema.org",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-03-22T05:30:00.000Z",
+      "endDate": "2025-03-22T09:30:00.000Z",
+      "@id": "https://link.dice.fm/Ge6097507411?dice_id=Ge6097507411",
+      "url": "https://link.dice.fm/Ge6097507411?dice_id=Ge6097507411",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-11/9166a1a2-fe07-47ee-9067-6cd61d2d2f76.jpg?rect=0%2C167%2C947%2C947"
+      },
+      "name": "Nag Nag Nag",
+      "description": "Nag Nag Nag\n\nPost Punk Danse Party\n\nDJ’s Unholy / Mr.Pharmacist w Special Guest"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
       "startDate": "2025-03-24T02:00:00.000Z",
       "endDate": "2025-03-24T06:00:00.000Z",
@@ -346,6 +266,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-03-26T02:00:00.000Z",
+      "endDate": "2025-03-26T06:45:00.000Z",
+      "@id": "https://link.dice.fm/R6fceaa455c8?dice_id=R6fceaa455c8",
+      "url": "https://link.dice.fm/R6fceaa455c8?dice_id=R6fceaa455c8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-12/6c4836ec-3f55-4bc4-8440-1326f1be0b15.jpg?rect=0%2C300%2C2400%2C2400"
+      },
+      "name": "Visions, Substance, Freedom Curse",
+      "description": "Portland post-punk band Visions tour on their second album 'Decay' with local favorites Substance and Freedom Curse"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-03-27T02:00:00.000Z",
       "endDate": "2025-03-27T06:00:00.000Z",
       "@id": "https://link.dice.fm/Pf75dbd9b609?dice_id=Pf75dbd9b609",
@@ -360,6 +300,26 @@
       },
       "name": "showlist presents TO HERE KNOWS WHEN",
       "description": "TREMOURS formed in Los Angeles in 2021 by the duo of Lauren Andino and Glenn Fryatt. Late night jam sessions in the midst of lockdown uncertainty slowly transformed into TREMOURS creative partnership, driven by the tension between Andino’s hazy, drifting guitars and Fryatt’s urgent, pulsating drums. Since forming, TREMOURS have undertaken three full US tours, most recently supporting label mates The Dandy Warhols and LSD and the Search for God, garnering a following across North America and Europe. TREMOURS also headlined Canada’s Cherry Cult Fest and embarked on their first UK tour. Fragments is their much-anticipated debut album, released on February 7, 2025 via Little Cloud Records.\n\nHEAVEN ride a massive sonic wave in delivering their dear and dreamy tracks. Matt Sumrow and Mikey Jones created Heaven in the wake of touring and recording with artists such as DEAN and BRITTA, SWERVEDRIVER, AMBULANCE LTD, CAVEMAN, the COMAS, the LEMONHEADS, and others. Now joined by bassist Sonia Manalili, after a deep collective pandemic slumber, the NYC based trio are prepping a new release and their most somnambulistic to date. Their 3rd full length Dream Aloud will be released April 4, 2025 on Little Cloud Records."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-03-27T05:30:00.000Z",
+      "endDate": "2025-03-27T09:00:00.000Z",
+      "@id": "https://link.dice.fm/ja665b63a47c?dice_id=ja665b63a47c",
+      "url": "https://link.dice.fm/ja665b63a47c?dice_id=ja665b63a47c",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/01dd7bf9-7f2b-49e8-8534-03f8b890e072.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Songs To Smoke Cigarettes To ",
+      "description": "DJs Lil Pri & Josh Lomat\n\n\"Songs to Smoke Cigarettes To\" is an event that features indie hits, psychedelic rock, and alternative tracks from artists like Tame Impala, Passion Pit, Arctic Monkeys, MGMT, Mac DeMarco, and Pond. It's all about vibing out to the best of indie and alternative music, creating a perfect soundtrack for your night."
     },
     {
       "@context": "https://schema.org",
@@ -426,26 +386,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-04-02T02:00:00.000Z",
-      "endDate": "2025-04-02T06:00:00.000Z",
-      "@id": "https://link.dice.fm/i5c74cfe491b?dice_id=i5c74cfe491b",
-      "url": "https://link.dice.fm/i5c74cfe491b?dice_id=i5c74cfe491b",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-04/5eb5fc37-d39d-4e2d-bdc3-ea3cbb990a23.jpg?rect=0%2C135%2C1080%2C1080"
-      },
-      "name": "Cruel Diagonals, DJ Dolomedes, Mind Mirage, 55Castles",
-      "description": "Mind Mirage has been sonically described as an ethereal underworld. She and darkwave band 55CASTLES are both Oakland CA-based, touring the Southwest this Spring. Mind Mirage has played LA a few times (Catherine Moan, Caress, Drowse) since debuting live in 2022. This will be 55CASTLES' 1st LA show. Supporting acts are the gems Cruel Diagonals (stunning otherlands) and DJ Dolomedes (Aurat)."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-04-03T02:00:00.000Z",
       "endDate": "2025-04-03T06:45:00.000Z",
       "@id": "https://link.dice.fm/Ubbd256f8979?dice_id=Ubbd256f8979",
@@ -480,6 +420,46 @@
       },
       "name": "GHOST COP",
       "description": "New York Dark Wave / Post Punk darlings and Synthicide regulars, GHOST COP make their Los Angeles debut.\n\nBlending elements of dark wave, post punk, synth pop, and horror soundtracks, GHOST COP has built an underground following around the world. Comprised of Lucy Swope and Sean Dack, they are as influenced by the gloomy forebears of yesteryear as they are by B- movie soundtracks. Their music ranges from dystopian dance floor heaters to cinematic anthems and vocoder lullabies, pairing strident beats with haunting melodies and lyrical storytelling. They are touring in support of their second full length album TROUBLE, out now."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-04-04T05:30:00.000Z",
+      "endDate": "2025-04-04T09:00:00.000Z",
+      "@id": "https://link.dice.fm/c58acdbbf0c6?dice_id=c58acdbbf0c6",
+      "url": "https://link.dice.fm/c58acdbbf0c6?dice_id=c58acdbbf0c6",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-11/e1f16afd-d07d-4d62-ac78-bbf6289d5648.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Gotta Have Soul",
+      "description": "Gold Diggers presents “Gotta Have Soul”, a funk / soul / disco party taking place first Thursdays. Featuring DJ Guy Keltner (of Acid Tongue) and DJ Avalon York, the party will feature rare underground vinyl and far out sounds of the 60s and 70s."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-05T02:00:00.000Z",
+      "endDate": "2025-04-05T06:00:00.000Z",
+      "@id": "https://link.dice.fm/nde86c99c563?dice_id=nde86c99c563",
+      "url": "https://link.dice.fm/nde86c99c563?dice_id=nde86c99c563",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-12/957ceda8-73d8-4576-a1cf-3e53bb0a6936.jpg?rect=0%2C0%2C1200%2C1200"
+      },
+      "name": "Damaged Disco presents Chalk Teeth with Kontrol Inc",
+      "description": "Damaged Disco presents Chalk Teeth with Kontrol Inc"
     },
     {
       "@context": "https://schema.org",
@@ -600,6 +580,26 @@
       },
       "name": "Grivo, Lockstep, Kraus, Seko",
       "description": "Emerging like an ornate relic, Austin-based power trio Grivo combines slow, methodical hooks and warm tube amplifiers to artfully re-establish the line between heavy guitars and downtempo pop. Within the tidal sound waves and bleak timbre, Grivo forges a distinctive personal connection that challenges the modern definitions of doom metal and shoegaze."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-13T02:00:00.000Z",
+      "endDate": "2025-04-13T06:00:00.000Z",
+      "@id": "https://link.dice.fm/E7aff2a284bd?dice_id=E7aff2a284bd",
+      "url": "https://link.dice.fm/E7aff2a284bd?dice_id=E7aff2a284bd",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-13/13875419-7abf-44c9-98b3-5f346bc0105f.jpg?rect=0%2C0%2C2400%2C2400"
+      },
+      "name": "Desert Daze Nights: Deaf Club w/ Object of Affection",
+      "description": "Desert Daze Nights presents Deaf Club w/ Object of Affection!\n\nDeaf Club is a savage sound bath dripping with sardonicism: a blastbeat-centric hardcore punk assault channeling crust, thrash, and grind (un)sensibilities. Succinct pauses, surreal frequencies and effects, breakneck pace and sharply hurled vocals characterize the band’s aesthetic, which seems as though it is rooted in a sort of nasty-sound-meets-highbrow-message ethos. Fueled by the onslaught of society’s insanity and driven mad by tinnitus, Justin Pearson (The Locust, Dead Cross, Planet B), Brian Amalfitano (ACxDC), Scott Osment (Weak Flesh), and Jason Klein (Run With The Hunted), approach music as an opportunity to confront our collective sicknesses. We’ve got to try to listen, lest we all frolic headfirst towards the bright side of death, dragging this pillaged planet down with us. So whether you think the music is a radical disruption to the airwaves or just headache-inducing noise, you can feel free to tell them the brutal truth– they can’t hear you anyway."
     },
     {
       "@type": "Place",

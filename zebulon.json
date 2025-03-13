@@ -6,126 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-03-09T03:00:00.000Z",
-      "endDate": "2025-03-09T06:00:00.000Z",
-      "@id": "https://link.dice.fm/X85b3a7ccf27?dice_id=X85b3a7ccf27",
-      "url": "https://link.dice.fm/X85b3a7ccf27?dice_id=X85b3a7ccf27",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-04/d02967d8-633d-411e-8e8d-42af6e9bfe98.jpg?rect=0%2C93%2C960%2C960"
-      },
-      "name": "CROM, ACxDC, Shitbrains",
-      "description": "CROM\n\nACxDC\n\nShitbrains\n\nBenefit show for vicitims of the Eaton Fire"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-09T06:00:00.000Z",
-      "endDate": "2025-03-09T10:00:00.000Z",
-      "@id": "https://link.dice.fm/y6ea0f022ad8?dice_id=y6ea0f022ad8",
-      "url": "https://link.dice.fm/y6ea0f022ad8?dice_id=y6ea0f022ad8",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-03/f3420684-3956-4cef-9711-53689350fea7.jpg?rect=0%2C45%2C961%2C961"
-      },
-      "name": "DJ Dance Party with Shannon Cornett and Amanda Siegel",
-      "description": "DJ Dance Party with Shannon Cornett and Amanda Siegel"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-10T02:00:00.000Z",
-      "endDate": "2025-03-10T06:00:00.000Z",
-      "@id": "https://link.dice.fm/vcd01e52b1d3?dice_id=vcd01e52b1d3",
-      "url": "https://link.dice.fm/vcd01e52b1d3?dice_id=vcd01e52b1d3",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-27/5fa38f47-851a-4d86-b07e-2f8f62e78356.jpg?rect=0%2C114%2C772%2C772"
-      },
-      "name": "Baddiez Night: Rosie, Mary, Sluggii, Palma Estela, DJ Jordan Heyser",
-      "description": "**Baddiez Night: Rosie, Mary, Sluggii, Palma Estela, DJ Jordan Heyser**\n\n**ROSiE**\n\nROSiE’s roots stem from the San Francisco Punk Riot Grrl scene where she made up one third of the bratty and feisty all girl punk band, Hey Girl!. She carries a theatrical and energetic punk essence through to her solo electronic dance music project, weaving various dance and Latin music genres that inspire euphoric dancing. Her deep vocal tones paint heart wrenching dreamscapes with a mischievous playfulness that leave you laughing and crying at the same time\n\n**Mary**\n\nLos Angeles-based artist Mary has garnered a reputation as underground music's preeminent shapeshifter. Delivering a kaleidoscopic range of pop music from sparkly earworms to lovelorn power ballads, trance club bangers and beyond, Mary's oeuvre remains anchored in her uniquely powerful voice and razor-sharp wit. Known for her punky live shows, Mary draws in crowds on the bleeding edge. She must be seen to be believed!\n\n**Sluggii** is the effortlessly cool, Los Angeles-based musician whose nostalgic tunes are a masterclass in emotional alchemy. With a sound that’ll have you crying, dancing, and texting your ex all in the same breath, Sluggii blends vintage vibes with a modern edge. His music isn’t just heard—it’s felt, taking you on a journey through bittersweet memories and unforgettable grooves. Nonchalant but never indifferent, Sluggii crafts songs that stay with you long after the last note fades.\n\n**Palma Estela**\n\nA star on the rise, your favorite femme fatale and a beautiful nightmare. Will she awaken your deepest desires? Perhaps. She’s certainly not your cup of tea but your brew of ayahuasca. Let her power set you free, kick down the door and throw away the key. Give up your needs and your poison seeds so you can find yourself elected to a different kind of creed. You’ll never want to wake up from her sick dream.\n\n**DJ Jordan Heyser**\n\nJordan Heyser is a record collector and DJ from San Francisco, currently based in Los Angeles. He's spent the past 15+ years playing house and techno at bars, clubs, and underground parties with friends and with touring artists. When he's not playing records out or at home, he's hanging around record stores, looking for more records!"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-11T03:00:00.000Z",
-      "endDate": "2025-03-11T06:00:00.000Z",
-      "@id": "https://link.dice.fm/p82198c1032e?dice_id=p82198c1032e",
-      "url": "https://link.dice.fm/p82198c1032e?dice_id=p82198c1032e",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-09/2599be9c-f4d0-448d-a685-0c8c9e0d6fa9.jpg?rect=0%2C135%2C1080%2C1080"
-      },
-      "name": "Slow Heat, Monde UFO, Leng Bian, Shelley Burgon & Patrick Shiroishi",
-      "description": "Slow Heat (record release)\n\nMonde UFO (record release)\n\nLeng Bian, Shelley Burgon & Patrick Shiroishi\n\nSlow Heat is LA-based musician James Novick (Expose, ex-Hooveriii). The new Slow Heat album \"Magic Realism\" is out March 7 on Jungle Gym Records. A sonic exploration of fourth world soundscapes and repetitive meditations, Magic Realism is an acid-soaked fried egg stuck to the bottom of the ocean floor."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-12T03:00:00.000Z",
-      "endDate": "2025-03-12T06:00:00.000Z",
-      "@id": "https://link.dice.fm/fb58749cd355?dice_id=fb58749cd355",
-      "url": "https://link.dice.fm/fb58749cd355?dice_id=fb58749cd355",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-03/f2dcfa61-1d0c-47dc-b2b4-8bece7c5f8ab.jpg?rect=521%2C0%2C2048%2C2048"
-      },
-      "name": "Sagittaire & Ascetic Faces, Hirons, Delanova",
-      "description": "**Sagittaire & Ascetic Faces, Hirons, Delanova**\n\nThe term “collision music” is typically associated with bassist/producer Bill Laswell, known for uniting artists from divergent sound worlds to create something unexpected. Coventry Suite Pt. 1, the experimental hip-hop and R&B project from Sagitairre’s Ivan Mairesse, is directly influenced by Laswell’s concept — “colliding” musicians from various communities in his hometown of LA to form the genre-agnostic group, Ascetic Faces. The album’s title is an additional nod to Coventry, the British town that spawned ska group The Specials and the multiracial 2-Tone movement.\n\n“I was interested early on in the recontextualization aspect of sampling, whether that came from Christian Marclay or Prince Paul,” explains Mairesse. “Marrying sounds or techniques from culturally distant spheres is a way of calling into question listeners' tendencies to keep these worlds separate. There is a certain political critique communicated in those juxtapositions. In a way, it’s an extension of pop-art.”"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-13T03:00:00.000Z",
-      "endDate": "2025-03-13T06:00:00.000Z",
-      "@id": "https://link.dice.fm/t75fb6854541?dice_id=t75fb6854541",
-      "url": "https://link.dice.fm/t75fb6854541?dice_id=t75fb6854541",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-25/55c2bc94-8476-41a9-bd75-567696415005.jpg?rect=334%2C0%2C1333%2C1333"
-      },
-      "name": "Chat Pile, Purest Form",
-      "description": "Chat Pile, Purest Form"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-03-14T03:00:00.000Z",
       "endDate": "2025-03-14T06:00:00.000Z",
       "@id": "https://link.dice.fm/u590ca6c31cd?dice_id=u590ca6c31cd",
@@ -418,8 +298,8 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2024-11-12/0879eedb-ecb2-48bc-a893-d0ea4516f9ff.jpg?rect=0%2C320%2C1920%2C1920"
       },
-      "name": "Astrid Sonne",
-      "description": "**Astrid Sonne**\n\nAstrid Sonne is a Danish, London-based composer and viola player. Throughout her acclaimed discography, Astrid Sonne has been carefully crafting different moods through electronic and acoustic instrumental endeavours. On her most recent album “Great Doubt” (January 2024) this skill is refined, now with the distinct addition of the composer's own vocal in the fore. The tone of each track is unmistakably Sonne’s, structured around contrasts through an impeccable sense of timing. Lyrics on the album are sparse, merely highlighting different scenes or emotional states of being, leaving the music to fill in the blanks. Yet they also form a pattern of ambiguity, consolidated through the album title, searching for answers through looking at how and what you are asking, questions for the world, questions of love. The viola, a trusted companion since Astrid Sonne’s youth, appears effortlessly throughout the album, fully integrated into the sonic universe; through a pizzicato driven arrangement in the poignant track “Almost” or along with booms and claps in mutated cinematic stabs during “Give my all”, paraphrasing Mariah Carey's 1997 ballad. Yet the string section also gives way to explorations of woodwinds, counterbalancing the bowed movements with digital brass and airy flutes. Finally, beats and detuned piano are fresh additions to the soundscape, cementing how Sonne’s practice is always evolving into new territories."
+      "name": "Astrid Sonne, Dustin Wong",
+      "description": "**Astrid Sonne, Dustin Wong**\n\nAstrid Sonne is a Danish, London-based composer and viola player. Throughout her acclaimed discography, Astrid Sonne has been carefully crafting different moods through electronic and acoustic instrumental endeavours. On her most recent album “Great Doubt” (January 2024) this skill is refined, now with the distinct addition of the composer's own vocal in the fore. The tone of each track is unmistakably Sonne’s, structured around contrasts through an impeccable sense of timing. Lyrics on the album are sparse, merely highlighting different scenes or emotional states of being, leaving the music to fill in the blanks. Yet they also form a pattern of ambiguity, consolidated through the album title, searching for answers through looking at how and what you are asking, questions for the world, questions of love. The viola, a trusted companion since Astrid Sonne’s youth, appears effortlessly throughout the album, fully integrated into the sonic universe; through a pizzicato driven arrangement in the poignant track “Almost” or along with booms and claps in mutated cinematic stabs during “Give my all”, paraphrasing Mariah Carey's 1997 ballad. Yet the string section also gives way to explorations of woodwinds, counterbalancing the bowed movements with digital brass and airy flutes. Finally, beats and detuned piano are fresh additions to the soundscape, cementing how Sonne’s practice is always evolving into new territories."
     },
     {
       "@context": "https://schema.org",
@@ -460,6 +340,26 @@
       },
       "name": "Crack Cloud, Self Improvement",
       "description": "**Crack Cloud, Self Improvement**\n\nThe first iteration of Crack Cloud was formed nearly a decade ago as a proxy-rehab outlet on the fringes of Calgary, where two EPs and their accompanying visual pieces were created during this time. By 2017, several members had relocated to Vancouver. It was after the move that the band produced their astounding 2020 album Pain Olympics, and their 2022 follow up, Tough Baby. All at once, their vision became expansive, cinematic, and precarious.\n\nNow, their third full-length studio album, Red Mile, acts as both a tribute and a homecoming. Members have since left Vancouver and returned to Calgary; returned to the long stretch of land colloquially referred to as the red mile. But what of the time away from home? After a decade of personal and collective growth, what does home even mean? To Crack Cloud, this is the liminal message demanding to be explored throughout Red Mile. The throughline thread of samsara – rebirth and life’s cyclical pattern weaving together the eight tracks.\n\nA departure from the hermetic, multi-year gestation of Pain Olympics and Tough Baby, Red Mile is the product of swift, group collaboration. Recorded predominantly between the outskirts of Joshua Tree, California, and Calgary, Alberta, the resulting album is informed by a bittersweet melange of new beginnings and familiar places.Crack Cloud have learned to concentrate their multi-hyphenate energy, re-emerging as a lean, focused rock outfit producing their most mature and vital work yet. The sprawling, novelistic structures of their previous records have been harnessed and condensed, but never boiled down. The band is derisive as ever to deal in superficiality. Through playful melodies and elliptical guitar soliloquy they deliver a record of exceptional depth and unprecious warmth; creating a lived-in feel not dissimilar to a loved picture frame: a captured still, carefully mended with electrical tape."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-27T02:30:00.000Z",
+      "endDate": "2025-03-27T05:30:00.000Z",
+      "@id": "https://link.dice.fm/raebffc1d45e?dice_id=raebffc1d45e",
+      "url": "https://link.dice.fm/raebffc1d45e?dice_id=raebffc1d45e",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-12/946d96a0-26cc-4903-acbf-8da4e2317f3e.jpg?rect=0%2C0%2C1920%2C1920"
+      },
+      "name": "In the cafe: Soma Nove - Hungarian Outlaw Folk",
+      "description": "Soma Nove - Hungarian Outlaw Folk\n\nIN THE CAFE\n\nSoma Nóvé is a Hungarian musician, singer, and guitarist known for his involvement in multiple musical projects. Nóvé is the founder of psychedelic rock outfit Middlemist Red and of MORDÁI, a folk-rock band that reimagines traditional Hungarian folk songs with jazz and improvisational elements. He has also been involved in projects like The Night Of The Vampire and Samurai Drive, showcasing his versatility across different musical landscapes. In his solo performances he covers traditional Hungarian Folk songs with a dark and melancholic twist, which he calls Outlaw Folk."
     },
     {
       "@context": "https://schema.org",
@@ -518,7 +418,7 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2025-02-15/a61ecd77-e2d2-4823-a267-b2dad72718ae.jpg?rect=0%2C0%2C1200%2C1200"
       },
-      "name": "Agender Record Release w/ Muscle Beach DJ Allison Wolfe (Bratmobile)",
+      "name": "Agender, Muscle Beach, DJ Allison Wolfe",
       "description": "Agender Record Release Show\n\nw/ Muscle Beach\n\nDJ Allison Wolfe (Bratmobile)\n\n**AGENDER**\n\nExistential terror hurrah punchy post-punk! Their third album Berserk is out March 7th.\n\nBerserk embodies the chaos of an era where nothing feels stable, where the self is both the center of its own universe and being sucked into the disorienting orbit of a hyper-connected, hyper-consumptive culture. Berserk delivers the kind of eclectic, electric energy that traverses through the plains of pop-punk, post-punk, disco-punk, and schizo-synth-punk, and bites hard and fast, all while pushing the listener to confront the gnawing absurdity of living in the world today.\n\n**MUSCLE BEACH**\n\nPlay loud fast jams. The band is an impact. An immediacy, a sting. A blunt concision, a contortion into the shape of a room. It’s quivering limbs spent to shreds at the end of a show when we check back into our bodies and recount what we made them do. It’s an intervention into a moment— the moment of a given night and the moment of today’s Los Angeles in all its ills and glory"
     },
     {
@@ -600,6 +500,106 @@
       },
       "name": "WAND",
       "description": "**WAND**\n\nIn late 2013ish Los Angeles California, Wand formed up and got right on it, playing, writing & plotting a path forward – a not-undifficult task for a special new band come to life in the twenty-teens and audaciously self-identifying as “Wand”. The original group – Cory Hanson (guitar, vocals), Lee Landey (bass), Evan Burrows (drums) and Daniel Martens (guitar) - recorded Ganglion Reef before too long and attracted the attentions of GOD? Records, In the Red and Drag City all at once. A deal was dreamed up and hammered down: first album with GOD?, second with In the Red, and then Drag City. What would the result of THAT be?\n\nSo began the years of furious activity; near-constant days of touring and recording and releasing. Between August 2014 and September 2017, Wand released Ganglion Reef, Golem, 1000 Days and Plum, a period in which they also reduced from quartet to trio (less Daniel) and then expanded to quintet (with the addition of Robbie Cody (guitar) and Sofia Arreguin (keys, vocals, percussion)). All this action had launched them onto the world-wide stage, which suggested increasingly more to do all the time. No prob: everyone was playing in other bands, and Cory started a solo career too. No time like the present! A maxi-EP, “Perfume”, appeared in the Spring of 2018 and the double-album Laughing Matter dropped in April 2019. Touring continued apace; it was only the CoCo craze of the following year that that forced any downtime – and even that gap was filled with the mixing of an epic live document, the 2xLP Spiders In the Rain, dropped in the pan in 2022. All this while Evan focused on his long-time other band, Behavior, plus Pink Trash Can, and Robby joined in on both endeavors, while Sofia played with Shannon Lay and Kamikaze Palm Tree, and Cory wrote and recorded two more solo albums!"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-01T03:00:00.000Z",
+      "endDate": "2025-04-01T06:00:00.000Z",
+      "@id": "https://link.dice.fm/k691f0f7c52a?dice_id=k691f0f7c52a",
+      "url": "https://link.dice.fm/k691f0f7c52a?dice_id=k691f0f7c52a",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-06/13b1c71d-94d1-4ec5-82f2-43b246eb7da5.jpg?rect=0%2C81%2C1080%2C1080"
+      },
+      "name": "GROOP ",
+      "description": "GROOP"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-02T03:00:00.000Z",
+      "endDate": "2025-04-02T06:00:00.000Z",
+      "@id": "https://link.dice.fm/sd84b3e6f7a8?dice_id=sd84b3e6f7a8",
+      "url": "https://link.dice.fm/sd84b3e6f7a8?dice_id=sd84b3e6f7a8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-10-22/1abb4d43-b4f2-4440-b86e-66bc242e0943.jpg?rect=0%2C0%2C4016%2C4016"
+      },
+      "name": "BEAK>, Litronix ",
+      "description": "**BEAK>, Litronix**\n\n\"After nearly 16 years of bad language & random tempo decisions, Geoff is sadly leaving BEAK>.\n\nOur shows in the UK and Europe this year and the USA shows early next year will be his last ones with us.\n\nWhen we first met for a jam at the Invada Christmas party in 2008 we had no idea it would result in a collection of albums, singles, EPs and soundtracks we’re all really proud of.\n\nIn terms of future BEAK> activity there’s life in the old dog yet, but we need time to mourn our Geoff. New music and activity will come along when the time is right.\n\nAnd for now, the 3 of us are going to rehearse for this upcoming tour and make these final set of shows with Geoff really memorable for us and our fans.\n\nThanks to all our fans old and new for all your support over these last 16 years.\n\nBEAK> xxx\"\n\nGeoff Barrow adds:\n\n\"About 16 years ago 3 like-minded musical strangers got together in a studio to make some music and didn’t care if anyone heard it or not. That session turned into the first BEAK> album. 16 years on, after 4 albums and hundreds of shows around the world, it has ended up being the most joyful musical journey I’ve ever experienced. Unfortunately, due to a dodgy ankle and other work I need to do before I get too old, it’s time for me to move on from being the mumbling drummer.\"\n\nHe continues, \"In life, you know when it’s time to quit touring and now’s that time for me. Thanks to everyone that has tolerated me over the last 16 years of BEAK> records and gigs - especially Billy, Will & Matt: your musicianship and friendship has truly enriched my life far more than you will ever know. I wish BEAK> all the best. I know there will be some absolute killer records to come in the future. I’m looking forward to my new role as BEAK>’s idiotic & musically inept A&R person at INVADA.\""
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-03T03:00:00.000Z",
+      "endDate": "2025-04-03T06:00:00.000Z",
+      "@id": "https://link.dice.fm/l44480e11500?dice_id=l44480e11500",
+      "url": "https://link.dice.fm/l44480e11500?dice_id=l44480e11500",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-10-22/1abb4d43-b4f2-4440-b86e-66bc242e0943.jpg?rect=0%2C0%2C4016%2C4016"
+      },
+      "name": "BEAK>, Litronix ",
+      "description": "**BEAK>, Litronix**\n\n\"After nearly 16 years of bad language & random tempo decisions, Geoff is sadly leaving BEAK>.\n\nOur shows in the UK and Europe this year and the USA shows early next year will be his last ones with us.\n\nWhen we first met for a jam at the Invada Christmas party in 2008 we had no idea it would result in a collection of albums, singles, EPs and soundtracks we’re all really proud of.\n\nIn terms of future BEAK> activity there’s life in the old dog yet, but we need time to mourn our Geoff. New music and activity will come along when the time is right.\n\nAnd for now, the 3 of us are going to rehearse for this upcoming tour and make these final set of shows with Geoff really memorable for us and our fans.\n\nThanks to all our fans old and new for all your support over these last 16 years.\n\nBEAK> xxx\"\n\nGeoff Barrow adds:\n\n\"About 16 years ago 3 like-minded musical strangers got together in a studio to make some music and didn’t care if anyone heard it or not. That session turned into the first BEAK> album. 16 years on, after 4 albums and hundreds of shows around the world, it has ended up being the most joyful musical journey I’ve ever experienced. Unfortunately, due to a dodgy ankle and other work I need to do before I get too old, it’s time for me to move on from being the mumbling drummer.\"\n\nHe continues, \"In life, you know when it’s time to quit touring and now’s that time for me. Thanks to everyone that has tolerated me over the last 16 years of BEAK> records and gigs - especially Billy, Will & Matt: your musicianship and friendship has truly enriched my life far more than you will ever know. I wish BEAK> all the best. I know there will be some absolute killer records to come in the future. I’m looking forward to my new role as BEAK>’s idiotic & musically inept A&R person at INVADA.\""
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-04T03:00:00.000Z",
+      "endDate": "2025-04-04T06:00:00.000Z",
+      "@id": "https://link.dice.fm/u54161f59e57?dice_id=u54161f59e57",
+      "url": "https://link.dice.fm/u54161f59e57?dice_id=u54161f59e57",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-24/fd0f5a2b-0346-47e8-ab9c-9842324baa2b.jpg?rect=0%2C0%2C1200%2C1200"
+      },
+      "name": "The Sloppy Boys",
+      "description": "**The Sloppy Boys**\n\nThe Sloppy Boys are a “party rock” band from LA consisting of comedians Mike Hanford, Jeff Dutton and Tim Kalpakis. Prior to forming The Sloppy Boys, all three were writer-performers on the sketch comedy show “The Birthday Boys,” produced by Bob Odenkirk, which aired on IFC.\n\nTogether, the Boys have self-released three albums, Lifelong Vacation, Dancing on the Wind, and Paradiso. Their fourth, Sonic Ranch, was produced by Money Mark (Beastie Boys, Beck) at the legendary Sonic Ranch Studios in Texas. The entire process was captured by director Robert Holguin for his feature-length comedy-rock-doc Blood, Sweat and Beers or How\n\nThe Sloppy Boys Made an Album on a Farm in West Texas.\n\nThe Sloppy Boys also host a weekly cocktail-making podcast, ranked a Top 3 Comedy\n\nPodcast by Vulture. New episodes drop every Friday."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-05T05:00:00.000Z",
+      "endDate": "2025-04-05T09:00:00.000Z",
+      "@id": "https://link.dice.fm/S6b58a81bd31?dice_id=S6b58a81bd31",
+      "url": "https://link.dice.fm/S6b58a81bd31?dice_id=S6b58a81bd31",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-06/8254240c-d01f-4304-9c79-71ece0bd2676.jpg?rect=2%2C0%2C1175%2C1175"
+      },
+      "name": "RUBBISH Britpop, Soul, Indie Night - Free Dance Party",
+      "description": "RUBBISH Britpop, Soul, Indie Night - Free Dance Party"
     },
     {
       "@type": "Place",
