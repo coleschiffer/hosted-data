@@ -6,286 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-03-14T03:00:00.000Z",
-      "endDate": "2025-03-14T06:00:00.000Z",
-      "@id": "https://link.dice.fm/mc5e3cb539f1?dice_id=mc5e3cb539f1",
-      "url": "https://link.dice.fm/mc5e3cb539f1?dice_id=mc5e3cb539f1",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-30/5185fb07-5289-409f-b7a6-884965a60bdf.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Iain Matthews, Russ Tolman",
-      "description": "A vital figure in the history of British folk, **Ian Matthews** (also billed as **Iain Matthews**) was a founding member of the pioneering U.K. folk-rock band Fairport Convention before he went on to found his own group, Matthews' Southern Comfort, and later moved on to a solo career. Matthews possesses a warm and expressive tenor voice and a talent for songwriting. While he drew from British folk traditions in his work, his greatest inspiration came from American country, folk, and roots music, and he blended their timeless themes with a hippie-fied pastoral feel that was warm and sweet or sorrowful, depending on the song. Though he would dabble in soft rock, power pop, and synth pop in the late '70s and early '80s, he always returned to the sun-dappled sound of the country-folk hybrid that was his trademark.\n\n**Russ Tolman** is a singer-songwriter and guitarist known for his work in the 1980s Paisley Underground with True West, whose dark, hypnotic sound set them apart from their peers. After leaving the band, he launched a successful solo career with albums like *Totem Poles and Glory Holes* and *Down In Earthquake Town*, collaborating with artists like Johnette Napolitano and Howe Gelb. His music blends folk, rock, and experimental sounds, with his 2019 album *Goodbye El Dorado* paying tribute to the Laurel Canyon singer-songwriter era.\n\n$25 adv + DICE fees / $30 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-15T03:00:00.000Z",
-      "endDate": "2025-03-15T06:45:00.000Z",
-      "@id": "https://link.dice.fm/E258f97c33d1?dice_id=E258f97c33d1",
-      "url": "https://link.dice.fm/E258f97c33d1?dice_id=E258f97c33d1",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-06/4ab68e56-e5ac-4b01-9fdd-76b323e069e9.jpg?rect=0%2C0%2C1152%2C1152"
-      },
-      "name": "Maria Taylor",
-      "description": "Sid The Cat Presents\n\nMaria Taylor\n\nwith The Glass Hours\n\n3/14/2025 at Healing Force Of The Universe\n\nMaria Taylor is a singer-songwriter from Birmingham, Alabama, currently residing in Los Angeles California, known for her solo career and as a member of the duo Azure Ray with Orenda Fink. Taylor is a multi-instrumentalist who has collaborated with artists such as Bright Eyes, Phoebe Bridgers, Michael Stipe of REM, Daniel Johnston, and Adam Duritz of the Counting Crows.\n\nTaylor began her career in the band Little Red Rocket, signing to Geffen at just 16 years old, before forming the indie-dream pop dup Azure Ray in the early 2000s. Azure Ray gained recognition with their debut self-titled album, with songs featured in films and TV shows, most notably the song “Sleep,” a favorite of Taylor Swift. After meeting the band in Athens, Bright Eyes frontman Conor Oberst invited the band on tour and introduced them to Saddle Creek where Azure Ray ultimately released four albums and three EPs. During that time, Taylor also lent her voice, piano and drumming skills to numerous Bright Eyes records.\n\nMaria announced her solo career in 2005 – a change that would pave the way for five critically acclaimed albums and collaborations. Across 8 LPs, Taylor’s critically acclaimed solo work includiesher debut “11:11” which included “Song Beneath the Song” which has appeared multiple times on television including Grey’s Anatomy, through 2017’s “In the Next Life” which included the single “If Only” featuring long time collaborator Conor Oberst, appearing in NBC’s “This Is Us.”\n\nMost recently Taylor and Fink reconnected to release Azure Ray’s first full length record in 6 years, scored music for a Hallmark series, performed with Daniel Johnston during his final tour, appeared on several Phoebe Bridgers’ songs (covers of John Prine \"Summer's End” and \"Funny Feeling\" by Bo Burnham) and on multiple tracks from Bright Eyes' 2022 Companion reissue series. She joined the band as their drummer during Bright Eyes' 2023 world tour of the United States, Mexico, Australia and New Zealand.\n\nIn 2024, Taylor began recording her yet-to-be titled 9th solo album with producers Mike Mogis (Brights Eyes, BoyGenius) at ARC Studios in Omaha , Brad Armstrong, and Ben Brodin (First Aid Kit), with arrangements by Nate Walcott (Bright Eyes, Red Hot Chili Peppers). The album is currently in production, with plans for a 2025 release."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-15T21:00:00.000Z",
-      "endDate": "2025-03-15T23:30:00.000Z",
-      "@id": "https://link.dice.fm/d68aa4ea9000?dice_id=d68aa4ea9000",
-      "url": "https://link.dice.fm/d68aa4ea9000?dice_id=d68aa4ea9000",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-19/2c784f92-7f4a-40a1-b473-d5e8c2e451ce.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Marc Perez & Friends",
-      "description": "Marc & Friends\n\nPerformances by **Perez + Weathers**, **You, Me + The Whales**, **Matt Crane, Joe Baiza**, **Dan Clucas** and **Danny Frankel**\n\nFree afternoon show, donations are welcome of course.\n\nDoors at 2 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-16T03:00:00.000Z",
-      "endDate": "2025-03-16T06:00:00.000Z",
-      "@id": "https://link.dice.fm/X4880092899a?dice_id=X4880092899a",
-      "url": "https://link.dice.fm/X4880092899a?dice_id=X4880092899a",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-09/70e93ba4-6ea6-4371-9ead-adc1bd1c93d7.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Elf Freedom, Immaterial Possession",
-      "description": "**Elf Freedom** presents: A Psychedelic Live Score to the Films of Georges Méliès & Alice Guy to celebrate their album release, \\*Visions of Utopia\\*. Step into a dreamscape where past and future merge as Elf Freedom, an immersive psychedelic ensemble, guides you through early cinema. This special performance features a live, hour-long score inspired by \\*Visions of Utopia\\*, paired with groundbreaking films from Georges Méliès and Alice Guy, pioneers who helped shape film history. Méliès, the magician-turned-filmmaker, bridged theater and cinema with his fantastical illusions, while Guy, one of the first female directors, revolutionized narrative filmmaking. Elf Freedom’s live score will merge ethereal vocals, cosmic soundscapes, and hypnotic rhythms, weaving a psychedelic tapestry as Méliès and Guy’s films flicker on screen. Prepare to be transported into a swirling, time-traveling experience, blending the mysticism of early cinema with a modern psychedelic haze. Don’t miss this transcendent celebration of film and sound.\n\n$10 adv + DICE fees / $13 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-16T21:00:00.000Z",
-      "endDate": "2025-03-16T23:30:00.000Z",
-      "@id": "https://link.dice.fm/Ed51fd193495?dice_id=Ed51fd193495",
-      "url": "https://link.dice.fm/Ed51fd193495?dice_id=Ed51fd193495",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-08/67e2affa-b9fd-4d3b-9360-6c79623f1719.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Kacey Johansing (solo), Samuel Webb",
-      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and \"*No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\nMARCH 16 at 2 PM solo piano set with SAMUEL WEBB\n\nMARCH 23 at 6 PM trio set plus the return of OPENING MIC\n\nMARCH 30 at 2 PM full band set with DREAM SCHOOL (Marina Allen + Jasper Strawberry)\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-17T03:00:00.000Z",
-      "endDate": "2025-03-17T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Ka826a7b7a16?dice_id=Ka826a7b7a16",
-      "url": "https://link.dice.fm/Ka826a7b7a16?dice_id=Ka826a7b7a16",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-28/f0f3b843-f2b1-4b10-ae5a-9ba27ca3233a.jpg?rect=1%2C0%2C2000%2C2000"
-      },
-      "name": "Chrissy, Celia Babini",
-      "description": "**Chrissy** celebrates the release of her album *Heaven Is In You*, with support from **Celia Babini.**\n\n$12 adv + DICE fees / $15 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-19T03:00:00.000Z",
-      "endDate": "2025-03-19T06:00:00.000Z",
-      "@id": "https://link.dice.fm/M23425ea1805?dice_id=M23425ea1805",
-      "url": "https://link.dice.fm/M23425ea1805?dice_id=M23425ea1805",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-02/ca16cd75-319d-4acb-93a5-01f93a48f21c.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Willa Kaplan, Tin Angel",
-      "description": "Singer-songwriter **Willa Kaplan** joined by folk trio **Tin Angel.**\n\n$15 adv / $18 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-20T02:00:00.000Z",
-      "endDate": "2025-03-20T05:00:00.000Z",
-      "@id": "https://link.dice.fm/Jd26a6931dd2?dice_id=Jd26a6931dd2",
-      "url": "https://link.dice.fm/Jd26a6931dd2?dice_id=Jd26a6931dd2",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-02/cd14a019-c1f7-495e-8c04-8500ecd34589.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "The South Hill Experiment Album Release Party",
-      "description": "**The South Hill Experiment** celebrates the release of their album *Earthbreaks* at Healing Force of the Universe. Expect an acoustic set, early vinyl listening session, music video + album visualizer premiere.\n\nFree with RSVP. Doors at 7 PM."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-21T03:00:00.000Z",
-      "endDate": "2025-03-21T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Td4aef7f2bc9?dice_id=Td4aef7f2bc9",
-      "url": "https://link.dice.fm/Td4aef7f2bc9?dice_id=Td4aef7f2bc9",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-28/717d4fe7-3bb1-4f2f-974f-c6e960dbe36e.jpg?rect=0%2C0%2C2001%2C2001"
-      },
-      "name": "Joe Davancens",
-      "description": "**Joe Davancens** with **Julien Knowles, Max Jaffe, Daniel Rotem, Jonny Stallings**\n\n$10 adv + DICE fees / $12 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-22T03:00:00.000Z",
-      "endDate": "2025-03-22T06:00:00.000Z",
-      "@id": "https://link.dice.fm/H1dda7d46694?dice_id=H1dda7d46694",
-      "url": "https://link.dice.fm/H1dda7d46694?dice_id=H1dda7d46694",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-13/cc94bcb4-31b6-45c5-854f-dd96229f022f.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Christina Galisatus: “Hold Still” Record Release Show",
-      "description": "Join Christina and friends for evening of heart-first original music described by All About Jazz as “Laurel Canyon singer-songwriter music as played by an improvising group.”\n\nChristina will be joined by Michael Blasky on saxophone, Ethan Sherman on guitar, Connor Schultze on bass, and Remy Morritt on drums.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-22T21:00:00.000Z",
-      "endDate": "2025-03-23T01:00:00.000Z",
-      "@id": "https://link.dice.fm/Ifb5457d1398?dice_id=Ifb5457d1398",
-      "url": "https://link.dice.fm/Ifb5457d1398?dice_id=Ifb5457d1398",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-09/f2ed5593-fb26-44cd-9762-7ef02f667f92.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Play With Strangers",
-      "description": "Brian Cooper of Earth Like Planets hosts an experimental music jam in the afternoon at Healing Force of the Universe. All are welcome. Bring your own instruments or make use of our baby grand piano and house drum kit.\n\n$5 suggested donation to participate.\n\n2 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-23T03:00:00.000Z",
-      "endDate": "2025-03-23T06:00:00.000Z",
-      "@id": "https://link.dice.fm/c75daee01959?dice_id=c75daee01959",
-      "url": "https://link.dice.fm/c75daee01959?dice_id=c75daee01959",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-21/6c6be14e-63c8-402b-8449-76a8c96e5014.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Nydia Gonzalez, Mia Wilson",
-      "description": "**Nydia Gonzalez** is a Mexican-American Singer Songwriter with stilled and genuine blend of poetic/folk/indie sound. Enlightened by her humble beginnings in a small town, she paints her words decoratively through song.\n\n**Mia Wilson** is a Southern Californian singer songwriter. She creates music that sounds timeless, classic with a laid back West Coast feel.\n\n$13 adv + DICE fees / $16 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-24T01:00:00.000Z",
-      "endDate": "2025-03-24T05:00:00.000Z",
-      "@id": "https://link.dice.fm/wa2c803d42c4?dice_id=wa2c803d42c4",
-      "url": "https://link.dice.fm/wa2c803d42c4?dice_id=wa2c803d42c4",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-08/64142216-f183-4c58-971b-4db0afe46edf.jpg?rect=0%2C0%2C2000%2C2000"
-      },
-      "name": "Kacey Johansing (trio), Opening Mic",
-      "description": "**Kacey Johansing** was born in Kalamazoo, Michigan and raised in the mountain towns of Colorado, the daughter of a miner and a painter. After leaving Berklee College of Music in Boston, Johansing relocated to the San Francisco Bay Area, where she co-founded the duo Yesway and released two solo albums. Later moving to Los Angeles, Johansing released her third solo album *“The Hiding”* in 2017 and *\"No Better Time\"* in 2020, both of which received widespread acclaim from critics and listeners alike and garnered comparisons to Fleetwood Mac, Carole King and Prefab Sprout. She subsequently toured internationally and shared the stage with Real Estate and Fruit Bats, and became a frequent touring member of Hand Habits.\n\nJoin us for Kacey's March residency at Healing Force:\n\n**MARCH 16 at 2 PM solo piano set with SAMUEL WEBB**\n\n**MARCH 23 at 6 PM trio set plus the return of OPENING MIC**\n\n**MARCH 30 at 2 PM full band set with DREAM SCHOOL (Marina Allen + Jasper Strawberry)**\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 2 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-26T03:00:00.000Z",
-      "endDate": "2025-03-26T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Z6b24a1e2bae?dice_id=Z6b24a1e2bae",
-      "url": "https://link.dice.fm/Z6b24a1e2bae?dice_id=Z6b24a1e2bae",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-28/4d0fdcaa-bd39-4e3a-abc5-5b020df2da3b.jpg?rect=0%2C0%2C2001%2C2001"
-      },
-      "name": "Katie Pearlman, Susy Sun, Francesca Blanchard",
-      "description": "**Katie Pearlman** says what women think but are too afraid to say out loud. With the release of her latest EP *“Fumbling Towards Glory”* Pearlman explores themes of femininity, defiance, and intuition, set to a lush soundscape that mixes elements of 90’s, folk, and alternative.\n\nAn LA native who spent her formative years performing music and studying philosophy in New Orleans, it was New Orleans that awoke the performer in her soul; learning piano and guitar along the way and fronting a live band singing in clubs and at jazz festivals. After returning home from college, Pearlman found success as a songwriter penning Grammy-nominated songs for Kelly Clarkson, Grace Potter, and others. She has also lent her vocals to artists like Gryffin, Dijon, and Lukas Graham.\n\nPushing the boundaries with both her music and lifestyle, Katie found inspiration in the community she created after moving to Taos, New Mexico, and in the divine feminine energy from influences such as Patti Smith, Joni Mitchell, and Alanis Morissette. “I follow the cosmic feeling,” says Katie. “I’m designing my own life. I want to grow. And I want to make people feel less alone. A pioneer on the journey of coming home to yourself, Katie Pearlman is following her magic.\n\nKatie will be opening up for Lola Kirke on her Trailblazer tour after playing Healing Force of The Universe, where she is joined by **Susy Sun** and **Francesca Blanchard**.\n\n$15 adv + DICE fees / $18 at the door\n\nDoors at 8 PM"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-03-27T03:00:00.000Z",
       "endDate": "2025-03-27T06:00:00.000Z",
       "@id": "https://link.dice.fm/yc177d2f7090?dice_id=yc177d2f7090",
@@ -406,6 +126,66 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-04-02T03:00:00.000Z",
+      "endDate": "2025-04-02T07:00:00.000Z",
+      "@id": "https://link.dice.fm/zc2216f4e151?dice_id=zc2216f4e151",
+      "url": "https://link.dice.fm/zc2216f4e151?dice_id=zc2216f4e151",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/9389414b-22dc-4e65-9287-28070012fe45.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Neoclassical LA",
+      "description": "In celebration of piano day a few days prior, Ryan Whyman brings together five artists to play the keys (accompanied by electronics and live strings) at Healing Force of the Universe on April 1, 2025. This is not a joke!\n\nSets from: Cor Karoli, Treman, Ryan Whyman, Jeff Roy, Danny Pravder\n\nDoors at 8 PM\n\n$17 ADV (+DICE fees)/$20 DOOR"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-03T03:00:00.000Z",
+      "endDate": "2025-04-03T07:00:00.000Z",
+      "@id": "https://link.dice.fm/X65e3bce3afd?dice_id=X65e3bce3afd",
+      "url": "https://link.dice.fm/X65e3bce3afd?dice_id=X65e3bce3afd",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/4d0e6ce3-1148-4233-b8ab-ec6f6b95e99c.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency night 1",
+      "description": "\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album *Expanding To One*, **Phi-Psonics** return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$20 ADV (+DICE fees)/$25 at the door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-03T03:00:00.000Z",
+      "endDate": "2025-05-01T06:00:00.000Z",
+      "@id": "https://link.dice.fm/E19646651b73?dice_id=E19646651b73",
+      "url": "https://link.dice.fm/E19646651b73?dice_id=E19646651b73",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/5a5e2e0f-e756-48b0-899e-87f17f75d8a4.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency package for all five shows",
+      "description": "FIVE SHOW PACKAGE $76\n\n\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album Expanding To One, Phi-Psonics return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$76 for all five shows or $20 ADV (+DICE fees)/$25 at the door for each"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-04-04T03:00:00.000Z",
       "endDate": "2025-04-04T07:00:00.000Z",
       "@id": "https://link.dice.fm/R47901dc063f?dice_id=R47901dc063f",
@@ -446,6 +226,26 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-04-06T03:00:00.000Z",
+      "endDate": "2025-04-06T06:00:00.000Z",
+      "@id": "https://link.dice.fm/g29e13bd9559?dice_id=g29e13bd9559",
+      "url": "https://link.dice.fm/g29e13bd9559?dice_id=g29e13bd9559",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-14/e46a848d-6b3a-458f-8e00-c4ef4839f833.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Faint, Punxsutawney, Girl Jockey",
+      "description": "Local bands **Faint, Punxsutawney** and **Girl Jockey** play at Healing Force of the Universe.\n\n$10 adv + DICE fees / $13 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-04-07T02:00:00.000Z",
       "endDate": "2025-04-07T05:00:00.000Z",
       "@id": "https://link.dice.fm/Nbb000d9406f?dice_id=Nbb000d9406f",
@@ -466,6 +266,46 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
+      "startDate": "2025-04-10T03:00:00.000Z",
+      "endDate": "2025-04-10T07:00:00.000Z",
+      "@id": "https://link.dice.fm/f42b6142bc77?dice_id=f42b6142bc77",
+      "url": "https://link.dice.fm/f42b6142bc77?dice_id=f42b6142bc77",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/4d0e6ce3-1148-4233-b8ab-ec6f6b95e99c.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency night 2",
+      "description": "\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album *Expanding To One*, **Phi-Psonics** return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$20 ADV (+DICE fees)/$25 at the door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-12T03:00:00.000Z",
+      "endDate": "2025-04-12T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Pc1381f13473?dice_id=Pc1381f13473",
+      "url": "https://link.dice.fm/Pc1381f13473?dice_id=Pc1381f13473",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-10/b4e7b64f-2b70-4336-994f-c4eafdeb5f2f.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Melinda Sullivan, Larry Goldings",
+      "description": "In 2021, amid the Covid lockdowns, **Melinda Sullivan** and jazz pianist **Larry Goldings** formed a duet, initially posting an improvisational rendition of Somewhere for a virtual party honoring Sullivan’s father-in-law. Their collaboration quickly gained traction, sparking conversations among jazz musicians, tap dancers, and broader music fans, with figures like Sheila E., Robert Glasper, and Questlove joining the dialogue. As Covid restrictions lifted in 2022, they began performing live, blending jazz, funk, commercial dance, and underground tap. Their unique, eclectic sound attracted a dedicated following on Instagram and Patreon, with fans seeking their improvised performances in Southern California clubs.\n\nTheir work is part of a historical jazz-tap tradition dating back to the 1920s, when jazz music and tap dance developed in parallel. This tradition was cemented by the 1921 Broadway show Shuffle Along and further popularized by The Cotton Club in 1984. While this collaboration had gone underground since the early 2000s, Goldings and Sullivan’s platform has reignited public interest. Goldings praised Sullivan's talents, calling him a great jazz instrumentalist. Jazz journalist Allen Morrison noted that their sound forms a new kind of jazz piano trio, with Goldings playing piano and synth bass, and Sullivan providing percussion on a portable board. Their upcoming album Big Foot released in August 2024 on Colorfield Records.\n\nDoors at 8 PM.\n\n$30 adv/$35 at door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
       "startDate": "2025-04-13T03:00:00.000Z",
       "endDate": "2025-04-13T06:00:00.000Z",
       "@id": "https://link.dice.fm/Fc779e8af80f?dice_id=Fc779e8af80f",
@@ -480,6 +320,66 @@
       },
       "name": "Joel P West, Julianna Zachariou",
       "description": "**Joel P West** brings his lush, folky tunes to Healing Force for a night with friends. He'll be joined by Darla Hawn, Daniel Rhine, Philip Krohnengold, and Connor Gallaher to play songs from his albums Sonora, Smaller, False Klamath, and more.\n\n**Julianna Zachariou** will open the night.\n\n$18 adv + DICE fees / $22 at the door\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-16T03:00:00.000Z",
+      "endDate": "2025-04-16T07:00:00.000Z",
+      "@id": "https://link.dice.fm/n0e8e13799c0?dice_id=n0e8e13799c0",
+      "url": "https://link.dice.fm/n0e8e13799c0?dice_id=n0e8e13799c0",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-16/8ec63fee-7636-4007-b547-697d2ce59446.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Tomberlin, Neu Blume, Lightman + Lightman",
+      "description": "**Tomberlin**, the stage name of Sarah Beth Tomberlin, is an indie folk artist whose music reflects themes of grief, loneliness, and introspection. Her album *i don’t know who needs to hear this...* explores the complexity of human emotions, blending sparse arrangements with expansive sounds. Known for her emotionally raw songwriting, Tomberlin's work resonates with listeners who are navigating personal struggles. Her process is intimate, often capturing the beauty in uncertainty and the authenticity of everyday experiences. Her song \"Wasted,\" from 2020's *Projections,* is one of our faves.\n\nCanadian twin sisters formerly known as Tasseomancy, **Lightman & Lightman**’s debut album *Sister Smile Sister Smile* draws upon themes of devotion, finding universal strands of beauty in the study of spiritual work. There is a timeless quality to their astral folk songs, weaving shimmering electronics into acoustic arrangements, while the duo’s close harmonies recall The Roches or Kate and Anna McGariggle.\n\n**Neu Blume** out of Detroit is the meat to this three bill sandwich.\n\n$20 ADV (+ DICE fees)$25 DOOR\n\nDoors at 8 PM"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-17T03:00:00.000Z",
+      "endDate": "2025-04-17T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Be912092dc27?dice_id=Be912092dc27",
+      "url": "https://link.dice.fm/Be912092dc27?dice_id=Be912092dc27",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/4d0e6ce3-1148-4233-b8ab-ec6f6b95e99c.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency night 3",
+      "description": "\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album *Expanding To One*, **Phi-Psonics** return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$20 ADV (+DICE fees)/$25 at the door"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-24T03:00:00.000Z",
+      "endDate": "2025-04-24T07:00:00.000Z",
+      "@id": "https://link.dice.fm/Tfd710a4e3ae?dice_id=Tfd710a4e3ae",
+      "url": "https://link.dice.fm/Tfd710a4e3ae?dice_id=Tfd710a4e3ae",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/4d0e6ce3-1148-4233-b8ab-ec6f6b95e99c.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency night 4",
+      "description": "\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album *Expanding To One*, **Phi-Psonics** return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$20 ADV (+DICE fees)/$25 at the door"
     },
     {
       "@context": "https://schema.org",
@@ -540,6 +440,26 @@
       },
       "name": "Macie Stewart",
       "description": "**Macie Stewar**t’s upcoming album *When the Distance is Blue* (International Anthem, 2024), out March 21, offers a cinematic and symphonic exploration of life's in-between moments. The album weaves together Stewart’s prepared piano improvisations, lush string arrangements, and field recordings captured during a year of touring, creating a sonic landscape that marks her most striking work yet. A Chicago-based multi-instrumentalist, composer, and improviser, Stewart is known for her deep listening and technical prowess, with Pitchfork calling her one of the standout collaborators of the past five years.\n\nIn 2014, Stewart co-founded the experimental duo Finom, which has released four records and garnered praise for its avant-pop, art-rock sound. Their latest album Not God (2024) showcases the duo’s signature harmonies, lyricism, and innovative sonic textures. Stewart’s composition work spans various disciplines, dissolving boundaries between genres. She composed for Hubbard Street Dance’s Half of Us in 2021, worked with Finom bandmate Sima Cunningham and Alex Grelle on a performance piece honoring Kate Bush, and scored a 50-piece orchestra for the Pacific Northwest Ballet’s Before I Was (2022). More recently, she created a sound installation for Robyn Mineko Williams’ Hisako House and contributed to the ESS Florisonic Installation at Lincoln Park Conservatory in 2024.\n\nDoors at 8 PM\n\n$15 ADV (+dice fees)/$18 DOOR"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-05-01T03:00:00.000Z",
+      "endDate": "2025-05-01T07:00:00.000Z",
+      "@id": "https://link.dice.fm/te44b8a8082a?dice_id=te44b8a8082a",
+      "url": "https://link.dice.fm/te44b8a8082a?dice_id=te44b8a8082a",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/healing-force-of-the-universe-8l92"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/2fdea607-f39c-4fb3-8849-b79e08f00eff.jpg?rect=0%2C0%2C2000%2C2000"
+      },
+      "name": "Phi-Psonics residency night 5",
+      "description": "\\--Phi-Psonics: Laboratory II - Annual Spring Residency--\n\nIn the spirit of the 2024 live recording sessions that birthed their forthcoming album *Expanding To One*, **Phi-Psonics** return for their annual spring residency at Healing Force of the Universe with 'Phi-Psonics: Laboratory II.' Join us Wednesdays in April as the band creates new musical explorations that will form the foundation of their next record. This is not an album release event, but a continuation of our yearly tradition of live experimentation and spontaneous composition. Experience firsthand the creative process that will eventually evolve into their next album.\n\nWith Seth Ford-Young, Sylvain Carton, Randal Fisher, Mitchell Yoshida, Zach Tenorio, Josh Collazo, Mathias Künzli, Andrew Macguire, Max Jaffe, Minta Spencer, Dylan Day and more guests TBA\n\nHealing Force of the Universe\n\nApril 2, 9, 16, 23, and 30\n\nDoors at 8 PM\n\n$20 ADV (+DICE fees)/$25 at the door"
     },
     {
       "@type": "Place",

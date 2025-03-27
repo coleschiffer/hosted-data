@@ -6,346 +6,6 @@
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
-      "startDate": "2025-03-14T03:00:00.000Z",
-      "endDate": "2025-03-14T06:00:00.000Z",
-      "@id": "https://link.dice.fm/u590ca6c31cd?dice_id=u590ca6c31cd",
-      "url": "https://link.dice.fm/u590ca6c31cd?dice_id=u590ca6c31cd",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-25/55c2bc94-8476-41a9-bd75-567696415005.jpg?rect=334%2C0%2C1333%2C1333"
-      },
-      "name": "Chat Pile, Deaf Club",
-      "description": "Chat Pile, Deaf Club"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-15T02:00:00.000Z",
-      "endDate": "2025-03-15T05:00:00.000Z",
-      "@id": "https://link.dice.fm/kdf3c1fcd894?dice_id=kdf3c1fcd894",
-      "url": "https://link.dice.fm/kdf3c1fcd894?dice_id=kdf3c1fcd894",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-14/e20d3b05-95e1-4282-83c2-80479d9b2cc2.jpg?rect=0%2C232%2C1503%2C1503"
-      },
-      "name": "The Macks, SLUTTONY",
-      "description": "**The Macks, SLUTTONY**\n\nAll the identity and none of the crisis! The Macks are in their own pocket. Your fifth-favorite-band’s fifth-favorite-band are hardened road warriors and goblins of their basement studio.\n\nVirile and award-winning like a show horse, The Macks deliver a sonic-f\\*\\*\\*\\*\\*g-circus and they are turning heads around the country and internationally through the airwaves and their touring roadshow.\n\nWith their latest LP release, \"The Macks are a Knife,\" (via Devil Duck Records) The Macks have released their most poised and pungent LP as a result of their think-tank approach to producing records. Some legendary appearances at Pickathon, Treefort Fest, SXSW, Elsewhere Festival, and Lose Yr Mind have seen The Macks emerge from the PNW scene as a true 1 of 1 type band. With a lineup that has the group firing on all cylinders, both live and in the studio, The Macks have folks tuning in and spelling it right.\n\n**Sluttony** is a four-piece all femme rock band from Santa Cruz, CA. Formed in 2021, Sluttony quickly gained local following and re-ignited the college music scene in Santa Cruz. Their on-stage chemistry and charisma combined with the femme-rock energy of their performances quickly made Sluttony a cornerstone of the Santa Cruz house show scene, and they went on to sell out venues in town including Urbani's Cellar and The Catalyst Atrium. In March 2022, the band released their long awaited debut single \"Everybody's Business\", followed by their debut EP \"Another Something Nice\", through which they continued to explore their sound.\n\nBeyond Santa Cruz, the band has played numerous shows in cities such as Los Angeles, San Francisco, Oakland, and Berkeley, playing a sold out show at The Smell - one of LA's notable DIY venues. In May 2023, Sluttony made their debut festival appearance at Shabang Music Festival.\n\nIn September 2023, the band relocated to Los Angeles. Their debut LP, produced by Jim Wirt, is set to be released in Winter 2025.\n\nThe band consists of Hannah Goodwin (lead vocals/guitar), Nina Maravic (guitar/vocals), Sabine Hovnanian (drums/vocals), and Caroline Margolis (bass)."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-15T05:00:00.000Z",
-      "endDate": "2025-03-15T09:00:00.000Z",
-      "@id": "https://link.dice.fm/e86375bbcbaa?dice_id=e86375bbcbaa",
-      "url": "https://link.dice.fm/e86375bbcbaa?dice_id=e86375bbcbaa",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-08/abccc1b7-bbb0-4b76-9ed5-4ca1ffae5db6.jpg?rect=0%2C500%2C4000%2C4000"
-      },
-      "name": "C*nty Classics Dance Party, Shana Sarett & Vince Rossi DJs",
-      "description": "C\\*nty Classics with DJs Shana Sarett & Vince Rossi"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-16T02:00:00.000Z",
-      "endDate": "2025-03-16T05:00:00.000Z",
-      "@id": "https://link.dice.fm/ra386a7e227d?dice_id=ra386a7e227d",
-      "url": "https://link.dice.fm/ra386a7e227d?dice_id=ra386a7e227d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-20/3e77dbdc-ecd4-4239-91c8-5e01f122f0a2.jpg?rect=500%2C0%2C2000%2C2000"
-      },
-      "name": "Ela Minus",
-      "description": "Sister Midnight + Viva! Presents Ela Minus at Zebulon."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-16T05:00:00.000Z",
-      "endDate": "2025-03-16T09:00:00.000Z",
-      "@id": "https://link.dice.fm/Z615a0dcf8a3?dice_id=Z615a0dcf8a3",
-      "url": "https://link.dice.fm/Z615a0dcf8a3?dice_id=Z615a0dcf8a3",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-04/792d8ed4-3f09-46bf-a212-e6b079bb1398.jpg?rect=0%2C0%2C1300%2C1300"
-      },
-      "name": "Discostan Nowruz",
-      "description": "Discostan Nowruz\n\nw/\n\nDiscotchari\n\nOmid Walizadeh\n\nParisa (Aziz Amor)"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-17T03:00:00.000Z",
-      "endDate": "2025-03-17T06:00:00.000Z",
-      "@id": "https://link.dice.fm/jf31a35d9b84?dice_id=jf31a35d9b84",
-      "url": "https://link.dice.fm/jf31a35d9b84?dice_id=jf31a35d9b84",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-28/8d825365-5e6f-4721-992c-bc5986a152cc.jpg?rect=0%2C27%2C1170%2C1170"
-      },
-      "name": "LA Wildfire Benefit: Wavves, Oog Bogo",
-      "description": "**LA Wildfire Benefit with Wavves, Oog Bogo**\n\nThe wiggy wanderings of Oog Bogo wind up on the same island of lost joys all at once, manufacturing a virtual jukebox of singles and side flips that won’t unplug, and just keeps reeling and raging on instead. A bright metallurgy of guitar pop, psych, post-punk and apocalypse disco (!!!) emboss the sleek, multicolored flash of Plastic."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-18T03:00:00.000Z",
-      "endDate": "2025-03-18T06:00:00.000Z",
-      "@id": "https://link.dice.fm/If18eb1c12a2?dice_id=If18eb1c12a2",
-      "url": "https://link.dice.fm/If18eb1c12a2?dice_id=If18eb1c12a2",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-04/6489ab22-e1bc-4fc4-b511-ba88339070cc.jpg?rect=148%2C0%2C1181%2C1181"
-      },
-      "name": "Iceage, Dutch Interior",
-      "description": "Iceage, Dutch Interior\n\n“Shake The Feeling” is open to interpretation. The phrase can refer to the Rock ‘n’ Roll clarion call of “shaking of some action.” Or it can be taken as a callback to the even more primal urge to “shake what your mama gave you.” Ultimately, the phrase can be seen as an expression of existentialism; an acknowledgement of our consigned inability to be free of the human condition. It’s the latter interpretation, the usage that–while ostensibly romantic–implies something inescapable, that Iceage are using for the title of their new record. As with everything Iceage does, it’s a come-on delivered as a threat, a sexy invitation to get irretrievably lost.\n\nWhile not as anachronistic as a B-sides album, an outtakes compilation is something older, classic rock bands, like Deep Purple or Pavement, have. Nobody saw this for Iceage. Hell, nobody saw Iceage surviving their first US tour, let alone living long enough as a band to have songs they actually left off of records. But Iceage haven’t just survived - they managed to get better, so much so that even their wretched castoffs shine in god’s light like golden teeth from a pirate’s sun bleached skull. Even as teens, the spirit was indeed in them, and it was a spirit of both epistemological violence and euphoric grace. When lead singer Elias Bender Rønnenfelt looked dead-eyed and stalwart out across those crowds and sang the chorus of “Total Drench,” he was speaking both truth and prophecy.\n\nAs with all of Iceage’s albums, whether it be the sensual daring-do of their dark-hardcore masterpiece debut, the Flying Nun-dappled “Oi!!!!” of You’re Nothing, the shift to cowpunk gothic romanticism on Plowing Into the Field of Love, or the space truckin’ gospel-rock of their most recent albums, Elias Bender Rønnenfelt, Johan Suurballe Wieth, Jakob Tvilling Pless and Dan Kjær Nielsen make the impossible seem effortless. Shake The Feeling: Outtakes & Rarities 2015-2021, the band’s second full length for Mexican Summer, is a collection of non-LP cuts (or “misfit children,” as Elias describes them) from the seven years during which Iceage made Plowing Into the Field of Love (2014), Beyondless (2018), and Seek Shelter (2021)."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-19T03:00:00.000Z",
-      "endDate": "2025-03-19T06:00:00.000Z",
-      "@id": "https://link.dice.fm/p5b24d219f81?dice_id=p5b24d219f81",
-      "url": "https://link.dice.fm/p5b24d219f81?dice_id=p5b24d219f81",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-30/cdcae757-736f-4af1-b2b2-cc44dc4a6cce.jpg?rect=0%2C0%2C1500%2C1500"
-      },
-      "name": "re:VOLT (Jill Fraser, Peter Grenader, Thomas Klepper), Skyler King",
-      "description": "**re:VOLT, Skyler King**\n\n**re:VOLT is the ongoing collaboration of Jill Fraser, Peter Grenader and Thomas Klepper.**\n\n**Jill Fraser** is a composer and electronic music pioneer with a career spanning over 40 years, creating music for films, commercials, games, and, as she puts it, \"in the wild\" as entertainment. Her deep and ever-evolving curiosity about music as both a scientific and spiritual force comes to life in her forthcoming album, Earthly Pleasures. This project reimagines American revival hymns from the late 19th and early 20th centuries, using early Serge systems alongside modern tools like the Ableton Push 3. More than just creating expressive, personal music, Jill's work contemplates themes of death and the afterlife while considering how today's sources of meaning might be understood by future generations and technologies yet to come.\n\nJill Fraser set her sights on this creative path early in her career. Mentored by Morton Subotnick and studying with luminaries like Mel Powell and Earle Brown at CalArts, she also attended master classes with influential figures such as John Cage and Lou Harrison. These experiences, combined with her own artistic instincts, shaped her into an expansive and open-eared composer. Her work at Serge Modular in Hollywood further honed her visionary approach to music. In the 1980s, Jill brought modular synthesizers into Hollywood studios to score films, marking a new direction in film composition. Her credits include Personal Best and Cruising (both in collaboration with Jack Nitzsche), as well as \\*Hardcore\\* (directed by Paul Schrader). During this time, she was also active in the vibrant Los Angeles punk and spoken word scene, touring with singer Buffy Sainte-Marie and performance artist Ivan E. Roth. She performed modular synth sets opening for acts like The Minutemen and Henry Rollins, and in 1988, released the CD \\*Alphabetical Disorders\\* with Ivan on the electronic label Periodic Music.\n\nThroughout her career, Jill Fraser has composed both electronic and acoustic music for hundreds of TV commercials, working with major brands like Lexus, BMW, Honda, Porsche, Nissan, Mazda, Mitsubishi, Mattel, Carl’s Jr., NBC, Apple, Adidas, Estee Lauder, Baskin Robbins, Yamaha Motorcycles, and many others. She has won three Clio Awards for original music and is a voting member of the Academy of Television Arts and Sciences. In 2018, she wrote and performed music with the Zzyzx Society. Currently, Jill performs live with re:VOLT and her new album Earthly Pleasures is available on Drag City Records.\n\n**Peter Grenader** has an enduring history in electronic music. Studying composition at CalArts under Morton Subotnick, his works have been performed across the United States and Europe. His discography includes Secret Life (2013) on Coda Recordings, zZyzx Society with Jill Fraser, featuring Danny Carey, Chas Smith, and Thighpaulsandra (2018) on ZSR Records, Patch CV Two (2018) on Organic Records, Tool’s Fear Inoculum (2019) on RCA Records, and two albums with POV featuring Steve Roach, Theo Travis, Thighpaulsandra, Martin Shellard (2019/2020) distributed by Roach’s Timeroom Records.\n\nHe was a featured composer at the 17th American Composer’s Forum Salon in Venice. His Electrolux earned recognition by winning the Periòdic Music Festival in Barcelona, Spain. His work has also been showcased at numerous other festivals, including the SEAMUS National Conference, the University of North Texas, CalArts, Stony Brook University, the University of Illinois at Urbana-Champaign, the University of Texas at Austin, Georgia State University's Pulse Field, the Florida Electro-Acoustic Music Festival, the 2003 Electric Rainbow Coalition Festival at Dartmouth, the Institute of Sonology in Utrecht, Holland, two wins at the Virginia Commonwealth University Music Festival, and three performances at the Los Angeles Sonic Odyssey.\n\nCollaborations with fellow creatives include Analoglive! along with film composer Gary Chang, Nine Inch Nails keyboardist Alessandro Cortini, Richard Devine, composer and instrument designer Chas Smith, Thighpaulsandra (of Coil and Spiritualized) and video artist Paul Tzanetopoulos at the Redcat Theater in Los Angeles. Other notable collaborations include zZyzx Society, The Third Ear, POV featuring Steve Roach, and several performances with re:VOLT at The Lab in San Fransisco, The Philosophical Research Society and 2220 Arts + Archives in Los Angeles.\n\nHe was featured on David Elliot’s 2018 synthesis documentary series Patch CV: Controlling Voltage. For the past 13 years he has served as the instrument and sound designer for the progressive metal band Tool and earned an RIAA gold record for his work on their album Fear Inoculum. A past member of the SEAMUS board of directors, he is the founder and primary designer for Electro-Acoustic Research (EAR) and Plan B Synthesizers.\n\n**Thomas Klepper** is a Los Angeles based sitarist and student of Etawah Gharana with renoun sitar master Ustad Shahid Parvez Khan, DJ, soundbath artist, producer and electronic musician who has released records under the aliases Romeo, LoTom, Rinpoche and Thomas K for the Association of Masks label. He has performed at Burning Man, the Disclosure Festival, Music For Dancers and The Higley Center for the Performing Arts among others.\n\nHe is the host of the Library of Sounds show for Dublab Radio and aims to create thought-provoking music that is rooted in tradition while at the same time paving the way into the future.\n\nhttp://www.re-volt.world"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-20T03:00:00.000Z",
-      "endDate": "2025-03-20T06:00:00.000Z",
-      "@id": "https://link.dice.fm/l4693daf6f3c?dice_id=l4693daf6f3c",
-      "url": "https://link.dice.fm/l4693daf6f3c?dice_id=l4693daf6f3c",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-13/e0097728-79d5-4d6d-b52d-05369d346c0d.jpg?rect=0%2C132%2C1036%2C1036"
-      },
-      "name": "Ak'chamel, Derek Monypeny",
-      "description": "Ak'chamel\n\nDerek Monypeny\n\nThe mysterious AK'CHAMEL bring their desert-scorched psychedelia, post apocalyptic shamanism, and bizarre ritual folk to Zebulon on March 19th. Pan-desert string player Derek Moneypeny opens the show.\n\nPerforming in strange shaman costumes to invoke ritual-like trance with their “other-world” music, Ak’chamel have developed a small but dedicated cult-following over the past decade. Releasing a myriad of limited cassettes, VHS films, and – by now – highly sought-after records.\n\n\"Ak'chamel's deliberately lo-fi, murky temple music conjures not only the post-industrial rituals lusting for the pagan days of Druidic Britain but also the pantheistic, impishly playful rhythms from Thai temple music as well as some choice nods to the occult ethnomusicology of their professed influences, The Sun City Girls.\" –aQuarius RecOrds\n\nMojave dweller Derek Monypeny sees his musical mission as adding to and expanding on what he calls the \"desert continuum;\" the psychedelic sirocco swirl of desert-based stringed instruments played with utter abandon by musicians the world over."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-21T03:00:00.000Z",
-      "endDate": "2025-03-21T06:00:00.000Z",
-      "@id": "https://link.dice.fm/J6f30150bd78?dice_id=J6f30150bd78",
-      "url": "https://link.dice.fm/J6f30150bd78?dice_id=J6f30150bd78",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-09/1b773436-a075-4a3d-b647-4ec4c6fcfdb6.jpg?rect=0%2C0%2C2295%2C2295"
-      },
-      "name": "Ovlov, Washer, Guck",
-      "description": "**OVLOV**\n\nSince 2009, Ovlov’s transmissions have been sporadic, but they’ve always been impactful. The band’s early run of EPs established the Connecticut four-piece as a modern update on a certain strain of northeastern indie-rock. By the time the band’s debut album Am was released in 2013, Ovlov was getting comparisons to Dinosaur Jr. and Sebadoh tossed in their direction, and while those elements were certainly present in their sound, Ovlov always let catchy pop hooks slip into the mix too. On their third album, Buds, those pop elements are more pronounced than they’ve ever been before.\n\n“I would like to think that the songs on this album are all pop songs at the core,” says Steve Hartlett, the band’s songwriter, guitarist, and vocalist. On first blush, Buds won’t shock longtime Ovlov fans, but on repeat listens, those fuzzy, crushing guitars start to feel less like the central focus and more of a delivery system for Hartlett’s grander ambitions. “For the past few years, the number of rock bands I’ve been listening to has grown smaller and smaller,” says Hartlett. “Unfortunately, it’s the only genre and style I’ve ever really felt comfortable writing. That’s probably mostly because I write everything on a guitar. Don’t get me wrong, I love rock music—there’s nothing more satisfying than playing an E chord through a Big muff as loud as the amp will go—I just want to slowly progress into writing the most perfectly poppy of pop songs.”\n\nRecorded with the same producer and engineer who has handled every Ovlov album, Michael John Thomas III at his Black Lodge Studio in Brooklyn, Buds is the latest document of Ovlov’s slow and sturdy evolution. But this time, the band’s become even more of a family affair. Though Steve’s long been riffing alongside guitarist Morgan Luzzi, the band was started with Steve’s younger brother Theo on drums. This time around, their older brother Jon joined them on bass—and their dad, Ted, even stops in to rip a sax solo on “Cheer Up, Chihiro!” Considering the Hartlett brothers learned how to play music together, it’s a full circle moment as they all come together in service of making Ovlov’s most fully realized statement yet."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-22T02:00:00.000Z",
-      "endDate": "2025-03-22T05:00:00.000Z",
-      "@id": "https://link.dice.fm/v59dde5ce988?dice_id=v59dde5ce988",
-      "url": "https://link.dice.fm/v59dde5ce988?dice_id=v59dde5ce988",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-02/c4e59c99-0114-4767-a4ab-744aa10ff1df.jpg?rect=0%2C697%2C2687%2C2687"
-      },
-      "name": "Rickshaw Billie's Burger Patrol, Here Lies Man",
-      "description": "**Rickshaw Billie's Burger Patrol, Here Lies Man**\n\n“Our catalog has never been short on big dumb riffs, but the idea on this record was to really turn the screw,” says RBBP bassist Aaron Metzdorf. On Big Dumb Riffs, that screw is cranked incredibly tight.\n\n“We just wanted ‘the part’: The opening of Pantera’s ‘Primal Concrete Sledge’, the breakdown in Primus’ ‘Pudding Time’ — the shit that makes you move and lose your mind. Just that part the whole time.”\n\nAcross 11 concise, taut songs — most clocking in around 2 minutes or less — Rickshaw Billie’s Burger Patrol demonstrates their skillful ability to blend the merciless low end of Leo Lydon’s 8-string guitar, Aaron Metzdorf’s masterful chordwork on the bass, and Sean St.Germain’s driving drumming.\n\nHot on the heels of their breakout 5th studio release Doom Wop (2023), Rickshaw Billie’s Burger Patrol returns with Big Dumb Riffs: A whole new variant of the fuzzed out, overdriven, melodic, groovy music they have been making since 2016. While Big Dumb Riffs is decidedly more aggressive and rhythmic, it still retains the overtly melodic feel of Doom Wop. But Leo Lydon’s vocals are considerably more angry and negative (song titles like “1-800-EAT-SHIT” and “Body Bag” should be a clue.)\n\n“The whole writing process was, ‘what if we just played two notes the whole song’,” Metzdorf says. “‘What if we tuned down to almost unusable string tension?’, ‘what if we write a record that will make everyone say ‘wow that is dumb’? Leo and I really move around on stage a lot. Being a dingus is crucial to the groove. All these riffs were designed to allow us to act bigger and dumber on stage.”\n\nBig Dumb Riffs will be available for streaming and download on March 22, 2024. LP to follow in late Spring."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-22T05:00:00.000Z",
-      "endDate": "2025-03-22T09:00:00.000Z",
-      "@id": "https://link.dice.fm/de58deca7de3?dice_id=de58deca7de3",
-      "url": "https://link.dice.fm/de58deca7de3?dice_id=de58deca7de3",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2023-09-11/a0357104-ad93-491f-8787-38f212906039.jpg?rect=86%2C0%2C954%2C954"
-      },
-      "name": "Say You'll Be There: A 90s/2000s Dance Party",
-      "description": "Say You'll Be There: A 90s/2000s Dance Party"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-23T02:00:00.000Z",
-      "endDate": "2025-03-23T05:00:00.000Z",
-      "@id": "https://link.dice.fm/cd35735410fc?dice_id=cd35735410fc",
-      "url": "https://link.dice.fm/cd35735410fc?dice_id=cd35735410fc",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-09/1b773436-a075-4a3d-b647-4ec4c6fcfdb6.jpg?rect=0%2C0%2C2295%2C2295"
-      },
-      "name": "Ovlov, Washer",
-      "description": "**OVLOV**\n\nSince 2009, Ovlov’s transmissions have been sporadic, but they’ve always been impactful. The band’s early run of EPs established the Connecticut four-piece as a modern update on a certain strain of northeastern indie-rock. By the time the band’s debut album Am was released in 2013, Ovlov was getting comparisons to Dinosaur Jr. and Sebadoh tossed in their direction, and while those elements were certainly present in their sound, Ovlov always let catchy pop hooks slip into the mix too. On their third album, Buds, those pop elements are more pronounced than they’ve ever been before.\n\n“I would like to think that the songs on this album are all pop songs at the core,” says Steve Hartlett, the band’s songwriter, guitarist, and vocalist. On first blush, Buds won’t shock longtime Ovlov fans, but on repeat listens, those fuzzy, crushing guitars start to feel less like the central focus and more of a delivery system for Hartlett’s grander ambitions. “For the past few years, the number of rock bands I’ve been listening to has grown smaller and smaller,” says Hartlett. “Unfortunately, it’s the only genre and style I’ve ever really felt comfortable writing. That’s probably mostly because I write everything on a guitar. Don’t get me wrong, I love rock music—there’s nothing more satisfying than playing an E chord through a Big muff as loud as the amp will go—I just want to slowly progress into writing the most perfectly poppy of pop songs.”\n\nRecorded with the same producer and engineer who has handled every Ovlov album, Michael John Thomas III at his Black Lodge Studio in Brooklyn, Buds is the latest document of Ovlov’s slow and sturdy evolution. But this time, the band’s become even more of a family affair. Though Steve’s long been riffing alongside guitarist Morgan Luzzi, the band was started with Steve’s younger brother Theo on drums. This time around, their older brother Jon joined them on bass—and their dad, Ted, even stops in to rip a sax solo on “Cheer Up, Chihiro!” Considering the Hartlett brothers learned how to play music together, it’s a full circle moment as they all come together in service of making Ovlov’s most fully realized statement yet."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-23T05:00:00.000Z",
-      "endDate": "2025-03-23T09:00:00.000Z",
-      "@id": "https://link.dice.fm/rea519bce03b?dice_id=rea519bce03b",
-      "url": "https://link.dice.fm/rea519bce03b?dice_id=rea519bce03b",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-03/2c57c249-4c33-4a4d-8f69-b3d8636bc16e.jpg?rect=0%2C0%2C6000%2C6000"
-      },
-      "name": "Not On My Turntable",
-      "description": "**Not On My Turntable DJ Night**\n\nLet loose your caboose with Edgar & Burgers aka 'Not On My Turntable'!! An all night long groovin' dance party!\n\n*Art by Emily Elhaj*"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-24T03:00:00.000Z",
-      "endDate": "2025-03-24T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Qa8f776f6656?dice_id=Qa8f776f6656",
-      "url": "https://link.dice.fm/Qa8f776f6656?dice_id=Qa8f776f6656",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-12/0879eedb-ecb2-48bc-a893-d0ea4516f9ff.jpg?rect=0%2C320%2C1920%2C1920"
-      },
-      "name": "Astrid Sonne, Dustin Wong",
-      "description": "**Astrid Sonne, Dustin Wong**\n\nAstrid Sonne is a Danish, London-based composer and viola player. Throughout her acclaimed discography, Astrid Sonne has been carefully crafting different moods through electronic and acoustic instrumental endeavours. On her most recent album “Great Doubt” (January 2024) this skill is refined, now with the distinct addition of the composer's own vocal in the fore. The tone of each track is unmistakably Sonne’s, structured around contrasts through an impeccable sense of timing. Lyrics on the album are sparse, merely highlighting different scenes or emotional states of being, leaving the music to fill in the blanks. Yet they also form a pattern of ambiguity, consolidated through the album title, searching for answers through looking at how and what you are asking, questions for the world, questions of love. The viola, a trusted companion since Astrid Sonne’s youth, appears effortlessly throughout the album, fully integrated into the sonic universe; through a pizzicato driven arrangement in the poignant track “Almost” or along with booms and claps in mutated cinematic stabs during “Give my all”, paraphrasing Mariah Carey's 1997 ballad. Yet the string section also gives way to explorations of woodwinds, counterbalancing the bowed movements with digital brass and airy flutes. Finally, beats and detuned piano are fresh additions to the soundscape, cementing how Sonne’s practice is always evolving into new territories."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-25T02:30:00.000Z",
-      "endDate": "2025-03-25T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Zaa845d2e68e?dice_id=Zaa845d2e68e",
-      "url": "https://link.dice.fm/Zaa845d2e68e?dice_id=Zaa845d2e68e",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-12-10/7d196a2b-3a60-413e-99f1-f8045b6afe57.jpg?rect=0%2C293%2C1414%2C1414"
-      },
-      "name": "Nani Vazana",
-      "description": "**Nani Vazana**\n\nWith a ship’s-horn power voice & irresistible stage presence, Nani defends the endangered Ladino language. Her fascinating migration mix seeps into her songwriting, fusing the sounds of the marketplace with Flamenco drama. Nani learned Ladino from her Moroccan grandmother in hiding, as her father forbade them to speak Ladino at home. Library of Congress ‘Living Relic’ honours 2023, #11 International World Music Chart 2022, #13 World Music Chart Europe 2022."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-26T03:00:00.000Z",
-      "endDate": "2025-03-26T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Gb2ad3b22fb2?dice_id=Gb2ad3b22fb2",
-      "url": "https://link.dice.fm/Gb2ad3b22fb2?dice_id=Gb2ad3b22fb2",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/zebulon-y8bv"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-08/6aac45e8-2e52-4962-86a5-e6e102c9a986.jpg?rect=420%2C0%2C1080%2C1080"
-      },
-      "name": "Crack Cloud, Self Improvement",
-      "description": "**Crack Cloud, Self Improvement**\n\nThe first iteration of Crack Cloud was formed nearly a decade ago as a proxy-rehab outlet on the fringes of Calgary, where two EPs and their accompanying visual pieces were created during this time. By 2017, several members had relocated to Vancouver. It was after the move that the band produced their astounding 2020 album Pain Olympics, and their 2022 follow up, Tough Baby. All at once, their vision became expansive, cinematic, and precarious.\n\nNow, their third full-length studio album, Red Mile, acts as both a tribute and a homecoming. Members have since left Vancouver and returned to Calgary; returned to the long stretch of land colloquially referred to as the red mile. But what of the time away from home? After a decade of personal and collective growth, what does home even mean? To Crack Cloud, this is the liminal message demanding to be explored throughout Red Mile. The throughline thread of samsara – rebirth and life’s cyclical pattern weaving together the eight tracks.\n\nA departure from the hermetic, multi-year gestation of Pain Olympics and Tough Baby, Red Mile is the product of swift, group collaboration. Recorded predominantly between the outskirts of Joshua Tree, California, and Calgary, Alberta, the resulting album is informed by a bittersweet melange of new beginnings and familiar places.Crack Cloud have learned to concentrate their multi-hyphenate energy, re-emerging as a lean, focused rock outfit producing their most mature and vital work yet. The sprawling, novelistic structures of their previous records have been harnessed and condensed, but never boiled down. The band is derisive as ever to deal in superficiality. Through playful melodies and elliptical guitar soliloquy they deliver a record of exceptional depth and unprecious warmth; creating a lived-in feel not dissimilar to a loved picture frame: a captured still, carefully mended with electrical tape."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
       "startDate": "2025-03-27T02:30:00.000Z",
       "endDate": "2025-03-27T05:30:00.000Z",
       "@id": "https://link.dice.fm/raebffc1d45e?dice_id=raebffc1d45e",
@@ -359,7 +19,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-03-12/946d96a0-26cc-4903-acbf-8da4e2317f3e.jpg?rect=0%2C0%2C1920%2C1920"
       },
       "name": "In the cafe: Soma Nove - Hungarian Outlaw Folk",
-      "description": "Soma Nove - Hungarian Outlaw Folk\n\nIN THE CAFE\n\nSoma Nóvé is a Hungarian musician, singer, and guitarist known for his involvement in multiple musical projects. Nóvé is the founder of psychedelic rock outfit Middlemist Red and of MORDÁI, a folk-rock band that reimagines traditional Hungarian folk songs with jazz and improvisational elements. He has also been involved in projects like The Night Of The Vampire and Samurai Drive, showcasing his versatility across different musical landscapes. In his solo performances he covers traditional Hungarian Folk songs with a dark and melancholic twist, which he calls Outlaw Folk."
+      "description": "IN THE CAFE: Soma Nove - Hungarian Outlaw Folk\n\nSoma Nóvé is a Hungarian musician, singer, and guitarist known for his involvement in multiple musical projects. Nóvé is the founder of psychedelic rock outfit Middlemist Red and of MORDÁI, a folk-rock band that reimagines traditional Hungarian folk songs with jazz and improvisational elements. He has also been involved in projects like The Night Of The Vampire and Samurai Drive, showcasing his versatility across different musical landscapes. In his solo performances he covers traditional Hungarian Folk songs with a dark and melancholic twist, which he calls Outlaw Folk."
     },
     {
       "@context": "https://schema.org",
@@ -399,7 +59,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-02-25/3b443e38-4d51-486d-b7ce-7e8565a33fb7.jpg?rect=0%2C0%2C2000%2C2000"
       },
       "name": "Op Ed, Private Eye, Color TV",
-      "description": "Op Ed\n\nPrivate Eye\n\nColor TV"
+      "description": "**Op Ed, Private Eye, Color TV**\n\nBENEFIT FOR THE ESPERANZA IMMIGRANT RIGHTS PROJECT\n\nThe throwing of this benefit show is in direct critical response to ICE's deportation raids and intimidation of undocumented Angelenos. Show is FREE but please donate what you can!"
     },
     {
       "@context": "https://schema.org",
@@ -436,7 +96,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-08-15/6b4aa5aa-0755-4575-938b-a4fc51e09dac.jpg?rect=0%2C0%2C1620%2C1620"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-24/e11ad9cb-759a-4fb1-8310-482a07aee09a.jpg?rect=0%2C195%2C1555%2C1555"
       },
       "name": "Kulture Klub - The '80s Dance Party",
       "description": "Kulture Klub - The '80s Dance Party"
@@ -476,7 +136,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-11/2eb136a6-7126-44e5-9a39-a4f934b32898.jpg?rect=0%2C270%2C2160%2C2160"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/115b3c5a-fd80-4cf8-8a08-4fcf1fb8d264.jpg?rect=216%2C0%2C768%2C768"
       },
       "name": "Reverberation Radio DJ Night ",
       "description": "**Reverberation Radio DJ Night**\n\nTropical boogie, international disco and other spaced out dance floor favs from the 70s"
@@ -519,7 +179,7 @@
         "url": "https://dice-media.imgix.net/attachments/2025-03-06/13b1c71d-94d1-4ec5-82f2-43b246eb7da5.jpg?rect=0%2C81%2C1080%2C1080"
       },
       "name": "GROOP ",
-      "description": "GROOP"
+      "description": "GROOP, Cradle, Ram"
     },
     {
       "@context": "https://schema.org",
@@ -578,8 +238,28 @@
         "@type": "ImageObject",
         "url": "https://dice-media.imgix.net/attachments/2025-01-24/fd0f5a2b-0346-47e8-ab9c-9842324baa2b.jpg?rect=0%2C0%2C1200%2C1200"
       },
-      "name": "The Sloppy Boys",
-      "description": "**The Sloppy Boys**\n\nThe Sloppy Boys are a “party rock” band from LA consisting of comedians Mike Hanford, Jeff Dutton and Tim Kalpakis. Prior to forming The Sloppy Boys, all three were writer-performers on the sketch comedy show “The Birthday Boys,” produced by Bob Odenkirk, which aired on IFC.\n\nTogether, the Boys have self-released three albums, Lifelong Vacation, Dancing on the Wind, and Paradiso. Their fourth, Sonic Ranch, was produced by Money Mark (Beastie Boys, Beck) at the legendary Sonic Ranch Studios in Texas. The entire process was captured by director Robert Holguin for his feature-length comedy-rock-doc Blood, Sweat and Beers or How\n\nThe Sloppy Boys Made an Album on a Farm in West Texas.\n\nThe Sloppy Boys also host a weekly cocktail-making podcast, ranked a Top 3 Comedy\n\nPodcast by Vulture. New episodes drop every Friday."
+      "name": "The Sloppy Boys, Whitmer Thomas",
+      "description": "**The Sloppy Boys, Whitmer Thomas**\n\nThe Sloppy Boys are a “party rock” band from LA consisting of comedians Mike Hanford, Jeff Dutton and Tim Kalpakis. Prior to forming The Sloppy Boys, all three were writer-performers on the sketch comedy show “The Birthday Boys,” produced by Bob Odenkirk, which aired on IFC.\n\nTogether, the Boys have self-released three albums, Lifelong Vacation, Dancing on the Wind, and Paradiso. Their fourth, Sonic Ranch, was produced by Money Mark (Beastie Boys, Beck) at the legendary Sonic Ranch Studios in Texas. The entire process was captured by director Robert Holguin for his feature-length comedy-rock-doc Blood, Sweat and Beers or How\n\nThe Sloppy Boys Made an Album on a Farm in West Texas.\n\nThe Sloppy Boys also host a weekly cocktail-making podcast, ranked a Top 3 Comedy\n\nPodcast by Vulture. New episodes drop every Friday."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-05T02:00:00.000Z",
+      "endDate": "2025-04-05T05:00:00.000Z",
+      "@id": "https://link.dice.fm/Z93e6011dc9a?dice_id=Z93e6011dc9a",
+      "url": "https://link.dice.fm/Z93e6011dc9a?dice_id=Z93e6011dc9a",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-26/0acc1c12-d6cd-4cb3-a62f-832bdb9d30ff.jpg?rect=0%2C0%2C3222%2C3222"
+      },
+      "name": "Milly, Lottie's",
+      "description": "**MILLY | Lottie's**\n\n**Lottie’s** trio evolved from the Lottie Malkmus’s solo act. Rene Garcia III, from San Francisco, plays drums and synthesizer. Adam Dieck, from Tampa, plays bass and guitar. Vocalist and songwriter Lottie Malkmus, from Portland, plays guitar and cello. Classically trained in cello, her songwriting shifted from experiments in composition to indie rock experiments.\n\n**MILLY**\n\nOriginally the solo project of Brendan Dyer, his relocation from Connecticut to Los Angeles saw the band expand to include collaborator Yarden Erez. After signing to Dangerbird Records, 2019 saw the band on tour with Swervedriver & DIIV, and in 2021 they released their acclaimed EP Wish Goes On.\n\nTo understand Eternal Ring, you have to go back to Dyer’s childhood. Learning guitar and drums from his uncle, a musician, from the age of ten, Dyer was one of the only young people in his rural Connecticut town interested in anything other than sports and other stereotypical markers of American life. Naturally, Dyer began to gravitate towards emo — the closest thing many teens have to outsider art — as an art form he could identify with, bands like Hawthorne Heights subconsciously laying the groundwork for the music he would make as an adult. “It probably only lasted a year or two that I was interested in that sort of thing, but now I feel like it’s become a thing in my life where it’s like, full circle,” he says. “When we were writing this album, and touring before writing this album, I was reconnecting with a lot of the music that I was listening to in my youth and realizing that there was a reason why I liked this music so much.”\n\nThe MILLY of Eternal Ring, though, is a vastly different project from the one Dyer began in his childhood bedroom. Where the band’s old songs were dazed and gorgeously laconic, Eternal Ring is muscular, punchy, almost alarmingly direct. You only need to hear album opener and debut single “Illuminate” to understand the change: slipping quickly from emo balladry into something heavy and intoxicatingly intense, it’s a clear marker that this is the work of a tighter, more dynamic Milly. There is no slack to these songs — even the nine-minute “Stuck In The Middle” is an impossibly taut endurance work, jumping from emotive build to gut-wrenching squall in a second."
     },
     {
       "@context": "https://schema.org",
@@ -600,6 +280,326 @@
       },
       "name": "RUBBISH Britpop, Soul, Indie Night - Free Dance Party",
       "description": "RUBBISH Britpop, Soul, Indie Night - Free Dance Party"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-06T02:00:00.000Z",
+      "endDate": "2025-04-06T05:00:00.000Z",
+      "@id": "https://link.dice.fm/h03855fb62b1?dice_id=h03855fb62b1",
+      "url": "https://link.dice.fm/h03855fb62b1?dice_id=h03855fb62b1",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-26/9524531b-0515-4043-bcdd-ef377383dd0f.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Kiah Victoria",
+      "description": "**Kiah Victoria**\n\nKiah Victoria is a powerful, soulfull songstress. Dubbed one of Billie Eilish's top 5 favorite underground artists and Jhené Aiko's favorite singer- Kiah Victoria has traveled the globe gracing audiences with her life giving performance, while also navigating the music landscape as an independent artist.\n\nAfter graduating with a BFA in Recorded Music from New York University's Tisch School Of The Arts, Kiah toured through Europe and the UK supporting artists from Amber Mark to Mahalia to Jessie Reyez.\n\nThe young song bird has garnered the attention of Pitchfork, Vevo, i-D Magazine, BBC Radio 1, Vice, Jay-Z and more. Since writing the debut single ‘Midnight’ off Jessie Ware’s Glass House album and making her NPR Tiny Desk premier alongside Oscar Winning alt-rock band Son Lux- Kiah Victoria has just released her debut album, And Then We Wept.\n\nWhether she is facilitating a sound experience, writing music for Issa’s Rae’s Insecure, or speaking on the power of mediation and the Divine- Kiah is here to raise the frequency of compassionate LOVE and share her gift with the world."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-07T01:00:00.000Z",
+      "endDate": "2025-04-07T04:00:00.000Z",
+      "@id": "https://link.dice.fm/b78daa81b123?dice_id=b78daa81b123",
+      "url": "https://link.dice.fm/b78daa81b123?dice_id=b78daa81b123",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-17/0afc34ad-33e0-4790-930c-ba2f48be3203.jpg?rect=0%2C13%2C860%2C860"
+      },
+      "name": "WEIRDO NIGHT with Dynasty Handbag",
+      "description": "**WEIRDO NIGHT with Dynasty Handbag**\n\n**Holland Andrews**\n\n**EJ Marcus**\n\n**Chloe Coover**\n\nHolland Andrews (they/them) is a vocalist, composer, producer, and performer whose work focuses on the abstraction of operatic and extended-technique voice to build cathartic and dissonant soundscapes. Andrews arranges music for voice, clarinet, and electronics and frequently highlights themes surrounding vulnerability and healing.\n\nChloe Coover is an artist, co-host of Nose Candy podcast, model/actress and elusive chanteuse. On her upcoming album (coming later this year) she wrings emotional poignancy from a selection of reimagined country covers and haunting original songs exploring love, life, and loss. Chloe is also a quadruple Leo (sun-moon-rising-mercury), armchair pop cultural anthropologist, freelance Anne Hathaway impersonator, and terminally glam doll."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-07T03:30:00.000Z",
+      "endDate": "2025-04-07T05:30:00.000Z",
+      "@id": "https://link.dice.fm/wafc8950914c?dice_id=wafc8950914c",
+      "url": "https://link.dice.fm/wafc8950914c?dice_id=wafc8950914c",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-06/e818c1cc-010c-4362-bfe1-7757876fac90.jpg?rect=0%2C201%2C1239%2C1239"
+      },
+      "name": "POINT BREAK (1991) Screening ",
+      "description": "ZED CUTSINGER & ZEBULON PRESENT\n\nZEDULON 003\n\nPOINT BREAK (1991)\n\nA sharpshooting FBI agent goes undercover as a surfer to stop a crime wave. The criminals wear rubber masks of former U.S. presidents when robbing banks.\n\nCast:\n\nKeanu Reeves, Patrick Swayze, Gary Busey, Lori Petty, John Philbin"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-08T03:00:00.000Z",
+      "endDate": "2025-04-08T06:00:00.000Z",
+      "@id": "https://link.dice.fm/J93d4bdf3169?dice_id=J93d4bdf3169",
+      "url": "https://link.dice.fm/J93d4bdf3169?dice_id=J93d4bdf3169",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-07/8c7d8127-30a4-4b40-ad35-50ab94ee6096.jpg?rect=0%2C354%2C3508%2C3508"
+      },
+      "name": "Jeremy Jay, The Crystal Tears, Ryli",
+      "description": "Jeremy Jay, The Crystal Tears, Ryli"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-09T03:00:00.000Z",
+      "endDate": "2025-04-09T06:00:00.000Z",
+      "@id": "https://link.dice.fm/W659201d27bc?dice_id=W659201d27bc",
+      "url": "https://link.dice.fm/W659201d27bc?dice_id=W659201d27bc",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-19/5215386d-20c6-4efb-92fb-a8f9f5ba2c98.jpg?rect=0%2C0%2C2400%2C2400"
+      },
+      "name": "Marshall Presents: Father Of Loud Night with Gustaf, Memo PST, Slumped",
+      "description": "**Marshall Presents: Father Of Loud Night**\n\n**Featuring Gustaf, Memo PST, Slumped**\n\nEach year on “Father Of Loud Day” Marshall honors the legacy of founder Jim Marshall by encouraging musicians and music lovers to crank up their amps and celebrate the sound of rock and roll. This year, in honor of the man who started it all and helped define the sound of a generation, Marshall is throwing a party stacked with bands that are carrying on Jim’s legacy of loud. Don’t miss it.\n\n- **Gustaf** began in 2018 as a last-minute project when Lydia Gammill and friends took an empty van to SXSW. Their raw, high-energy sound quickly made waves, leading to their 2021 debut Audio Drag for Ego Slobs, praise from Beck, and tours with Idles and Sleaford Mods. Now, their second album, Package Pt. 2, refines their post-punk edge while diving deeper into themes of self-awareness and change. Produced with Erin Tonkon (Blackstar), it channels the B-52s, Talking Heads, and No Wave’s wild spirit. Packed with sharp hooks and big questions, it’s an electrifying evolution of Gustaf’s sound.\n- Formed in 2022 by longtime collaborators Orville Neeley and Chris Shaw, **Memo PST** delivers raw, no-frills Los Angeles punk. After a self-recorded demo and a handful of California shows, they hit Discount Mirrors studio (run by John Dwyer and Eric Bauer) in May 2023 to record their debut LP—12 blasts of primitive punk, with Neeley handling songwriting and Shaw on vocals. Their debut single, I Used to Be a Pretty Boy, sold out in hours via In The Red. With a stark, unapologetic aesthetic, Memo PST is pure punk for punks, backed live by Danny Clodfelter (bass) and Jackson Todd (drums). This is just the beginning.\n- California’s **Slumped** is an alternative rock band formed in 2017 as part of the burgeoning indie scene of the east Bay Area. Informed as much by the tone and engaging songwriting of bands like Third Eye Blind and Everclear as they are by more contemporary acts like Superheaven and Tony Molina, Slumped plays rock music – full stop. Driven by screaming refrigerator guitar amps and distortion pedals, thundering drums, and roaring bass, the band’s “heavy pop songs” sound like they’re 100 stories tall, both on and off record. Existing somewhere between Weezer’s Pinkerton and Thin Lizzy’s Black Rose, Slumped is the perfect soundtrack for driving very fast into the sunset while bawling your eyes out."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-10T03:00:00.000Z",
+      "endDate": "2025-04-10T06:00:00.000Z",
+      "@id": "https://link.dice.fm/i3c9644b23fe?dice_id=i3c9644b23fe",
+      "url": "https://link.dice.fm/i3c9644b23fe?dice_id=i3c9644b23fe",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-26/59f1252f-42d2-478a-9eb9-47fca5cf0dcf.jpg?rect=0%2C669%2C3375%2C3375"
+      },
+      "name": "HARMONICS: an Eaton fire relief concert series ",
+      "description": "The Heart Dept presents…\n\n**HARMONICS**\n\nan Eaton fire relief concert series\n\nBenefiting: Rhythms of the Village\n\nDoors 8pm\n\nTickets are free!\n\nA percentage of proceeds from bar, vendor sales & all general donations will support the Rhythms of the Village community in rebuilding.\n\n**The Lineup:**\n\n- MC Supernatural (hip hop freestyle legend)\n- Emeka (Rhythms of the Village)\n- YD Nature (Hands in the Soil)\n- On Notice (community builders/band)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-11T03:00:00.000Z",
+      "endDate": "2025-04-11T06:00:00.000Z",
+      "@id": "https://link.dice.fm/o733980e4bd7?dice_id=o733980e4bd7",
+      "url": "https://link.dice.fm/o733980e4bd7?dice_id=o733980e4bd7",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-20/81195948-8233-4ec6-958a-a37d5b580bf8.jpg?rect=108%2C0%2C1065%2C1065"
+      },
+      "name": "Lael Neale \"Altogether Stranger\" Album Release Show & Film Premiere, Entrance",
+      "description": "**Lael Neale \"Altogether Stranger\" Album Release Show & Film Premiere, Entrance**\n\nLael Neale’s minimalist drone pop draws inspiration from the Transcendentalists, the alienation of modern life, and a rich array of musical influences—ranging from Dionne Warwick and John Lennon to primitive American gospel and Spacemen 3. Her expansive new record, Altogether Stranger, due May 2, was written and recorded in the early morning quiet of Los Angeles. Clocking in at just 32 minutes, the 9-song LP covers an unexpected breadth of musical and lyrical terrain—from garage rock nursery rhymes and creation myths to Motorik dance dirges and solitary Omnichord meditations. A brilliant lyricist, Neale has a unique ability to uncover the extraordinary within the mundane, tackling themes of polarity that recur throughout her work—country vs. city, humanity vs. technology, isolation vs. society. This album is her third collaboration with producer Guy Blakeslee who helps expand the tonal palette while staying true to Neale’s commitment to the raw immediacy and hand-made intimacy of home recording.\n\nReflecting on her lo-fi, D.I.Y. ethos in her newsletter Consensual Sound, she writes:\n\n“I love doing things the wrong way. It’s so rare that we get to do that in life. Even as artists, I notice a slow and steady conformity set in as musicians become legitimate. I do it too. How else would we fit into the font, size & waveform of streaming services. I rebel in minute ways—like refusing to follow a recipe. In the end, I’m just like everyone else: I want to belong.”\n\nAltogether Stranger was conceived after three years of oscillating between rural solitude and urban chaos. Neale explains: “On returning to Los Angeles I felt like an extraterrestrial landing on a dystopian planet so I’m writing from the perspective of a being from another realm witnessing the peculiarities of humanity.” The 32 minute album finds Neale perched at the piano in a hilltop bungalow, looking down on a rare curve of Sunset Blvd. Here, in this daily ritual of writing, singing, and painting—what David Lynch referred to as “the Art Life”—she creates the space for her most adventurous work to date.\n\nThe album’s centerpiece, “Tell Me How to Be Here,” paints a stark and haunting portrait of her return to Los Angeles, transmuting a dissociative unease into a woozy, dreamlike reverie, echoing the Velvet Underground with the distant chime of “Sunday Morning” bells. Neale’s crystalline voice floats above Blakeslee’s ambient tape loops and ghostly, disintegrating Mellotron, evoking the disorientation of waking up in a world that feels so ordinary it becomes strange.\n\nBorn and raised in Virginia’s idyllic countryside, Neale brought the high-lonesome sound of her home state with her when she moved to California to pursue music. After years of writing songs on guitar and playing small venues in Los Angeles, she discovered the Omnichord in 2019, which sparked a new creative direction. Working with Blakeslee, she recorded an unpolished collection of songs on a cassette 4-track, which Blakeslee sent to Sub Pop Records in March 2020. The resulting album, Acquainted With Night, struck a chord with listeners during the bizarre days of early 2021.\n\nStar Eaters Delight (2023), deepened the collaboration with Blakeslee, infusing minimalist soundscapes with a heightened electric energy. The album’s subsequent tour included sold-out shows in Los Angeles, New York City, London, and Paris, multiple trips across Europe, and a West Coast run supporting kindred spirit Weyes Blood. This marked yet another return to Los Angeles.\n\nIndeed, Los Angeles is not just the backdrop of Altogether Stranger but a lead character. The album’s accompanying film - created with Neale's faithful Sony Handycam - builds on her ongoing series of self-directed music videos and tells the story of herself as an alien in a suit of mirrors stranded on Earth. Wandering through modern-day LA she finds both absurdity and beauty in our fragile, untenable way of life.\n\n\"In the course of writing this record there was one song I could never finish. The main line was, 'I don't belong here, I am an altogether stranger.' I meant ‘stranger’ as a noun, not an adjective. Even though I abandoned the song, the lost chorus stuck with me & became the unspoken motif of the record,\" says Neale. Over the long year it took to write Altogether Stranger, she vacillated between childlike optimism and existential melancholy. While she may not have been able to reconcile these opposing states, the attempt led to an ambitious breakthrough for this singular, self-sufficient artist."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-12T02:00:00.000Z",
+      "endDate": "2025-04-12T05:00:00.000Z",
+      "@id": "https://link.dice.fm/sbc3ab3f603f?dice_id=sbc3ab3f603f",
+      "url": "https://link.dice.fm/sbc3ab3f603f?dice_id=sbc3ab3f603f",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-04/b21623fc-737c-462f-8d85-d3eec2eb1977.jpg?rect=216%2C0%2C848%2C848"
+      },
+      "name": "Walt McClements record release with special guest Cassandra Croft ",
+      "description": "Walt McClements record release with special guest Cassandra Croft"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-12T05:00:00.000Z",
+      "endDate": "2025-04-12T09:00:00.000Z",
+      "@id": "https://link.dice.fm/Iddf9a103fb8?dice_id=Iddf9a103fb8",
+      "url": "https://link.dice.fm/Iddf9a103fb8?dice_id=Iddf9a103fb8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-24/511f95e7-327e-450e-b1e5-eefb52fd697d.jpg?rect=0%2C131%2C1080%2C1080"
+      },
+      "name": "The Jump Off Dance Party",
+      "description": "**The Jump Off Dance Party**\n\nwith DJs Soulchild Seb, Nativity\n\nAn All Vinyl Affair"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-13T01:30:00.000Z",
+      "endDate": "2025-04-13T05:00:00.000Z",
+      "@id": "https://link.dice.fm/J800b011edef?dice_id=J800b011edef",
+      "url": "https://link.dice.fm/J800b011edef?dice_id=J800b011edef",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-24/501f4b1f-cd5d-4b10-b63e-4912003fc199.jpg?rect=400%2C0%2C2600%2C2600"
+      },
+      "name": "20/20",
+      "description": "**20/20 with Lannie Flowers, Danny Wilkerson**\n\nSPYDERPOP RECORDS is proud to announce the return of power pop and new wave legends 20/20, with the all-new album BACK TO CALIFORNIA. Out January 17, 2025 on Vinyl LP, CD and Streaming worldwide and featuring 11 new original songs, the album has already been previewed by a single of the title track (a solid hit on global indie radio) with the equally strong “Laurel Canyon” set to follow in December. Crafted by the band's original singer-songwriter duo of STEVE ALLEN and RON FLYNT, BACK TO CALIFORNIA stands with the very best of a beloved catalog that commenced with the band's undisputed classic self-titled debut album in 1979, and brings 20/20's music to a whole new generation of guitar pop fans and long-time followers alike."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-13T05:00:00.000Z",
+      "endDate": "2025-04-13T09:00:00.000Z",
+      "@id": "https://link.dice.fm/e043e0759494?dice_id=e043e0759494",
+      "url": "https://link.dice.fm/e043e0759494?dice_id=e043e0759494",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/6703de2d-8825-43d7-b307-76f6be7d8493.jpg?rect=0%2C0%2C1000%2C1000"
+      },
+      "name": "The Soul Shakedown with DJ Clifton",
+      "description": "The Soul Shakedown dance party with DJ Clifton"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-14T03:00:00.000Z",
+      "endDate": "2025-04-14T06:00:00.000Z",
+      "@id": "https://link.dice.fm/k6d829228432?dice_id=k6d829228432",
+      "url": "https://link.dice.fm/k6d829228432?dice_id=k6d829228432",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/60be6502-2f10-4e5f-a32f-f9726f1c8814.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Joel Shearer, Liberate Elemental Forces, Jason Simon (Dead Meadow)",
+      "description": "Joel Shearer\n\nLiberate Elemental Forces\n\nJason Simon (Dead Meadow)"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-15T02:00:00.000Z",
+      "endDate": "2025-04-15T06:00:00.000Z",
+      "@id": "https://link.dice.fm/gd7c281b1361?dice_id=gd7c281b1361",
+      "url": "https://link.dice.fm/gd7c281b1361?dice_id=gd7c281b1361",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-04/dba5871a-4c6d-44fa-93e2-66e3346157aa.jpg?rect=0%2C0%2C3000%2C3000"
+      },
+      "name": "A Sonic Tribute to Gabor Szabo ft. Jared Mattson & Bobbyy, Ray Barbee, Takoda",
+      "description": "**A Sonic Tribute to Gabor Szabo ft. Jared Mattson & Bobbyy**\n\n**Support from Ray Barbee**\n\n**Takoda**\n\nTwo boundary-pushing artists—Jared Mattson (guitarist of the Mattson 2) and Bobbyy (drummer/electronic artist of High Pulp and Sun King)—join forces to resurrect the hypnotic spirit of Hungarian jazz guitar legend Gábor Szabó. This one-of-a-kind performance blends live improvisation, breakbeats, and Szabó’s sampled licks, woven together with ambient remixes and rare archival recordings of Gábor’s voice. Expect an immersive soundscape where psych-jazz meets sample-based storytelling—a reimagining of Szabó’s legacy through a modern experimental lens. A night of deep cuts, grooves, and deep reverence. Don’t miss it."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-16T03:00:00.000Z",
+      "endDate": "2025-04-16T06:45:00.000Z",
+      "@id": "https://link.dice.fm/xfb478710503?dice_id=xfb478710503",
+      "url": "https://link.dice.fm/xfb478710503?dice_id=xfb478710503",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-01-15/c1915351-708b-4171-a5af-ab6e00633234.jpg?rect=0%2C0%2C1152%2C1152"
+      },
+      "name": "Marlon Williams",
+      "description": "Sid The Cat Presents\n\nMarlon Williams\n\nwith Le Ren\n\n4/15/2025 at Zebulon\n\n21+\n\n***Solo Show.***\n\n“Ko te reo Māori, he matapihi ki te ao Māori” goes the Māori whakatauki (proverb) that has guided Aotearoa singer/songwriter Marlon Williams’(Kāi Tahu, Ngāi Tai) fourth solo album, Te Whare Tīwekaweka. Translated, it means “The Māori language is a window to the Māori world” and expresses Marlon’s motivation behind his first te reo Māori album. “Through the process of constructing these songs,” Marlon says, “I’ve found a means of expressing my joys, sorrows and humour in a way that feels both distinctly new yet also connects me to my tīpuna \\[ancestors\\] and my whenua \\[land, home\\].”\n\nConnection lies at the heart of Te Whare Tīwekaweka, the album’s five-year process reconnecting Marlon to family, friends and his home town of Lyttelton after a globe-trotting decade establishing his career. That sense of home-coming is expressed on the cover art by Marlon’s mum, artist Jennifer Rendall, drawn when she was pregnant with the future singer and which eerily resembles an adult Marlon. The album also signifies another step in Marlon’s journey with his ancestral tongue, his ability in the language developing as the songs accumulated in the hours spent with close friend and co-writer, rapper KOMMI.\n\nThe language unlocked both a newfound lyrical honesty and a grand sonic vision. Supported by long-time touring band The Yarra Benders, co-producer Mark Perkins (Te Whānau-ā-Apanui), the He Waka Kōtuia singers and featuring a collaboration with pop star Lorde, the album traverses Marlon’s familiar folk-country-bluegrass territory, while continuing his exploration of poppier waters and the inherent rhythms of Māori music. The result is a collection at once contemporary and timeless."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-17T03:00:00.000Z",
+      "endDate": "2025-04-17T06:00:00.000Z",
+      "@id": "https://link.dice.fm/z8dd31d58ec5?dice_id=z8dd31d58ec5",
+      "url": "https://link.dice.fm/z8dd31d58ec5?dice_id=z8dd31d58ec5",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-02-07/bca80b63-9140-4b26-8a93-8bdb95cdb435.jpg?rect=0%2C54%2C1179%2C1179"
+      },
+      "name": "Clikatat Ikatowi, lowercase",
+      "description": "Clikatat Ikatowi, lowercase\n\nlowercase is a post-rock slowcore band that was started by Imaad Wasif (vocals/guitar) and Brian Girgus (drums) when they were teenagers in the Southern California desert. They released numerous singles and 3 full length LP’s between 1993-2000 on the seminal labels Amphetamine Reptile and Kill Rock Stars. Initially a duo, they enlisted a third member Tiber Scheer (bass) for their final album ‘The Going Away Present’. Over the years their music has steadily garnered a cult following. The band played shows and toured with a wide range of groups including Unwound, Sebadoh, Palace Brothers, Dirty Three, Hovercraft, Red Crayola and Faith No More. They had been on hiatus since the year 2000 but reunited in January 2025 after being asked with 3 days notice to play a show with Brainiac during the evacuation from the Altadena wildfires. Known for onstage exorcisms, minimalist counterpoint, in the best tradition of progressive hardcore; the vocals, riffs and resulting sound is a contrast of extremes and transcendent emotion."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-18T03:00:00.000Z",
+      "endDate": "2025-04-18T06:00:00.000Z",
+      "@id": "https://link.dice.fm/p3b6b0ab5128?dice_id=p3b6b0ab5128",
+      "url": "https://link.dice.fm/p3b6b0ab5128?dice_id=p3b6b0ab5128",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/zebulon-y8bv"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-04/6d15162e-1647-42c4-a00a-3d3b3995f893.jpg?rect=0%2C81%2C870%2C870"
+      },
+      "name": "Tunde Adebimpe (of TV on the Radio)",
+      "description": "Tunde Adebimpe (of TV on the Radio)"
     },
     {
       "@type": "Place",

@@ -5,306 +5,6 @@
       "@context": "https://schema.org",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-14T02:00:00.000Z",
-      "endDate": "2025-03-14T06:00:00.000Z",
-      "@id": "https://link.dice.fm/L3b076b13eef?dice_id=L3b076b13eef",
-      "url": "https://link.dice.fm/L3b076b13eef?dice_id=L3b076b13eef",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-27/e7a81afb-a79a-4850-ab8f-569f340a1c53.jpg?rect=0%2C0%2C1620%2C1620"
-      },
-      "name": "Child of Night, Crowjane, C. Corp",
-      "description": "Child of Night has cast their shadow over the underground electronic scene since 2017. They've released several cassette EPs and demos as well as one full length LP entitled \"The Walls at Dawn.\" The band has toured repeatedly since forming, performing over 150 times across the US. 2025 will see the release of their to be titled sophomore LP as well as more touring."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "dj",
-      "startDate": "2025-03-14T05:30:00.000Z",
-      "endDate": "2025-03-14T09:30:00.000Z",
-      "@id": "https://link.dice.fm/U3e943f46f4d?dice_id=U3e943f46f4d",
-      "url": "https://link.dice.fm/U3e943f46f4d?dice_id=U3e943f46f4d",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-10/4c3f63b9-05bc-4093-bc08-aa52aca9fea9.jpg?rect=0%2C300%2C2400%2C2400"
-      },
-      "name": "BREACH ft. Worship the Speakers & XQZ ME w/ residents MIÑIN & Venganza",
-      "description": "BREACH is back this Thursday, 3/13! This month we’re serving up jack’n, pumpin’, spins, and dips!\n\nCome through and hear the dynamic selections from our guests this month, @worshipthespeakers & @xqzmebeats.\n\nResidentes @de\\_minin & @venganza.riddim."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-15T02:00:00.000Z",
-      "endDate": "2025-03-15T05:00:00.000Z",
-      "@id": "https://link.dice.fm/Y41bcc976d33?dice_id=Y41bcc976d33",
-      "url": "https://link.dice.fm/Y41bcc976d33?dice_id=Y41bcc976d33",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-18/8cd72333-7252-4f88-9d8d-c8d4a7838fe0.jpg?rect=0%2C16%2C1320%2C1320"
-      },
-      "name": "Gold Rush: Wednesday Night Titans Live in LA",
-      "description": "Get transported back to the 1980s heyday of professional wrestling with Wednesday Night Titans. Under the guise of their stage personas, wrestler Ted Technical (Kevin Scott) and manager, Stix \"Hit Man\" Jenkins (Zach Danziger) the two spar with legends Hulk Hogan, Dusty Rhodes, \"Nature Boy\" Ric Flair, and more. Wednesday Night Titans delivers an innovative multi-media combination of visual elements triggered by future-fusion instrumentals."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "dj",
-      "startDate": "2025-03-15T05:30:00.000Z",
-      "endDate": "2025-03-15T09:00:00.000Z",
-      "@id": "https://link.dice.fm/t7651092a0f9?dice_id=t7651092a0f9",
-      "url": "https://link.dice.fm/t7651092a0f9?dice_id=t7651092a0f9",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-07/89f38538-0bd6-4855-b6cc-63c3d4547aa0.jpg?rect=0%2C283%2C1035%2C1035"
-      },
-      "name": "Out Of The Races And Onto The Tracks",
-      "description": "200s dance & discopunk\n\nRemember the good times\n\nMeet us in the bathroom\n\nVinyl all night long\n\nYou were there\n\nw/ special guest Daisy O'Dell"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-17T02:00:00.000Z",
-      "endDate": "2025-03-17T06:45:00.000Z",
-      "@id": "https://link.dice.fm/d3655e46a800?dice_id=d3655e46a800",
-      "url": "https://link.dice.fm/d3655e46a800?dice_id=d3655e46a800",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-26/14542b29-e905-4442-adb0-91869c9c492d.jpg?rect=0%2C0%2C1534%2C1534"
-      },
-      "name": "showlist presents DREAMPUNK",
-      "description": "showlist presents DREAMPUNK featuring Siam Jem, loophole, Ivy Hallow and y try."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-18T03:00:00.000Z",
-      "endDate": "2025-03-18T07:00:00.000Z",
-      "@id": "https://link.dice.fm/g69e96724a11?dice_id=g69e96724a11",
-      "url": "https://link.dice.fm/g69e96724a11?dice_id=g69e96724a11",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-06/4540be67-a90c-46a3-9bc3-442217566a40.jpg?rect=0%2C205%2C1802%2C1802"
-      },
-      "name": "very good™ mondays",
-      "description": "Alex Wasily's Very Good™ Mondays is back, this time with featured performances by Nate Werth, TaRon Lockett, Julian \"J3P0\" Pollack, Yay Yennings and Christian Crawford, plus an after-party with DJ Hella Soosh.\n\nThis is a night of improvised play among some of the most talented musicians in Los Angeles. Mondays have but one rule: no covers!\n\nFollow @very.good.mondays on Instagram for the latest."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-19T02:00:00.000Z",
-      "endDate": "2025-03-19T05:00:00.000Z",
-      "@id": "https://link.dice.fm/bc4fc652a9ec?dice_id=bc4fc652a9ec",
-      "url": "https://link.dice.fm/bc4fc652a9ec?dice_id=bc4fc652a9ec",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-04/60ac857a-8616-40f5-9f83-5357662d1e40.jpg?rect=0%2C0%2C1152%2C1152"
-      },
-      "name": "John Francis Flynn",
-      "description": "Sid The Cat Presents\n\nJohn Francis Flynn\n\n3/18/2025 at Gold-Diggers\n\n21+\n\nJohn Francis Flynn is a singer and multi-instrumentalist who creates contemporary music using traditional and folk material. His debut album “I Would Not Live Always” was released on Rough Trade imprint River Lea Records in 2020, earning rave reviews and winning 2 awards at the RTE Folk Awards. His second album \"Look Over the Wall, See the Sky\" has picked up where his debut left off, a bold and singular testimony that has won a nomination for Choice Album of the Year.\n\nThe critical acclaim John enjoys is in no small part thanks to his uncanny ability to masterfully unpick traditional songs and rearrange them with an emotional force. They float in a surreal space between the past and the present, the analog and the digital, between love and tragedy.The unconventional use of instruments and jagged arrangements gives the work a magnetism by drawing you into its curious orbit of experimental folk. Look Over The Wall, See The Sky is a re-imagining of traditional Irish music: powerful, hopeful and free."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-20T02:00:00.000Z",
-      "endDate": "2025-03-20T05:00:00.000Z",
-      "@id": "https://link.dice.fm/E0a3c2491261?dice_id=E0a3c2491261",
-      "url": "https://link.dice.fm/E0a3c2491261?dice_id=E0a3c2491261",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-09-18/eab1c9a8-48d4-4732-9139-8ed07118fc43.jpg?rect=0%2C0%2C1152%2C1152"
-      },
-      "name": "Charli Adams",
-      "description": "Sid The Cat Presents\n\nCharli Adams\n\nwith Fire Swimmer, b0dies\n\n3/19/2025 at Gold-Diggers\n\n21+\n\nHailing from Alabama, Charli Adams is a singer-songwriter who found her musical calling at a young age. Leaving high school to finish online in a coffee shop, Adams’ relocated to Nashville, Tennessee at 17 years old. Her makeshift college music history course was sifting through the dollar CD bin at her local record store, while immersing herself in the vibrant local scene. Testing out songs and honing her craft, she began recording her debut EP “Good At Being Young”. Her first release garnered recognition from none other than Taylor Swift, who handpicked Charli's self-penned track, \"Backseat,\" to be featured on her personally curated Women's Day Playlist on Apple Music. This co-sign marked the beginning of Charli's rise in the industry.\n\nCharli released her critically-acclaimed debut album, \"Bullseye,\" which earned high praise from respected publications such as EARMILK, DORK, The Fader, NPR, Billboard, and Line of Best Fit. Collaborations with renowned artists like Ruston Kelly, Novo Amor, and Nightly further solidified her reputation as an artist to watch. With an overflowing passion for songwriting, she has also penned songs for artists like Chloe Moriondo, Yot Club, Peach Pit, Valley & many more.\n\nCharli's musical journey might have started in her bedroom, but on the stage is where her music truly comes alive. With an unmatched ability to connect with her audience on a personal level, she quickly made a name for herself in the Nashville scene and beyond. Whether performing with her band or solo, Charli's undeniable stage presence revealed that the spotlight is her natural habitat. With a voice that resonates and a sound that captivates, Charli is an artist poised for greatness, enchanting hearts with her unique blend of haunting vocals and cinematic storytelling."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-21T02:00:00.000Z",
-      "endDate": "2025-03-21T09:00:00.000Z",
-      "@id": "https://link.dice.fm/R4096339f11e?dice_id=R4096339f11e",
-      "url": "https://link.dice.fm/R4096339f11e?dice_id=R4096339f11e",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-11/df647135-7324-4c18-b81b-360e74d055ea.jpg?rect=0%2C0%2C1080%2C1080"
-      },
-      "name": "The Factory Club Presents Wavelords & Friends",
-      "description": "The Factory Club presents Wavelords! With support from Sun Spoiler, Terabyte & Dj Esli. Show starts at 7:30pm and goes until late for a dance party consisting of Italo Disco / New Wave / Disco & Dance Classics."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-22T02:00:00.000Z",
-      "endDate": "2025-03-22T05:00:00.000Z",
-      "@id": "https://link.dice.fm/B9a88d3fd5e0?dice_id=B9a88d3fd5e0",
-      "url": "https://link.dice.fm/B9a88d3fd5e0?dice_id=B9a88d3fd5e0",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2024-11-18/77fd8b25-0d65-4b4c-9364-7e6190156ec3.jpg?rect=0%2C481%2C2000%2C2000"
-      },
-      "name": "Supertaste",
-      "description": "Sid The Cat Presents\n\nSupertaste\n\nwith My Friend Catie, Xica Soul\n\n3/21/2025 at Gold-Diggers\n\n21+\n\nSupertaste is an indie dance band from Brooklyn, NY. The trio specializes in their live ensemble performance, instrumentation, and nods to intergenerational funk, disco, and dance music influences. Through yearly retreats to a cabin in Tennessee to hone in their sound, Supertaste has developed a colossal atmosphere of sparkling synths, Chic-inspired guitar riffs, and unforgettable hooks.\n\nThe music is an exploration of life’s little moments: a carefree late night at a club, the relaxed energy of spending time with close friends, and finding the sound that hits just right at the perfect moment.\n\nWhether you run into them late night at a bodega ordering sandwiches or on-stage performing, you’ll always be met with a smile. The Supertaste Cinematic Universe only continues to expand. Expect some big moments and bigger jams.\n\nThe riffs are righteous. The shred is rambunctious. The energy? Honestly, pretty sweaty and hot. Let’s have a time.\n\nSee you on the dance floor."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "dj",
-      "startDate": "2025-03-22T05:30:00.000Z",
-      "endDate": "2025-03-22T09:30:00.000Z",
-      "@id": "https://link.dice.fm/Ge6097507411?dice_id=Ge6097507411",
-      "url": "https://link.dice.fm/Ge6097507411?dice_id=Ge6097507411",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-11/9166a1a2-fe07-47ee-9067-6cd61d2d2f76.jpg?rect=0%2C167%2C947%2C947"
-      },
-      "name": "Nag Nag Nag",
-      "description": "Nag Nag Nag\n\nPost Punk Danse Party\n\nDJ’s Unholy / Mr.Pharmacist w Special Guest"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-24T02:00:00.000Z",
-      "endDate": "2025-03-24T06:00:00.000Z",
-      "@id": "https://link.dice.fm/qa91d7f9374f?dice_id=qa91d7f9374f",
-      "url": "https://link.dice.fm/qa91d7f9374f?dice_id=qa91d7f9374f",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-06/e60752d4-c1a2-4dd0-8705-8a5e9cddba30.jpg?rect=0%2C0%2C3100%2C3100"
-      },
-      "name": "EVOCAPOP for Fire Relief",
-      "description": "EVOCAPOP for Fire Relief\n\nA Benefit Show at Gold Diggers\n\nAll ticket proceeds (and any additional donations made) will be split between CORE, LA Regional Food Bank, Pasadena Humane and to approved GoFundMe campaigns of fire victims that are under 50% funded.\n\nHosted by R E L, showlist, Sound of Earth and wide-eyed."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-25T03:00:00.000Z",
-      "endDate": "2025-03-25T07:00:00.000Z",
-      "@id": "https://link.dice.fm/afb2d86200bc?dice_id=afb2d86200bc",
-      "url": "https://link.dice.fm/afb2d86200bc?dice_id=afb2d86200bc",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-06/f86e10e6-e57c-4c71-bd1a-059e2fbcdbf5.jpg?rect=0%2C205%2C1802%2C1802"
-      },
-      "name": "very good™ mondays",
-      "description": "Alex Wasily's Very Good™ Mondays is back, this time with featured performances by MacKenzie, Pastor Funk, Chesley Cheese, Dominique Xavier and Spencer Geer, plus an after-party with DJ Stepmom.\n\nThis is a night of improvised play among some of the most talented musicians in Los Angeles. Mondays have but one rule: no covers!\n\nFollow @very.good.mondays on Instagram for the latest."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-26T02:00:00.000Z",
-      "endDate": "2025-03-26T06:45:00.000Z",
-      "@id": "https://link.dice.fm/R6fceaa455c8?dice_id=R6fceaa455c8",
-      "url": "https://link.dice.fm/R6fceaa455c8?dice_id=R6fceaa455c8",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-12/6c4836ec-3f55-4bc4-8440-1326f1be0b15.jpg?rect=0%2C300%2C2400%2C2400"
-      },
-      "name": "Visions, Substance, Freedom Curse",
-      "description": "Portland post-punk band Visions tour on their second album 'Decay' with local favorites Substance and Freedom Curse"
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "@type": "MusicEvent",
-      "startDate": "2025-03-27T02:00:00.000Z",
-      "endDate": "2025-03-27T06:00:00.000Z",
-      "@id": "https://link.dice.fm/Pf75dbd9b609?dice_id=Pf75dbd9b609",
-      "url": "https://link.dice.fm/Pf75dbd9b609?dice_id=Pf75dbd9b609",
-      "location": {
-        "@type": "Place",
-        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
-      },
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-26/4da26246-38b7-4803-8fea-d4a7416d4695.jpg?rect=0%2C0%2C1650%2C1650"
-      },
-      "name": "showlist presents TO HERE KNOWS WHEN",
-      "description": "TREMOURS formed in Los Angeles in 2021 by the duo of Lauren Andino and Glenn Fryatt. Late night jam sessions in the midst of lockdown uncertainty slowly transformed into TREMOURS creative partnership, driven by the tension between Andino’s hazy, drifting guitars and Fryatt’s urgent, pulsating drums. Since forming, TREMOURS have undertaken three full US tours, most recently supporting label mates The Dandy Warhols and LSD and the Search for God, garnering a following across North America and Europe. TREMOURS also headlined Canada’s Cherry Cult Fest and embarked on their first UK tour. Fragments is their much-anticipated debut album, released on February 7, 2025 via Little Cloud Records.\n\nHEAVEN ride a massive sonic wave in delivering their dear and dreamy tracks. Matt Sumrow and Mikey Jones created Heaven in the wake of touring and recording with artists such as DEAN and BRITTA, SWERVEDRIVER, AMBULANCE LTD, CAVEMAN, the COMAS, the LEMONHEADS, and others. Now joined by bassist Sonia Manalili, after a deep collective pandemic slumber, the NYC based trio are prepping a new release and their most somnambulistic to date. Their 3rd full length Dream Aloud will be released April 4, 2025 on Little Cloud Records."
-    },
-    {
-      "@context": "https://schema.org",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "dj",
       "startDate": "2025-03-27T05:30:00.000Z",
       "endDate": "2025-03-27T09:00:00.000Z",
@@ -365,6 +65,26 @@
       "@context": "https://schema.org",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-03-29T05:00:00.000Z",
+      "endDate": "2025-03-29T09:00:00.000Z",
+      "@id": "https://link.dice.fm/Y8c727e6ab83?dice_id=Y8c727e6ab83",
+      "url": "https://link.dice.fm/Y8c727e6ab83?dice_id=Y8c727e6ab83",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-15/d18d0477-0087-4961-9dc9-06be26c77f41.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Dopamine: A Night of Feel-Good Disco & House",
+      "description": "RSVP for FREE entry before 10:30PM, $10 at the door after 10:30PM\n\nStep into a world where time slows, the outside world fades away, and the only thing that matters is the rhythm that pulses through your body. Dopamine is more than just a party—it’s an escape, a journey into pure euphoria.\n\nAs the lights dim and the bass drops, you’ll be transported to a realm where the only thing that matters is the now. The music? Pure bliss. The DJs? Masters of their craft, spinning infectious grooves of feel-good disco and soulful house that sweep you up and carry you into the night. With each beat, the world outside evaporates, and the dancefloor becomes a sanctuary of joy."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
       "startDate": "2025-03-30T02:00:00.000Z",
       "endDate": "2025-03-30T06:00:00.000Z",
@@ -376,10 +96,90 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-04/b7b50f66-2b26-4073-a609-f6b148fa3edf.jpg?rect=0%2C500%2C4000%2C4000"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-24/0d36478a-92f6-4c55-99f4-3560f93f6040.jpg?rect=0%2C500%2C4000%2C4000"
       },
       "name": "2forever presents ACCIDENTALS",
-      "description": "2forever presents ACCIDENTALS\n\nFeaturing:\n\nSarah & Collin\n\nSally Spitz\n\nMagic Candy\n\nSheep Chase\n\nAccidentals is a night by artists for artists. It is a space to share new music, fine tune unreleased tracks, perform songs that may not fit into a main artist project, and try something new. Come listen to what Los Angeles’s left field has to offer."
+      "description": "2forever presents ACCIDENTALS\n\nFeaturing:\n\nSarah & Collin\n\nMagic Candy\n\nSheep Chase\n\nAccidentals is a night by artists for artists. It is a space to share new music, fine tune unreleased tracks, perform songs that may not fit into a main artist project, and try something new. Come listen to what Los Angeles’s left field has to offer."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-03-30T05:30:00.000Z",
+      "endDate": "2025-03-30T09:00:00.000Z",
+      "@id": "https://link.dice.fm/O48cbff2b611?dice_id=O48cbff2b611",
+      "url": "https://link.dice.fm/O48cbff2b611?dice_id=O48cbff2b611",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-25/0716c753-29d1-45a3-892b-a67350269e40.jpg?rect=0%2C141%2C1179%2C1179"
+      },
+      "name": "No Return w/ Shana Sarett and Sammie Pearson",
+      "description": "Join us for No Return! For one night only... dance floor classics. Madonna, Grace Jones, Prince, Bowie and more... With DJs Shana Sarett and Sammie Pearson"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-03-31T02:00:00.000Z",
+      "endDate": "2025-03-31T06:00:00.000Z",
+      "@id": "https://link.dice.fm/f98b863a6ea1?dice_id=f98b863a6ea1",
+      "url": "https://link.dice.fm/f98b863a6ea1?dice_id=f98b863a6ea1",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-17/8292153b-c169-4058-a89b-b9af80013c6e.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Waltapolooza ",
+      "description": "A benefit show for Walter (Spaceland) featuring Miss Lonely, Datamaps, Happy Hollows and Crooner. Plus Brian Aubert & Nikki Monninger of Silversun Pickups DJing!"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-01T03:00:00.000Z",
+      "endDate": "2025-04-01T07:00:00.000Z",
+      "@id": "https://link.dice.fm/N8824b6047fe?dice_id=N8824b6047fe",
+      "url": "https://link.dice.fm/N8824b6047fe?dice_id=N8824b6047fe",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-24/b2e2d56c-382d-47da-a0df-6943685579c4.jpg?rect=0%2C205%2C1802%2C1802"
+      },
+      "name": "very good mondays",
+      "description": "Alex Wasily's Very Good™ Mondays is back, this time with featured performances by Julius Rodriguez, Wayne Matthews, Brian Sanborn, Paul Reinhold and Roland Garcia, plus an after-party with DJ Teddy Roxpin.\n\nThis is a night of improvised play among some of the most talented musicians in Los Angeles. Mondays have but one rule: no covers!\n\nFollow @very.good.mondays on Instagram for the latest."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-02T02:00:00.000Z",
+      "endDate": "2025-04-02T06:00:00.000Z",
+      "@id": "https://link.dice.fm/k45b794eeef8?dice_id=k45b794eeef8",
+      "url": "https://link.dice.fm/k45b794eeef8?dice_id=k45b794eeef8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-21/66bacff8-0e48-4eed-8eb1-fcf9f9c78e38.jpg?rect=0%2C1000%2C4000%2C4000"
+      },
+      "name": "Rooting For You w/ Rebecca McBride, Mal.X, iaminfinite",
+      "description": "Rooting For You is a new project from singer-songwriter/producer Andrew Solis (FKA Jonah Sun). Building off of a foundation of past musical projects, failed relationships, an arsenal of analog synths and a well of emotions, RFY creates captivating songs that are best suited to be listened to while driving alone at night on an empty, foggy highway. “My goal is to reach people with my music and make them feel something, whatever that may be,” says Solis. “So much of the current state of things is meant to numb us and make us feel disconnected. But if I can make something that someone can tap into emotionally while also making it enjoyable to listen to, then I’ve done my job.”\n\n“ There’s something truly special about discovering and sharing debut singles from emerging artists. The excitement of experiencing something new and fresh is simply unparalleled. Recently, I stumbled upon an amazing indie track that left me in awe. With its dreamy instrumentals and mesmerizing synths, this song is an absolute treat for the ears. ” - Filip Zemčík via Start Track"
     },
     {
       "@context": "https://schema.org",
@@ -456,10 +256,30 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-03-12/957ceda8-73d8-4576-a1cf-3e53bb0a6936.jpg?rect=0%2C0%2C1200%2C1200"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-14/5490d942-7609-499d-8483-b632c4a5c209.jpg?rect=0%2C0%2C1200%2C1200"
       },
       "name": "Damaged Disco presents Chalk Teeth with Kontrol Inc",
-      "description": "Damaged Disco presents Chalk Teeth with Kontrol Inc"
+      "description": "Damaged Disco Presents Chalk Teeth with Kontrol Inc on Friday April 4 at Gold-Diggers! Featuring drink specials by Madre Mezcal.\n\nShoegaze-tinged, motorik dark wave. Black glass synths, washed in noise-rock guitar, with Polish vocals, propelled by relentless drum machine pulses. Chalk Teeth is a Los Angeles three piece by way of NYC and Oakland traversing iron and beaded curtains. The band features Karolina Wallace (vocals and guitar) and Adam Wallace (guitar) of Radiant Reveries with Jason Miller (synths, bass, drum programming) of Lumerians and Wet Satin.\n\nKontrol Inc. is a post punk band from the suburbs of Los Angeles."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-04-05T05:30:00.000Z",
+      "endDate": "2025-04-05T09:00:00.000Z",
+      "@id": "https://link.dice.fm/I8894c4f21be?dice_id=I8894c4f21be",
+      "url": "https://link.dice.fm/I8894c4f21be?dice_id=I8894c4f21be",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/84793b90-26dd-47ce-bfa1-b8aeac8cecf1.jpg?rect=0%2C504%2C2221%2C2221"
+      },
+      "name": "JUST A TOUCH w/ Hella Breezy and Friends",
+      "description": "JUST A TOUCH, a night of heavy house, funk & disco grooves to make your body move with DJ Hella Breezy of Chulita Vinyl Club and friends. Playing the good good all night long!\n\n@hellabreezy\n\nFREE w/ RSVP"
     },
     {
       "@context": "https://schema.org",
@@ -480,6 +300,26 @@
       },
       "name": "Grace Cummings",
       "description": "Sid The Cat Presents\n\nGrace Cummings\n\nwith Adriana McCassim\n\n4/5/2025 at Gold-Diggers\n\n21+\n\nCritically acclaimed Australian artist Grace Cummings hit a new high in 2024 with the release of third album, Ramona. “It felt like the wind of a hurricane entered the room,” said fan and new friend, Angel Olsen. “I remember feeling so activated and surprised by Grace’s vocal capacity that I actually felt my body brace itself against the wall.“\n\nAcclaimed worldwide in outlets ranging from PAPER to The Guardian, Uncut to NPR, Ramona is a work of raw truth rendered in its most beautiful form. In a departure from the self-produced approach of her 2019 debut Refuge Cove and its 2022 follow-up Storm Queen—the Melbourne-based artist worked with producer Jonathan Wilson (Angel Olsen, Father John Misty, Margo Price) at his Topanga Canyon studio to dream up a lavishly orchestrated sound that fully accommodates the depth and scope of her vocal prowess.\n\nWith its visceral reflection on grief and self-destruction and emotional violence, Ramona brings a stunning new grandeur to Cummings’ music while refusing to soften or temper its humanity. “It’s emotional and grand, like a metamorphosis in real time,” Rolling Stone."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-04-06T05:30:00.000Z",
+      "endDate": "2025-04-06T09:30:00.000Z",
+      "@id": "https://link.dice.fm/ba87253f74b3?dice_id=ba87253f74b3",
+      "url": "https://link.dice.fm/ba87253f74b3?dice_id=ba87253f74b3",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-21/ea4669a1-6c1e-41c7-a2fa-ee28c4a44d5c.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "New Gloom w/ DJs Toast, Serious Time, Character Armor",
+      "description": "Introducing New Gloom, every first Saturday at Gold-Diggers! 🌙🪩\n\nJoin us April 5th for a night of all-vinyl sets by DJs Toast, Serious Time and Character Armor 🎧 Spinning your favorite '80s, new wave, synthpop, new beat, Italo disco and more! 🦇\n\n10:30-2:00am / 21+ / no cover\n\nDJ Toast: @teiatoast / @newgloomradio\n\nDJ Serious Time: @ranking\\_ninja\n\nDJ Character Armor"
     },
     {
       "@context": "https://schema.org",
@@ -536,7 +376,7 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-02-20/0cbd2f05-6888-4b8d-9767-c864585b3bf5.jpg?rect=0%2C135%2C1080%2C1080"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-26/298e90cb-f332-415a-8d93-38964cd4532b.jpg?rect=0%2C135%2C1080%2C1080"
       },
       "name": "Shower Curtain, Mo Dotti",
       "description": "shower curtain started as the solo project of Victoria Winter in 2018 in Curitiba, Brazil, and has since developed into a indie rock four piece based out of Brooklyn, NY alongside Ethan Williams (guitar/vocals), Sean Terrell (drums), and Cody Hudgins (bass). shower curtain brings dreamy melodies to the forefront of their music, bolstered by instrumental distortion and insulated by fuzz. Their debut album ‘words from a wishing well’ was released in October 2024 via Angel Tapes/Fire Talk Records, sketching early adulthood experiences in swirling layers of guitars, bringing the sludgy distortion of 90s shoegaze and grunge and establishing shower curtain as a standout in the city’s latest crop of bands."
@@ -556,10 +396,30 @@
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://dice-media.imgix.net/attachments/2025-01-06/345a21a6-6779-4cdc-8465-b72171225b2e.jpg?rect=0%2C0%2C1600%2C1600"
+        "url": "https://dice-media.imgix.net/attachments/2025-03-22/89d6adda-3953-4cc3-8b8a-7acfbe7503ac.jpg?rect=0%2C0%2C1440%2C1440"
       },
       "name": "Stepping Stone Presents India Ramey w/ Nocona + DJ Dandy Randy",
       "description": "India Ramey blazes a trail through cinematic spaghetti western landscapes to wood floored Honkytonks and the Appalachian foothills. India’s musical journey was not typical. “Having grown up poor, there was a lot of pressure for me to ‘go to college and make money’ so I convinced myself that music was a hobby”. Ramey, a domestic violence survivor got a law degree and became a domestic violence prosecutor. “I thought if I was helping people like my Mom, I would like being a lawyer more”. Despite her love of helping people, Ramey’s love for music won in the end. She gave up her law career to become a full time musician and songwriter and has never looked back.\n\nSince then Ramey has put out five studio albums. Her 2017 album, and first national release, Snake Handler landed her on Rolling Stone's 10 New Country Artists You Need To Know list and earned her praise and attentions from American Songwriter, The Bluegrass Situation among others . Her 2020 album Shallow Graves earned her even more recognition from the likes of Ralph McClean of the BBC who said \"Ramey is a singer of the truth. Long may she shine\" and Rolling Stone who named her a pick of the week and featured a full interview and review calling her \"Part honky-tonk, part Black Sabbath\". She has been a two time SXSW and a three time Americanafest showcasing artist and recently released her fifth studio album, Baptized By The Blaze produced by Luke Wooten (The SteelDrivers, Sunny Sweeney, Deirks Bentley, Brad Paisley).\n\nReleased in August 2024, Baptized By The Blaze has taken off and is proving to be India's most successful album yet receiving high praise from Saving Country Music, No Depression, American Songwriter, The Bluegrass Situation and many more. She is touring extensively and has had the pleasure of opening for rising Outlaw Country and Americana star, Corb Lund and Grammy-nominated Maggie Rose. Ramey will start off her 2025 in the line-up of the Sirius XM Outlaw Country Cruise and has spring tour dates filling up her calendar."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-11T02:00:00.000Z",
+      "endDate": "2025-04-11T06:00:00.000Z",
+      "@id": "https://link.dice.fm/hed2e537b2f5?dice_id=hed2e537b2f5",
+      "url": "https://link.dice.fm/hed2e537b2f5?dice_id=hed2e537b2f5",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-24/793192b4-576c-4c5c-a573-7b14ccd439f6.jpg?rect=0%2C0%2C1080%2C1080"
+      },
+      "name": "Lean w/ Cathryn Lovett",
+      "description": "Earmilk described them best by saying “sonically, LEAN's clean textures, smooth and dreamy melodies wrap you up tightly and what a blissful feeling it is. LEAN takes the refreshing approach of keeping things cool and unassuming.”\n\nMcCammon and Johnson met in late 2016 and formed LEAN shortly afterward. The two bonded over their shared love of 90s hip hop and indie rock and quickly found a formula that combined these influences. \"With Stephen’s ear for hooks it came together effortlessly” McCammon said of the band's conception.\n\nAfter a stretch of singles, they made their debut with Years in the spring of 2018. In its first year as a band, Lean garnered the praise of NYLON, Indie Shuffle, IMPOSE, Buzz Bands LA: putting them on the radar of Kitsuné, and high-profile Spotify and Apple Music playlists.\n\nWhat the press has been saying about Lean:\n\n\"The perfect make-out song\" - NYLON\n\n\"Just good ol' fashioned, high quality indie pop.\" - Indie Shuffle\n\n\"Their single “Come Back” belies its facade of indie-pop insouciance; it’s a dart aimed at a poison person.\" -Buzz Bands LA"
     },
     {
       "@context": "https://schema.org",
@@ -585,6 +445,26 @@
       "@context": "https://schema.org",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-04-12T05:00:00.000Z",
+      "endDate": "2025-04-12T09:00:00.000Z",
+      "@id": "https://link.dice.fm/O19ba22a2820?dice_id=O19ba22a2820",
+      "url": "https://link.dice.fm/O19ba22a2820?dice_id=O19ba22a2820",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-27/453e6209-f0ff-494b-ab09-8c2bdd73aa8a.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Subject x Object presents: Sittin’ Sidewayz",
+      "description": "Subject x Object presents:\n\nSittin’ Sidewayz\n\nWith Djs Al Lover, Sean Cee , Rapmane Shane\n\nFeat. country rap tunes, crunk, Jiggy era, y2k r&b, & old school originals"
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "@type": "MusicEvent",
       "startDate": "2025-04-13T02:00:00.000Z",
       "endDate": "2025-04-13T06:00:00.000Z",
@@ -600,6 +480,126 @@
       },
       "name": "Desert Daze Nights: Deaf Club w/ Object of Affection",
       "description": "Desert Daze Nights presents Deaf Club w/ Object of Affection!\n\nDeaf Club is a savage sound bath dripping with sardonicism: a blastbeat-centric hardcore punk assault channeling crust, thrash, and grind (un)sensibilities. Succinct pauses, surreal frequencies and effects, breakneck pace and sharply hurled vocals characterize the band’s aesthetic, which seems as though it is rooted in a sort of nasty-sound-meets-highbrow-message ethos. Fueled by the onslaught of society’s insanity and driven mad by tinnitus, Justin Pearson (The Locust, Dead Cross, Planet B), Brian Amalfitano (ACxDC), Scott Osment (Weak Flesh), and Jason Klein (Run With The Hunted), approach music as an opportunity to confront our collective sicknesses. We’ve got to try to listen, lest we all frolic headfirst towards the bright side of death, dragging this pillaged planet down with us. So whether you think the music is a radical disruption to the airwaves or just headache-inducing noise, you can feel free to tell them the brutal truth– they can’t hear you anyway."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "dj",
+      "startDate": "2025-04-13T05:30:00.000Z",
+      "endDate": "2025-04-13T09:00:00.000Z",
+      "@id": "https://link.dice.fm/qa448c134b89?dice_id=qa448c134b89",
+      "url": "https://link.dice.fm/qa448c134b89?dice_id=qa448c134b89",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-21/a2914a9a-2367-4f42-b110-c3b98a45063f.jpg?rect=0%2C504%2C2221%2C2221"
+      },
+      "name": "Whatever Forever",
+      "description": "A night of indie sleaze, blog house, and whatever the f#%k else. With resident DJ Casio Crybaby. For one night, we're back in the dive bars and dance floors of NYC where it all began. Throw on those AA disco pants and roll in for the party."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-14T03:00:00.000Z",
+      "endDate": "2025-04-14T06:45:00.000Z",
+      "@id": "https://link.dice.fm/Xc9ab54fd995?dice_id=Xc9ab54fd995",
+      "url": "https://link.dice.fm/Xc9ab54fd995?dice_id=Xc9ab54fd995",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2024-10-14/6d949391-372c-4bfe-9a8f-efb9460673c7.jpg?rect=0%2C0%2C1152%2C1152"
+      },
+      "name": "Matthew Logan Vasquez",
+      "description": "Sid The Cat Presents\n\nMatthew Logan Vasquez\n\nwith Softjaw\n\n4/13/2025 at Gold-Diggers\n\n21+\n\nBest-known as the co-founder and frontman for shapeshifting heartland indie rockers Delta Spirit, Matthew Logan Vasquez's fiery delivery and thought-provoking lyrics draw from a huge and versatile well of influences, including Gordon Gano, Kurt Cobain, Neil Young, and Thom Yorke. As a solo artist, he juggles elements of indie rock, electronic pop, R&B, and soulful Americana, flirting with despondency, but ultimately succumbing to beatitude. Vasquez’s latest release Frank’s Full Moon Saloon - an album that delivers more raw versions of songs that span the band’s 20 year career, was released in February this year. Part 2 & 3 of the Franks series will be rolling out through 2025."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-16T02:00:00.000Z",
+      "endDate": "2025-04-16T06:00:00.000Z",
+      "@id": "https://link.dice.fm/i5c74cfe491b?dice_id=i5c74cfe491b",
+      "url": "https://link.dice.fm/i5c74cfe491b?dice_id=i5c74cfe491b",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-04/5eb5fc37-d39d-4e2d-bdc3-ea3cbb990a23.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "Cruel Diagonals, Mind Mirage, 55Castles",
+      "description": "Mind Mirage has been sonically described as an ethereal underworld. She and darkwave band 55CASTLES are both Oakland CA-based, touring the Southwest this Spring. Mind Mirage has played LA a few times (Catherine Moan, Caress, Drowse) since debuting live in 2022. This will be 55CASTLES' 1st LA show. Supporting acts are the gems Cruel Diagonals (stunning otherlands) and DJ Dolomedes (Aurat)."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-18T02:00:00.000Z",
+      "endDate": "2025-04-18T06:00:00.000Z",
+      "@id": "https://link.dice.fm/uff7b6285993?dice_id=uff7b6285993",
+      "url": "https://link.dice.fm/uff7b6285993?dice_id=uff7b6285993",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-20/675b96be-393c-4689-ae39-645b7b2b7f3f.jpg?rect=0%2C720%2C5761%2C5761"
+      },
+      "name": "The Sextones with support from The Silvertone ",
+      "description": "Founded in 2015, The Sextones built a devoted following across the West Coast before\n\nbreaking out internationally with their self-released 2017 debut album Moonlight Vision, quickly\n\nfinding success in Japan via P-Vine Records. Soon after, the band began touring extensively\n\nacross the U.S. and Europe, quickly garnering international attention from soul music fans,\n\nrecord collectors, and critics alike. A steady roster of national performances cemented their\n\nreputation as critical and festival favorites, with Okayplayer describing Moonlight Vision as “The\n\nresult of a Herculean work ethic, mixed with a Sherlock Holmes-esque attention to detail and a\n\nnuance that can be appreciated by true music lovers.” Live For Live Music detailed their musical\n\napproach, writing: “By taking classic sounds, modernizing them, and making them their own, the\n\nSextones have carved out a niche for themselves within the modern funk and soul movement,\n\nand we are digging every second of it.\" And PopDust praised the group as “A glowing reminder\n\nof where music came from, and serves as a vehicle to light a fire under a new generation.”\n\nFriends since childhood, The Sextones are Mark Sexton (guitar, vocals), Alexander Korostinsky\n\n(bass), Daniel Weiss (drums), and Christopher Sexton (piano). Having known each other for so\n\nlong, their musical chemistry is effortless and forms the foundation of the band’s longevity and\n\ncreative workflow. Despite their bond, each member has been able to channel their creativity\n\ninto other acclaimed groups—Alexander and Mark with their cinematic-soul project Whatitdo\n\nArchive Group and Daniel's recent engagement in the soul/jazz group Delvon Lamarr Organ\n\nTrio. Flexing their creative muscle individually has only strengthened The Sextones’ collective\n\nsongwriting ability and heralds their formidable return to the spotlight with their upcoming record\n\nthis fall. With their recent signing to heavy-weight soul label, Record Kicks, the self-made heroes\n\nof soul begin a new chapter in their sonic journey, ready to scale new heights and plumb deep\n\nemotional depths in service of the genre they love."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-19T02:00:00.000Z",
+      "endDate": "2025-04-19T06:00:00.000Z",
+      "@id": "https://link.dice.fm/a441ae2de3d8?dice_id=a441ae2de3d8",
+      "url": "https://link.dice.fm/a441ae2de3d8?dice_id=a441ae2de3d8",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-13/35c61461-7522-427c-b9db-aeecd52f86dc.jpg?rect=0%2C0%2C1200%2C1200"
+      },
+      "name": "Damaged Disco presents Science in Nature, Warsaw Pact and Bite Marx",
+      "description": "Damaged Disco Presents the record release show for Science in Nature (ex-Members of The Faint, Soft Kill, Moving Units) with Warsaw Pact and Bite Marx on Friday April 18 at Gold-Diggers!\n\nScience in Nature is the practice of aligning patterns with naturally occurring phenomena. Working largely without sonic or lyrical distortion and within the deliberate borders of a traditional 3-piece rock band, we exist somewhere inside the awkwardness of a new dance and the routine of strained muscle memory. Los Angeles’ Joel Petersen (ex-The Faint, Broken Spindles) is on guitar and vocals, Han-Su Kim is on bass and harmony vocals, and Danny Deleon (Soft Kill, Moving Units) is on drums. Our sum is greater than our parts. We feel tension in the spaces—and beauty in the clarity. Please enjoy with us.\n\nBringing punk back into post-punk, Warsaw Pact sits anxiously on the edge of the LA Goth scene, trading angular guitar riffs with up tempo dance-punk beats backed by a brooding bass line and the urgent yet melodramatic vocals of Ivan Delint. Originally Ivan Delint’s solo project, the band has grown to include guitarist Steven Rivera (Shrouds), drummer Lock Noble, and Luis Posadas on Bass. They have opened for touring acts including ACTORS, Pink Turns Blue, and Modern English.\n\nBite Marx founder Colin Ambulance has been creating genuine, neurotic, verbose, aphoristic, and lurid electro/synth/postpunk since 2016, with his intense live performances now accompanied by a backing band including Annette Badalian on synth."
+    },
+    {
+      "@context": "https://schema.org",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "@type": "MusicEvent",
+      "startDate": "2025-04-20T02:00:00.000Z",
+      "endDate": "2025-04-20T06:00:00.000Z",
+      "@id": "https://link.dice.fm/A9faeeb02eae?dice_id=A9faeeb02eae",
+      "url": "https://link.dice.fm/A9faeeb02eae?dice_id=A9faeeb02eae",
+      "location": {
+        "@type": "Place",
+        "@id": "https://dice.fm/venue/gold-diggers-n2mq"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://dice-media.imgix.net/attachments/2025-03-07/87c7749d-4385-43c1-b99b-52ec6e332499.jpg?rect=0%2C135%2C1080%2C1080"
+      },
+      "name": "HELL FEASTER with I Speak Machine and special guest Lana Del Rabies",
+      "description": "HELL FEASTER - I Speak Machine and Lana Del Rabies will host an Easter Eve industrial mass to summon the undead just in time for the apocalypse. Featuring operatic, screaming synthpunk and experimental gothic industrial noise for all who seek salvation."
     },
     {
       "@type": "Place",
